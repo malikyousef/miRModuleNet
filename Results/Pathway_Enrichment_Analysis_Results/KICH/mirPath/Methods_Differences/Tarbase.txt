@@ -1,0 +1,43 @@
+42 elements included exclusively in "Tarbase":
+Protein processing in endoplasmic reticulum
+Cell cycle
+Viral carcinogenesis
+Chronic myeloid leukemia
+Colorectal cancer
+RNA transport
+Non-alcoholic fatty liver disease (NAFLD)
+TNF signaling pathway
+p53 signaling pathway
+Transcriptional misregulation in cancer
+Other types of O-glycan biosynthesis
+Hepatitis B
+Epstein-Barr virus infection
+Oocyte meiosis
+Spliceosome
+Bladder cancer
+Thyroid cancer
+NF-kappa B signaling pathway
+Estrogen signaling pathway
+Central carbon metabolism in cancer
+Shigellosis
+Alzheimer's disease
+2-Oxocarboxylic acid metabolism
+Signaling pathways regulating pluripotency of stem cells
+HIF-1 signaling pathway
+Acute myeloid leukemia
+Notch signaling pathway
+RNA degradation
+MAPK signaling pathway
+HTLV-I infection
+Huntington's disease
+Lysosome
+Fc gamma R-mediated phagocytosis
+VEGF signaling pathway
+Citrate cycle (TCA cycle)
+Pyrimidine metabolism
+Nucleotide excision repair
+Choline metabolism in cancer
+Chagas disease (American trypanosomiasis)
+Steroid biosynthesis
+Epithelial cell signaling in Helicobacter pylori infection
+Pathogenic Escherichia coli infection

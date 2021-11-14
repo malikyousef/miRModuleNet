@@ -1,0 +1,114 @@
+There are 3 different pathways which only appears in LUAD : Inflammatory mediator regulation of TRP channels,Fanconi anemia pathway,Vibrio cholerae infection
+
+ECM-receptor interaction
+Pathways in cancer
+Proteoglycans in cancer
+Bacterial invasion of epithelial cells
+ErbB signaling pathway
+TGF-beta signaling pathway
+Glioma
+FoxO signaling pathway
+Hippo signaling pathway
+Glycosaminoglycan biosynthesis - keratan sulfate
+Focal adhesion
+Endocytosis
+Phosphatidylinositol signaling system
+N-Glycan biosynthesis
+Chronic myeloid leukemia
+Rap1 signaling pathway
+Lysine degradation
+Axon guidance
+AMPK signaling pathway
+Fatty acid metabolism
+Pancreatic cancer
+Renal cell carcinoma
+Small cell lung cancer
+Thyroid hormone signaling pathway
+p53 signaling pathway
+Signaling pathways regulating pluripotency of stem cells
+Fatty acid biosynthesis
+Ubiquitin mediated proteolysis
+Protein processing in endoplasmic reticulum
+Acute myeloid leukemia
+Wnt signaling pathway
+mRNA surveillance pathway
+Adherens junction
+mTOR signaling pathway
+Neurotrophin signaling pathway
+Cell cycle
+Endometrial cancer
+Non-small cell lung cancer
+Transcriptional misregulation in cancer
+Shigellosis
+Gap junction
+HTLV-I infection
+Prostate cancer
+MAPK signaling pathway
+Inositol phosphate metabolism
+Oocyte meiosis
+Mucin type O-Glycan biosynthesis
+Morphine addiction
+Glutamatergic synapse
+Ras signaling pathway
+GABAergic synapse
+Circadian entrainment
+Prolactin signaling pathway
+Platelet activation
+Adipocytokine signaling pathway
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Retrograde endocannabinoid signaling
+PI3K-Akt signaling pathway
+Melanoma
+Mineral absorption
+Long-term depression
+Cholinergic synapse
+Oxytocin signaling pathway
+Inflammatory mediator regulation of TRP channels
+Choline metabolism in cancer
+Viral carcinogenesis
+Colorectal cancer
+Spliceosome
+Fatty acid elongation
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Sphingolipid signaling pathway
+RNA transport
+Ribosome
+Hepatitis B
+TNF signaling pathway
+RNA degradation
+Alzheimer's disease
+Fatty acid degradation
+Chagas disease (American trypanosomiasis)
+SNARE interactions in vesicular transport
+Other types of O-glycan biosynthesis
+Non-alcoholic fatty liver disease (NAFLD)
+HIF-1 signaling pathway
+Lysosome
+Steroid biosynthesis
+Huntington's disease
+Oxidative phosphorylation
+Fc gamma R-mediated phagocytosis
+Estrogen signaling pathway
+Protein export
+Circadian rhythm
+Thyroid cancer
+Notch signaling pathway
+Fanconi anemia pathway
+Insulin signaling pathway
+Regulation of actin cytoskeleton
+DNA replication
+VEGF signaling pathway
+Toxoplasmosis
+Vitamin B6 metabolism
+Progesterone-mediated oocyte maturation
+Pathogenic Escherichia coli infection
+2-Oxocarboxylic acid metabolism
+Proteasome
+Legionellosis
+Prion diseases
+Citrate cycle (TCA cycle)
+Epstein-Barr virus infection
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+Vibrio cholerae infection
+Central carbon metabolism in cancer
+Sulfur metabolism

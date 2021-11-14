@@ -1,0 +1,61 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Mucin type O-Glycan biosynthesis;3.70095535235e-14;27;31
+Proteoglycans in cancer;1.80634313141e-09;155;40
+ErbB signaling pathway;1.80634313141e-09;78;41
+Fatty acid biosynthesis;2.29220920674e-05;9;14
+Arrhythmogenic right ventricular cardiomyopathy (ARVC);4.02609434036e-05;57;35
+Axon guidance;4.02609434036e-05;100;38
+Hippo signaling pathway;4.44902445074e-05;115;40
+Phosphatidylinositol signaling system;4.58225757214e-05;65;38
+Pancreatic cancer;4.58225757214e-05;56;38
+Endocytosis;5.48633528647e-05;158;41
+Renal cell carcinoma;0.000123926897781;57;39
+FoxO signaling pathway;0.000892419740217;102;39
+Adherens junction;0.000892419740217;60;39
+cAMP signaling pathway;0.000892419740217;150;41
+Focal adhesion;0.000901862225271;155;41
+TGF-beta signaling pathway;0.00120821845051;59;38
+Glioma;0.00189184946462;50;40
+Ras signaling pathway;0.00282665059841;163;40
+Endometrial cancer;0.00346237968979;43;39
+Prolactin signaling pathway;0.00364964391483;55;38
+Hepatitis B;0.00364964391483;104;41
+Signaling pathways regulating pluripotency of stem cells;0.00364964391483;105;43
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin;0.00539198225213;19;25
+Prostate cancer;0.00566383145102;69;40
+Glycosphingolipid biosynthesis - lacto and neolacto series;0.00589104152987;19;25
+Bacterial invasion of epithelial cells;0.00589104152987;61;41
+MAPK signaling pathway;0.00589104152987;180;42
+Pathways in cancer;0.00658072290336;281;43
+Acute myeloid leukemia;0.00699687620991;46;36
+Non-small cell lung cancer;0.00699687620991;44;39
+N-Glycan biosynthesis;0.00845028489888;35;34
+mTOR signaling pathway;0.00845028489888;49;37
+cGMP-PKG signaling pathway;0.00845028489888;122;39
+Amphetamine addiction;0.010199249045;49;39
+Glutamatergic synapse;0.010199249045;83;40
+Ubiquitin mediated proteolysis;0.0108548425535;103;39
+Dopaminergic synapse;0.0108548425535;95;41
+Wnt signaling pathway;0.0123147339901;104;39
+Dorso-ventral axis formation;0.0123780697158;24;35
+Sphingolipid signaling pathway;0.0123780697158;87;40
+Estrogen signaling pathway;0.0139121563724;70;40
+Gap junction;0.0140890099022;64;38
+Cholinergic synapse;0.0140890099022;83;40
+Fc gamma R-mediated phagocytosis;0.0145142842362;69;40
+Oxytocin signaling pathway;0.0145142842362;115;40
+Regulation of actin cytoskeleton;0.0145142842362;153;42
+Adrenergic signaling in cardiomyocytes;0.0149874492867;103;40
+Glycosaminoglycan biosynthesis - keratan sulfate;0.0151695975949;12;20
+Rap1 signaling pathway;0.0151695975949;149;42
+Chronic myeloid leukemia;0.0173817242242;56;39
+Thyroid hormone signaling pathway;0.0176093909007;88;39
+p53 signaling pathway;0.0187833348221;54;39
+Choline metabolism in cancer;0.0188534027684;77;38
+Inositol phosphate metabolism;0.0191975924845;47;37
+Colorectal cancer;0.0225075504945;48;40
+Aldosterone-regulated sodium reabsorption;0.0246241649338;32;32
+Neurotrophin signaling pathway;0.029025717971;89;42
+Morphine addiction;0.0290952126388;68;40
+T cell receptor signaling pathway;0.0450960997643;76;39
+Protein processing in endoplasmic reticulum;0.0495858028931;114;40

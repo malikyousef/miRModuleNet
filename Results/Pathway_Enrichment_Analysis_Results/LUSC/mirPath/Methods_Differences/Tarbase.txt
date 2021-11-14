@@ -1,0 +1,36 @@
+35 elements included exclusively in "Tarbase":
+Cell cycle
+Protein processing in endoplasmic reticulum
+Viral carcinogenesis
+Spliceosome
+RNA transport
+Epstein-Barr virus infection
+Transcriptional misregulation in cancer
+Prion diseases
+Oocyte meiosis
+HTLV-I infection
+Fatty acid metabolism
+Central carbon metabolism in cancer
+Thyroid cancer
+Circadian rhythm
+Vitamin B6 metabolism
+Bladder cancer
+DNA replication
+Ribosome
+Inositol phosphate metabolism
+Protein export
+N-Glycan biosynthesis
+Propanoate metabolism
+Basal transcription factors
+RNA degradation
+Shigellosis
+Pathogenic Escherichia coli infection
+MAPK signaling pathway
+Nucleotide excision repair
+Hedgehog signaling pathway
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Mismatch repair
+Progesterone-mediated oocyte maturation
+Terpenoid backbone biosynthesis
+NF-kappa B signaling pathway
+Fatty acid degradation

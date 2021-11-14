@@ -1,0 +1,26 @@
+25 elements included exclusively in "microT-CDS":
+Mucin type O-Glycan biosynthesis
+Morphine addiction
+Rap1 signaling pathway
+Amphetamine addiction
+GABAergic synapse
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Gap junction
+Glutamatergic synapse
+Retrograde endocannabinoid signaling
+AMPK signaling pathway
+Phosphatidylinositol signaling system
+cGMP-PKG signaling pathway
+ABC transporters
+Platelet activation
+Oxytocin signaling pathway
+Dorso-ventral axis formation
+Endocrine and other factor-regulated calcium reabsorption
+Dopaminergic synapse
+Nicotine addiction
+cAMP signaling pathway
+Adrenergic signaling in cardiomyocytes
+Thyroid hormone synthesis
+T cell receptor signaling pathway
+Cholinergic synapse
+Long-term potentiation

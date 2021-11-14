@@ -1,0 +1,114 @@
+There is only one different pathways which only appears in UCEC : Amoebiasis
+
+Proteoglycans in cancer
+ECM-receptor interaction
+Endocytosis
+N-Glycan biosynthesis
+Glycosaminoglycan biosynthesis - keratan sulfate
+ErbB signaling pathway
+Focal adhesion
+Pathways in cancer
+Axon guidance
+Bacterial invasion of epithelial cells
+Phosphatidylinositol signaling system
+Glioma
+Renal cell carcinoma
+Wnt signaling pathway
+Pancreatic cancer
+Hepatitis B
+TGF-beta signaling pathway
+Hippo signaling pathway
+FoxO signaling pathway
+Thyroid hormone signaling pathway
+Small cell lung cancer
+Lysine degradation
+Fatty acid biosynthesis
+Protein processing in endoplasmic reticulum
+Acute myeloid leukemia
+Adherens junction
+Signaling pathways regulating pluripotency of stem cells
+AMPK signaling pathway
+Endometrial cancer
+Neurotrophin signaling pathway
+Gap junction
+mRNA surveillance pathway
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+Platelet activation
+Choline metabolism in cancer
+Colorectal cancer
+MAPK signaling pathway
+Mucin type O-Glycan biosynthesis
+Rap1 signaling pathway
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Morphine addiction
+Ras signaling pathway
+GABAergic synapse
+ABC transporters
+PI3K-Akt signaling pathway
+Amphetamine addiction
+Adrenergic signaling in cardiomyocytes
+Cholinergic synapse
+Type II diabetes mellitus
+Nicotine addiction
+Endocrine and other factor-regulated calcium reabsorption
+Oxytocin signaling pathway
+Viral carcinogenesis
+Cell cycle
+Ubiquitin mediated proteolysis
+Spliceosome
+Chronic myeloid leukemia
+RNA transport
+Ribosome
+SNARE interactions in vesicular transport
+Prostate cancer
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Transcriptional misregulation in cancer
+Other types of O-glycan biosynthesis
+RNA degradation
+Oocyte meiosis
+Epstein-Barr virus infection
+mTOR signaling pathway
+Estrogen signaling pathway
+HIF-1 signaling pathway
+Non-small cell lung cancer
+Fatty acid metabolism
+Prion diseases
+Sphingolipid signaling pathway
+TNF signaling pathway
+Thyroid cancer
+DNA replication
+HTLV-I infection
+Steroid biosynthesis
+Regulation of actin cytoskeleton
+p53 signaling pathway
+Shigellosis
+Huntington's disease
+Non-alcoholic fatty liver disease (NAFLD)
+Bladder cancer
+Pathogenic Escherichia coli infection
+Terpenoid backbone biosynthesis
+Proteasome
+Inositol phosphate metabolism
+Circadian rhythm
+Fatty acid elongation
+Base excision repair
+Progesterone-mediated oocyte maturation
+Insulin signaling pathway
+Sulfur metabolism
+Chagas disease (American trypanosomiasis)
+Basal transcription factors
+Nucleotide excision repair
+Oxidative phosphorylation
+NF-kappa B signaling pathway
+Mismatch repair
+Amoebiasis
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+Protein export
+Lysosome
+Central carbon metabolism in cancer
+Alzheimer's disease
+Toxoplasmosis
+B cell receptor signaling pathway
+Citrate cycle (TCA cycle)
+2-Oxocarboxylic acid metabolism
+Apoptosis

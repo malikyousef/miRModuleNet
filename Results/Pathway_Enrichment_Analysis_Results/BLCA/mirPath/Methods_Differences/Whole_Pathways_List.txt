@@ -1,0 +1,107 @@
+There is only one different pathways which only appears in BLCA: Ribosome biogenesis in eukaryotes
+
+Proteoglycans in cancer
+N-Glycan biosynthesis
+Endocytosis
+Lysine degradation
+Protein processing in endoplasmic reticulum
+Renal cell carcinoma
+Ubiquitin mediated proteolysis
+Hippo signaling pathway
+Pathways in cancer
+Colorectal cancer
+Pancreatic cancer
+Prostate cancer
+Adherens junction
+TGF-beta signaling pathway
+Acute myeloid leukemia
+Endometrial cancer
+Glioma
+Focal adhesion
+Bacterial invasion of epithelial cells
+Thyroid hormone signaling pathway
+Non-small cell lung cancer
+ErbB signaling pathway
+Small cell lung cancer
+Wnt signaling pathway
+Signaling pathways regulating pluripotency of stem cells
+Estrogen signaling pathway
+p53 signaling pathway
+FoxO signaling pathway
+ECM-receptor interaction
+Axon guidance
+Circadian rhythm
+Inositol phosphate metabolism
+MAPK signaling pathway
+Regulation of actin cytoskeleton
+Choline metabolism in cancer
+AMPK signaling pathway
+Glycosaminoglycan biosynthesis - keratan sulfate
+Melanoma
+Viral carcinogenesis
+Cell cycle
+Fatty acid metabolism
+Chronic myeloid leukemia
+Spliceosome
+Fatty acid elongation
+Hepatitis B
+Ribosome
+Transcriptional misregulation in cancer
+Other types of O-glycan biosynthesis
+mTOR signaling pathway
+Fatty acid degradation
+Thyroid cancer
+SNARE interactions in vesicular transport
+RNA transport
+Sphingolipid signaling pathway
+HTLV-I infection
+Steroid biosynthesis
+HIF-1 signaling pathway
+TNF signaling pathway
+Proteasome
+Bladder cancer
+Oocyte meiosis
+Neurotrophin signaling pathway
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Shigellosis
+Insulin signaling pathway
+Prion diseases
+mRNA surveillance pathway
+Lysosome
+Apoptosis
+Central carbon metabolism in cancer
+Toxoplasmosis
+2-Oxocarboxylic acid metabolism
+Ribosome biogenesis in eukaryotes
+Progesterone-mediated oocyte maturation
+Chagas disease (American trypanosomiasis)
+Epstein-Barr virus infection
+Terpenoid backbone biosynthesis
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+Morphine addiction
+Phosphatidylinositol signaling system
+GABAergic synapse
+Mucin type O-Glycan biosynthesis
+Retrograde endocannabinoid signaling
+Circadian entrainment
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Ras signaling pathway
+Rap1 signaling pathway
+Fatty acid biosynthesis
+Cholinergic synapse
+Glutamatergic synapse
+Platelet activation
+Endocrine and other factor-regulated calcium reabsorption
+Oxytocin signaling pathway
+Prolactin signaling pathway
+PI3K-Akt signaling pathway
+Adrenergic signaling in cardiomyocytes
+Dorso-ventral axis formation
+cGMP-PKG signaling pathway
+T cell receptor signaling pathway
+Mineral absorption
+Gap junction
+cAMP signaling pathway
+Fc gamma R-mediated phagocytosis
+Type II diabetes mellitus
+Dopaminergic synapse

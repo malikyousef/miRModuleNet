@@ -1,0 +1,41 @@
+40 elements included exclusively in "microT-CDS":
+Viral carcinogenesis
+Cell cycle
+Fatty acid metabolism
+Chronic myeloid leukemia
+Spliceosome
+Fatty acid elongation
+Hepatitis B
+Ribosome
+Transcriptional misregulation in cancer
+Other types of O-glycan biosynthesis
+mTOR signaling pathway
+Fatty acid degradation
+Thyroid cancer
+SNARE interactions in vesicular transport
+RNA transport
+Sphingolipid signaling pathway
+HTLV-I infection
+Steroid biosynthesis
+HIF-1 signaling pathway
+TNF signaling pathway
+Proteasome
+Bladder cancer
+Oocyte meiosis
+Neurotrophin signaling pathway
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Shigellosis
+Insulin signaling pathway
+Prion diseases
+mRNA surveillance pathway
+Lysosome
+Apoptosis
+Central carbon metabolism in cancer
+Toxoplasmosis
+2-Oxocarboxylic acid metabolism
+Ribosome biogenesis in eukaryotes
+Progesterone-mediated oocyte maturation
+Chagas disease (American trypanosomiasis)
+Epstein-Barr virus infection
+Terpenoid backbone biosynthesis
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis

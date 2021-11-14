@@ -1,0 +1,58 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Mucin type O-Glycan biosynthesis;3.48509128393e-16;27;31
+Endocytosis;4.06248976399e-10;174;48
+Axon guidance;1.0520741954e-09;108;46
+Focal adhesion;7.64424471369e-06;167;48
+ECM-receptor interaction;1.12492955551e-05;61;39
+Adherens junction;1.12492955551e-05;62;44
+Proteoglycans in cancer;1.12492955551e-05;160;48
+ErbB signaling pathway;5.04504458542e-05;73;47
+Renal cell carcinoma;0.000241680244196;56;41
+Pathways in cancer;0.000241680244196;296;49
+Morphine addiction;0.000273436468255;73;46
+Thyroid hormone signaling pathway;0.000365226752237;93;47
+Hippo signaling pathway;0.000378186411701;116;46
+Lysine degradation;0.000417521440591;38;37
+Glioma;0.00125072725482;52;46
+Rap1 signaling pathway;0.00139368304206;159;46
+Amphetamine addiction;0.00147797690713;53;44
+TGF-beta signaling pathway;0.00226744306716;61;44
+GABAergic synapse;0.00246536069158;69;46
+Arrhythmogenic right ventricular cardiomyopathy (ARVC);0.00345062114556;58;43
+FoxO signaling pathway;0.00403541833384;104;45
+Neurotrophin signaling pathway;0.00405532053486;96;47
+Gap junction;0.0052574485028;68;46
+Fatty acid biosynthesis;0.00625199021944;7;15
+Wnt signaling pathway;0.00685450939741;108;49
+Glutamatergic synapse;0.00701285883116;86;46
+MAPK signaling pathway;0.00701285883116;188;49
+Retrograde endocannabinoid signaling;0.00812654465774;79;48
+p53 signaling pathway;0.0082044483172;57;44
+N-Glycan biosynthesis;0.00963994953286;36;39
+AMPK signaling pathway;0.00976411653968;94;47
+Pancreatic cancer;0.0111362315521;53;41
+Phosphatidylinositol signaling system;0.0111362315521;62;43
+Regulation of actin cytoskeleton;0.0164668407722;158;46
+cGMP-PKG signaling pathway;0.0164668407722;123;48
+Ubiquitin mediated proteolysis;0.0174016516081;106;44
+ABC transporters;0.0179253592044;37;34
+mRNA surveillance pathway;0.0179253592044;69;41
+Platelet activation;0.0191063905344;97;46
+Oxytocin signaling pathway;0.0193069727727;118;48
+Dorso-ventral axis formation;0.0224743193797;24;37
+Endocrine and other factor-regulated calcium reabsorption;0.0243751073543;36;39
+Dopaminergic synapse;0.0243751073543;99;45
+Fatty acid metabolism;0.0252741551371;33;28
+Estrogen signaling pathway;0.0252741551371;74;46
+Prolactin signaling pathway;0.0289745587812;54;42
+Nicotine addiction;0.030048920785;30;41
+Small cell lung cancer;0.0305270433402;66;43
+cAMP signaling pathway;0.0305270433402;145;46
+Adrenergic signaling in cardiomyocytes;0.0308431709523;105;48
+PI3K-Akt signaling pathway;0.0344227489238;242;49
+mTOR signaling pathway;0.0356403399248;48;44
+Thyroid hormone synthesis;0.0420283024591;52;46
+Chronic myeloid leukemia;0.04700429824;57;43
+T cell receptor signaling pathway;0.0488285964504;78;43
+Cholinergic synapse;0.0488285964504;84;47
+Long-term potentiation;0.0495819444136;52;46

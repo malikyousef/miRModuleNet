@@ -1,0 +1,107 @@
+There are only 3 pathways which appears only in KICH: Gastric acid secretion,Cell adhesion molecules (CAMs),Pyrimidine metabolism
+
+Proteoglycans in cancer
+Axon guidance
+Glycosaminoglycan biosynthesis - keratan sulfate
+Phosphatidylinositol signaling system
+FoxO signaling pathway
+ErbB signaling pathway
+Endocytosis
+Adherens junction
+Pathways in cancer
+Focal adhesion
+Thyroid hormone signaling pathway
+Lysine degradation
+Wnt signaling pathway
+Renal cell carcinoma
+N-Glycan biosynthesis
+Glioma
+Regulation of actin cytoskeleton
+Hippo signaling pathway
+Ubiquitin mediated proteolysis
+mTOR signaling pathway
+TGF-beta signaling pathway
+Inositol phosphate metabolism
+Prion diseases
+Sphingolipid signaling pathway
+Endometrial cancer
+Neurotrophin signaling pathway
+Prostate cancer
+Non-small cell lung cancer
+Bacterial invasion of epithelial cells
+Small cell lung cancer
+mRNA surveillance pathway
+Pancreatic cancer
+Morphine addiction
+ECM-receptor interaction
+AMPK signaling pathway
+Glutamatergic synapse
+Rap1 signaling pathway
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Mucin type O-Glycan biosynthesis
+GABAergic synapse
+Circadian entrainment
+Platelet activation
+Fatty acid biosynthesis
+Retrograde endocannabinoid signaling
+Ras signaling pathway
+Endocrine and other factor-regulated calcium reabsorption
+Oxytocin signaling pathway
+Adrenergic signaling in cardiomyocytes
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+Gap junction
+Cocaine addiction
+Cholinergic synapse
+Prolactin signaling pathway
+Gastric acid secretion
+PI3K-Akt signaling pathway
+Cell adhesion molecules (CAMs)
+Long-term depression
+One carbon pool by folate
+Dopaminergic synapse
+Amphetamine addiction
+Adipocytokine signaling pathway
+SNARE interactions in vesicular transport
+Insulin signaling pathway
+Protein processing in endoplasmic reticulum
+Cell cycle
+Viral carcinogenesis
+Chronic myeloid leukemia
+Colorectal cancer
+RNA transport
+Non-alcoholic fatty liver disease (NAFLD)
+TNF signaling pathway
+p53 signaling pathway
+Transcriptional misregulation in cancer
+Other types of O-glycan biosynthesis
+Hepatitis B
+Epstein-Barr virus infection
+Oocyte meiosis
+Spliceosome
+Bladder cancer
+Thyroid cancer
+NF-kappa B signaling pathway
+Estrogen signaling pathway
+Central carbon metabolism in cancer
+Shigellosis
+Alzheimer's disease
+2-Oxocarboxylic acid metabolism
+Signaling pathways regulating pluripotency of stem cells
+HIF-1 signaling pathway
+Acute myeloid leukemia
+Notch signaling pathway
+RNA degradation
+MAPK signaling pathway
+HTLV-I infection
+Huntington's disease
+Lysosome
+Fc gamma R-mediated phagocytosis
+VEGF signaling pathway
+Citrate cycle (TCA cycle)
+Pyrimidine metabolism
+Nucleotide excision repair
+Choline metabolism in cancer
+Chagas disease (American trypanosomiasis)
+Steroid biosynthesis
+Epithelial cell signaling in Helicobacter pylori infection
+Pathogenic Escherichia coli infection

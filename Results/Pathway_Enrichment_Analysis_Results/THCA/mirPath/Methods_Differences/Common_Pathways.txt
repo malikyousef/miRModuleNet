@@ -1,0 +1,45 @@
+44 common elements in "microT-CDS" and "Tarbase":
+Pancreatic cancer
+Axon guidance
+Proteoglycans in cancer
+Adherens junction
+ErbB signaling pathway
+Pathways in cancer
+Renal cell carcinoma
+FoxO signaling pathway
+Glioma
+ECM-receptor interaction
+Focal adhesion
+Endocytosis
+Hippo signaling pathway
+N-Glycan biosynthesis
+TGF-beta signaling pathway
+Thyroid hormone signaling pathway
+Protein processing in endoplasmic reticulum
+Ubiquitin mediated proteolysis
+Rap1 signaling pathway
+Chronic myeloid leukemia
+MAPK signaling pathway
+Signaling pathways regulating pluripotency of stem cells
+Choline metabolism in cancer
+Sphingolipid signaling pathway
+Colorectal cancer
+Prostate cancer
+Bacterial invasion of epithelial cells
+AMPK signaling pathway
+Neurotrophin signaling pathway
+Wnt signaling pathway
+p53 signaling pathway
+Non-small cell lung cancer
+Small cell lung cancer
+Endometrial cancer
+Estrogen signaling pathway
+Regulation of actin cytoskeleton
+Inositol phosphate metabolism
+Prion diseases
+mRNA surveillance pathway
+mTOR signaling pathway
+Viral carcinogenesis
+Fatty acid metabolism
+HTLV-I infection
+Hepatitis B

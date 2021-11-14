@@ -1,0 +1,109 @@
+There is only one different pathway which only appears in BRCA : Long-term potentiation
+
+Endocytosis
+Axon guidance
+Focal adhesion
+ECM-receptor interaction
+Adherens junction
+Proteoglycans in cancer
+ErbB signaling pathway
+Renal cell carcinoma
+Pathways in cancer
+Thyroid hormone signaling pathway
+Hippo signaling pathway
+Lysine degradation
+Glioma
+TGF-beta signaling pathway
+FoxO signaling pathway
+Neurotrophin signaling pathway
+Fatty acid biosynthesis
+Wnt signaling pathway
+MAPK signaling pathway
+p53 signaling pathway
+N-Glycan biosynthesis
+Pancreatic cancer
+Regulation of actin cytoskeleton
+Ubiquitin mediated proteolysis
+mRNA surveillance pathway
+Fatty acid metabolism
+Estrogen signaling pathway
+Prolactin signaling pathway
+Small cell lung cancer
+PI3K-Akt signaling pathway
+mTOR signaling pathway
+Chronic myeloid leukemia
+Mucin type O-Glycan biosynthesis
+Morphine addiction
+Rap1 signaling pathway
+Amphetamine addiction
+GABAergic synapse
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Gap junction
+Glutamatergic synapse
+Retrograde endocannabinoid signaling
+AMPK signaling pathway
+Phosphatidylinositol signaling system
+cGMP-PKG signaling pathway
+ABC transporters
+Platelet activation
+Oxytocin signaling pathway
+Dorso-ventral axis formation
+Endocrine and other factor-regulated calcium reabsorption
+Dopaminergic synapse
+Nicotine addiction
+cAMP signaling pathway
+Adrenergic signaling in cardiomyocytes
+Thyroid hormone synthesis
+T cell receptor signaling pathway
+Cholinergic synapse
+Long-term potentiation
+Viral carcinogenesis
+Protein processing in endoplasmic reticulum
+Cell cycle
+Hepatitis B
+TNF signaling pathway
+Colorectal cancer
+Fatty acid elongation
+Prostate cancer
+RNA transport
+Spliceosome
+Bacterial invasion of epithelial cells
+Non-small cell lung cancer
+Chagas disease (American trypanosomiasis)
+Glycosaminoglycan biosynthesis - keratan sulfate
+Sphingolipid signaling pathway
+Prion diseases
+HIF-1 signaling pathway
+Endometrial cancer
+Acute myeloid leukemia
+Bladder cancer
+HTLV-I infection
+Signaling pathways regulating pluripotency of stem cells
+Oocyte meiosis
+Steroid biosynthesis
+Central carbon metabolism in cancer
+Epstein-Barr virus infection
+NF-kappa B signaling pathway
+Shigellosis
+RNA degradation
+Other types of O-glycan biosynthesis
+SNARE interactions in vesicular transport
+Proteasome
+Fatty acid degradation
+Apoptosis
+Pathogenic Escherichia coli infection
+Ribosome
+Toxoplasmosis
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Non-alcoholic fatty liver disease (NAFLD)
+Citrate cycle (TCA cycle)
+Inositol phosphate metabolism
+Homologous recombination
+Thyroid cancer
+VEGF signaling pathway
+Progesterone-mediated oocyte maturation
+Legionellosis
+Lysosome
+Melanoma
+Sulfur metabolism
+Insulin signaling pathway

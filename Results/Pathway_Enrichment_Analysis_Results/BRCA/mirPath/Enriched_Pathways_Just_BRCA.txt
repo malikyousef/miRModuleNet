@@ -1,0 +1,52 @@
+ECM-receptor interaction
+MAPK signaling pathway
+mRNA surveillance pathway
+Fatty acid metabolism
+Prolactin signaling pathway
+PI3K-Akt signaling pathway
+Amphetamine addiction
+GABAergic synapse
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Gap junction
+Glutamatergic synapse
+Retrograde endocannabinoid signaling
+cGMP-PKG signaling pathway
+ABC transporters
+Platelet activation
+Oxytocin signaling pathway
+Dorso-ventral axis formation
+Endocrine and other factor-regulated calcium reabsorption
+Dopaminergic synapse
+Nicotine addiction
+cAMP signaling pathway
+Adrenergic signaling in cardiomyocytes
+Thyroid hormone synthesis
+T cell receptor signaling pathway
+Long-term potentiation
+Fatty acid elongation
+Chagas disease (American trypanosomiasis)
+Glycosaminoglycan biosynthesis - keratan sulfate
+Bladder cancer
+Steroid biosynthesis
+Central carbon metabolism in cancer
+NF-kappa B signaling pathway
+RNA degradation
+Other types of O-glycan biosynthesis
+SNARE interactions in vesicular transport
+Proteasome
+Fatty acid degradation
+Apoptosis
+Pathogenic Escherichia coli infection
+Ribosome
+Toxoplasmosis
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Non-alcoholic fatty liver disease (NAFLD)
+Citrate cycle (TCA cycle)
+Homologous recombination
+Thyroid cancer
+VEGF signaling pathway
+Progesterone-mediated oocyte maturation
+Legionellosis
+Lysosome
+Melanoma
+Sulfur metabolism

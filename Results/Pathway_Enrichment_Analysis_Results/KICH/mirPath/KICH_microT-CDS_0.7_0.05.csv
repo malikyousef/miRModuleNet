@@ -1,0 +1,64 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Proteoglycans in cancer;2.22021605677e-09;167;49
+Morphine addiction;3.87731583263e-06;78;48
+Axon guidance;2.51729896104e-05;106;49
+Glycosaminoglycan biosynthesis - keratan sulfate;2.7376209744e-05;14;21
+ECM-receptor interaction;2.7376209744e-05;68;45
+Phosphatidylinositol signaling system;2.7376209744e-05;68;46
+FoxO signaling pathway;2.7376209744e-05;111;48
+ErbB signaling pathway;3.15667065861e-05;74;48
+Endocytosis;3.43467481801e-05;168;48
+AMPK signaling pathway;7.64951176545e-05;103;50
+Adherens junction;0.000165016807451;64;48
+Pathways in cancer;0.000165016807451;302;50
+Focal adhesion;0.000215681839669;165;50
+Thyroid hormone signaling pathway;0.00025762974516;93;48
+Glutamatergic synapse;0.000298002617952;90;48
+Rap1 signaling pathway;0.000419228448092;166;48
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate;0.000419406728439;16;22
+Mucin type O-Glycan biosynthesis;0.000481717268482;25;35
+Lysine degradation;0.000654814312756;41;44
+GABAergic synapse;0.000654814312756;68;48
+Circadian entrainment;0.000809284486322;81;48
+Platelet activation;0.000916698507113;104;48
+Wnt signaling pathway;0.00113974528737;112;49
+Fatty acid biosynthesis;0.00136224355943;9;19
+Renal cell carcinoma;0.00136224355943;55;45
+Retrograde endocannabinoid signaling;0.00209946593856;81;48
+N-Glycan biosynthesis;0.00220367627793;38;41
+Ras signaling pathway;0.00220367627793;171;49
+Endocrine and other factor-regulated calcium reabsorption;0.0022961834916;39;46
+Oxytocin signaling pathway;0.00278341229464;124;49
+Adrenergic signaling in cardiomyocytes;0.00278341229464;111;51
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin;0.00296986448157;21;36
+Gap junction;0.00311787613701;70;46
+Glioma;0.00312994950009;52;45
+Cocaine addiction;0.00312994950009;38;47
+Regulation of actin cytoskeleton;0.00312994950009;165;48
+Hippo signaling pathway;0.0048079361118;114;49
+Cholinergic synapse;0.00699788069109;88;47
+Prolactin signaling pathway;0.00719178383566;56;45
+Ubiquitin mediated proteolysis;0.00719178383566;106;48
+Gastric acid secretion;0.00735209030533;61;47
+PI3K-Akt signaling pathway;0.0160506186619;251;52
+Cell adhesion molecules (CAMs);0.0165489493637;104;47
+mTOR signaling pathway;0.0188816015715;50;47
+TGF-beta signaling pathway;0.0188816015715;60;48
+Inositol phosphate metabolism;0.0192411414523;48;44
+Prion diseases;0.0198944369733;22;32
+Long-term depression;0.024894822961;47;45
+Sphingolipid signaling pathway;0.024894822961;90;48
+One carbon pool by folate;0.0276317111439;18;24
+Endometrial cancer;0.0278011508349;42;46
+Neurotrophin signaling pathway;0.0289762796463;94;47
+Dopaminergic synapse;0.0289762796463;102;49
+Amphetamine addiction;0.0314042454425;51;47
+Prostate cancer;0.0314042454425;69;47
+Non-small cell lung cancer;0.0319104484322;45;43
+Adipocytokine signaling pathway;0.0329580160929;55;45
+Bacterial invasion of epithelial cells;0.0329580160929;60;47
+Small cell lung cancer;0.0379642497021;67;46
+mRNA surveillance pathway;0.0386113462826;69;48
+Pancreatic cancer;0.0397765004288;52;44
+SNARE interactions in vesicular transport;0.0478795144611;26;43
+Insulin signaling pathway;0.0478795144611;106;47

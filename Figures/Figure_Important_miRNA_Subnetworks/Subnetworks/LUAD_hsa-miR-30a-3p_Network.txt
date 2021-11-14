@@ -1,0 +1,11 @@
+hsa-miR-30a-3p	pp	BMPR2
+hsa-miR-30a-3p	pp	KLF9
+hsa-miR-30a-3p	pp	PRKCE
+hsa-miR-30a-3p	pp	SLC25A39
+hsa-miR-30a-3p	pp	NECAB1
+hsa-miR-30a-3p	pp	SEMA6A
+hsa-miR-30a-3p	pp	PAFAH1B3
+hsa-miR-30a-3p	pp	PYCR1
+hsa-miR-30a-3p	pp	CHRM2
+hsa-miR-30a-3p	pp	PPP1R14B
+hsa-miR-30a-3p	pp	PAICS

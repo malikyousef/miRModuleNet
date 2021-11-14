@@ -1,0 +1,79 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Proteoglycans in cancer;3.37486951795e-16;159;33
+Protein processing in endoplasmic reticulum;2.09491610239e-15;142;33
+Cell cycle;5.80209119203e-12;103;33
+Viral carcinogenesis;1.9433379236e-09;153;32
+Renal cell carcinoma;3.77823484542e-09;60;32
+Ubiquitin mediated proteolysis;6.76257504585e-09;113;32
+Fatty acid elongation;1.82022813248e-07;17;19
+Endocytosis;2.60959745872e-06;155;33
+Colorectal cancer;4.18553530731e-06;53;29
+N-Glycan biosynthesis;9.75540748959e-06;40;30
+Acute myeloid leukemia;9.75540748959e-06;49;30
+Hippo signaling pathway;1.2093869659e-05;105;32
+Lysine degradation;1.34615463748e-05;38;33
+Pathways in cancer;1.34615463748e-05;278;33
+TGF-beta signaling pathway;1.58098399401e-05;60;31
+Oocyte meiosis;1.79135607855e-05;82;32
+Bacterial invasion of epithelial cells;2.1956722587e-05;62;31
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate;4.46419225403e-05;15;20
+Transcriptional misregulation in cancer;7.29925069783e-05;127;32
+Chronic myeloid leukemia;7.29925069783e-05;60;32
+Adherens junction;0.000109519195588;59;32
+Pancreatic cancer;0.000109519195588;54;32
+Prostate cancer;0.000132105951388;70;32
+Spliceosome;0.000162568169066;98;33
+Hepatitis B;0.000183944567173;101;32
+p53 signaling pathway;0.000200350786023;56;30
+RNA transport;0.000219049340032;124;32
+Focal adhesion;0.000394713776345;148;32
+Glioma;0.000394713776345;49;32
+HIF-1 signaling pathway;0.00061458137498;80;31
+Prion diseases;0.00071057911884;21;26
+Epstein-Barr virus infection;0.000758609764753;145;32
+HTLV-I infection;0.000823645708364;181;33
+Central carbon metabolism in cancer;0.000907117763454;52;29
+Non-alcoholic fatty liver disease (NAFLD);0.000907117763454;107;33
+Small cell lung cancer;0.00106377939242;66;32
+FoxO signaling pathway;0.00119650117253;99;32
+Phosphatidylinositol signaling system;0.00134075100877;60;29
+Homologous recombination;0.00180630953361;23;24
+mTOR signaling pathway;0.00246309500251;48;29
+Regulation of actin cytoskeleton;0.00287262621435;145;33
+Thyroid hormone signaling pathway;0.00287262621435;84;33
+Sphingolipid signaling pathway;0.00309993155663;82;31
+Non-small cell lung cancer;0.00347734099729;42;32
+TNF signaling pathway;0.0036847747048;81;31
+Endometrial cancer;0.0053465856171;40;28
+DNA replication;0.00544038035729;28;23
+Wnt signaling pathway;0.00559771151284;96;30
+Steroid biosynthesis;0.00959195608593;15;23
+Estrogen signaling pathway;0.010119967149;71;31
+Inositol phosphate metabolism;0.0123945968227;45;26
+Fatty acid metabolism;0.0131521541102;32;30
+Citrate cycle (TCA cycle);0.0146652109761;23;22
+SNARE interactions in vesicular transport;0.0150056710097;26;23
+Insulin signaling pathway;0.0150056710097;98;31
+Shigellosis;0.0150056710097;46;31
+Lysosome;0.0154105175458;83;32
+Apoptosis;0.0159160953317;65;32
+Thyroid cancer;0.0173959756064;23;26
+Neurotrophin signaling pathway;0.0202630149908;84;32
+Terpenoid backbone biosynthesis;0.0232928315713;17;19
+Glycosaminoglycan biosynthesis - keratan sulfate;0.0240513550661;11;18
+Axon guidance;0.0245479765175;82;31
+Signaling pathways regulating pluripotency of stem cells;0.0251879807242;95;32
+Huntington's disease;0.0270562335484;123;31
+ErbB signaling pathway;0.0279106091997;64;32
+ECM-receptor interaction;0.0288828885521;56;30
+Proteasome;0.0296853462619;35;28
+Fc gamma R-mediated phagocytosis;0.0296853462619;64;30
+Bladder cancer;0.0296853462619;30;30
+Ribosome;0.0296853462619;93;31
+AMPK signaling pathway;0.0296853462619;87;32
+Chagas disease (American trypanosomiasis);0.0345968622812;70;28
+Legionellosis;0.0353622392697;40;29
+Circadian rhythm;0.0372982269992;24;30
+Base excision repair;0.0403636363506;23;26
+Progesterone-mediated oocyte maturation;0.0420458675019;62;32
+Toxoplasmosis;0.044284966937;80;31

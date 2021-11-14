@@ -1,0 +1,41 @@
+40 elements included exclusively in "Tarbase":
+Cell cycle
+Viral carcinogenesis
+Fatty acid elongation
+N-Glycan biosynthesis
+Acute myeloid leukemia
+Oocyte meiosis
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Transcriptional misregulation in cancer
+Spliceosome
+RNA transport
+HIF-1 signaling pathway
+Prion diseases
+Epstein-Barr virus infection
+HTLV-I infection
+Central carbon metabolism in cancer
+Non-alcoholic fatty liver disease (NAFLD)
+Homologous recombination
+TNF signaling pathway
+DNA replication
+Steroid biosynthesis
+Estrogen signaling pathway
+Inositol phosphate metabolism
+Citrate cycle (TCA cycle)
+SNARE interactions in vesicular transport
+Insulin signaling pathway
+Shigellosis
+Lysosome
+Apoptosis
+Thyroid cancer
+Terpenoid backbone biosynthesis
+Glycosaminoglycan biosynthesis - keratan sulfate
+Huntington's disease
+Proteasome
+Bladder cancer
+Ribosome
+Chagas disease (American trypanosomiasis)
+Legionellosis
+Base excision repair
+Progesterone-mediated oocyte maturation
+Toxoplasmosis

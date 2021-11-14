@@ -1,0 +1,66 @@
+KEGG pathway;p-value;#genes;#miRNAs
+ECM-receptor interaction;4.81824893243e-13;69;41
+Proteoglycans in cancer;5.69915364547e-11;166;47
+Biosynthesis of unsaturated fatty acids;5.78869199769e-11;18;28
+Mucin type O-Glycan biosynthesis;2.43575687292e-10;28;34
+Pathways in cancer;2.20555604829e-08;325;48
+ErbB signaling pathway;2.16246134584e-07;79;47
+Focal adhesion;5.96978384833e-07;176;48
+Bacterial invasion of epithelial cells;4.31206387709e-06;69;42
+Adherens junction;4.31206387709e-06;66;43
+Ras signaling pathway;7.92646792108e-06;183;47
+Morphine addiction;7.92646792108e-06;77;47
+Rap1 signaling pathway;1.06379929569e-05;174;47
+Axon guidance;2.68006049321e-05;106;43
+Signaling pathways regulating pluripotency of stem cells;2.71109730548e-05;117;48
+GABAergic synapse;3.21389392057e-05;74;47
+Arrhythmogenic right ventricular cardiomyopathy (ARVC);5.22724459857e-05;60;40
+Thyroid hormone signaling pathway;5.67961445204e-05;99;48
+Colorectal cancer;6.85582996337e-05;55;43
+Wnt signaling pathway;0.000115042173089;116;46
+TGF-beta signaling pathway;0.000146975043038;67;46
+Regulation of actin cytoskeleton;0.000160515263599;173;47
+Glioma;0.000184737036976;55;48
+Cholinergic synapse;0.00018546213077;93;47
+AMPK signaling pathway;0.000248410229097;105;46
+Endometrial cancer;0.000377385621967;47;43
+Glutamatergic synapse;0.000593629917107;94;47
+Estrogen signaling pathway;0.000689064946033;82;46
+PI3K-Akt signaling pathway;0.000689064946033;265;48
+Hippo signaling pathway;0.000758828165172;119;47
+Fatty acid biosynthesis;0.000776461871125;10;20
+Platelet activation;0.000867641743061;105;47
+Retrograde endocannabinoid signaling;0.00125153620518;83;48
+Prostate cancer;0.00125654751797;75;47
+N-Glycan biosynthesis;0.00154482848098;40;39
+Phosphatidylinositol signaling system;0.00157906421778;67;46
+Circadian entrainment;0.00157906421778;79;47
+Acute myeloid leukemia;0.00205904971821;49;45
+Oxytocin signaling pathway;0.00205904971821;128;47
+Choline metabolism in cancer;0.00251558135686;85;47
+mTOR signaling pathway;0.00252728978623;53;46
+cGMP-PKG signaling pathway;0.00262565129627;132;47
+Protein processing in endoplasmic reticulum;0.00270251805522;131;43
+Pancreatic cancer;0.00287112097456;56;43
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin;0.00574064415832;20;36
+Adrenergic signaling in cardiomyocytes;0.00713999733177;112;48
+Gap junction;0.00864531704007;70;47
+Amphetamine addiction;0.0103526712772;53;44
+Calcium signaling pathway;0.0115383721676;139;47
+Small cell lung cancer;0.014277722973;70;43
+Renal cell carcinoma;0.014277722973;55;47
+cAMP signaling pathway;0.014277722973;154;48
+MAPK signaling pathway;0.0148905926608;195;49
+Cocaine addiction;0.0163619178537;38;44
+Non-small cell lung cancer;0.0163619178537;46;44
+Prion diseases;0.01929499035;23;32
+Melanoma;0.01929499035;59;45
+Chronic myeloid leukemia;0.01929499035;59;45
+FoxO signaling pathway;0.0209900870934;105;44
+Circadian rhythm;0.0209988124218;28;40
+Fc gamma R-mediated phagocytosis;0.0209988124218;74;43
+Neurotrophin signaling pathway;0.0285687645211;96;48
+mRNA surveillance pathway;0.0315623073072;71;46
+p53 signaling pathway;0.0316849453085;56;43
+Ubiquitin mediated proteolysis;0.0339926038381;106;46
+Thyroid hormone synthesis;0.0344352161929;55;45

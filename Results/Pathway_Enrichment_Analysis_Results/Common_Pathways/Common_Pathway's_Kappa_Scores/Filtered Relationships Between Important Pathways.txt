@@ -1,0 +1,403 @@
+Inositol phosphate metabolism	pp	Phosphatidylinositol signaling system
+Inositol phosphate metabolism	pp	Thyroid hormone signaling pathway
+ErbB signaling pathway	pp	Rap1 signaling pathway
+ErbB signaling pathway	pp	HIF-1 signaling pathway
+ErbB signaling pathway	pp	FoxO signaling pathway
+ErbB signaling pathway	pp	mTOR signaling pathway
+ErbB signaling pathway	pp	Focal adhesion
+ErbB signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+ErbB signaling pathway	pp	TNF signaling pathway
+ErbB signaling pathway	pp	Neurotrophin signaling pathway
+ErbB signaling pathway	pp	Cholinergic synapse
+ErbB signaling pathway	pp	Regulation of actin cytoskeleton
+ErbB signaling pathway	pp	Insulin signaling pathway
+ErbB signaling pathway	pp	Estrogen signaling pathway
+ErbB signaling pathway	pp	Thyroid hormone signaling pathway
+ErbB signaling pathway	pp	Bacterial invasion of epithelial cells
+ErbB signaling pathway	pp	Hepatitis B
+ErbB signaling pathway	pp	Pathways in cancer
+ErbB signaling pathway	pp	Proteoglycans in cancer
+ErbB signaling pathway	pp	Colorectal cancer
+ErbB signaling pathway	pp	Renal cell carcinoma
+ErbB signaling pathway	pp	Pancreatic cancer
+ErbB signaling pathway	pp	Endometrial cancer
+ErbB signaling pathway	pp	Glioma
+ErbB signaling pathway	pp	Prostate cancer
+ErbB signaling pathway	pp	Chronic myeloid leukemia
+ErbB signaling pathway	pp	Acute myeloid leukemia
+ErbB signaling pathway	pp	Small cell lung cancer
+ErbB signaling pathway	pp	Non-small cell lung cancer
+Rap1 signaling pathway	pp	HIF-1 signaling pathway
+Rap1 signaling pathway	pp	FoxO signaling pathway
+Rap1 signaling pathway	pp	Focal adhesion
+Rap1 signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+Rap1 signaling pathway	pp	Neurotrophin signaling pathway
+Rap1 signaling pathway	pp	Cholinergic synapse
+Rap1 signaling pathway	pp	Regulation of actin cytoskeleton
+Rap1 signaling pathway	pp	Insulin signaling pathway
+Rap1 signaling pathway	pp	Estrogen signaling pathway
+Rap1 signaling pathway	pp	Thyroid hormone signaling pathway
+Rap1 signaling pathway	pp	Pathways in cancer
+Rap1 signaling pathway	pp	Proteoglycans in cancer
+Rap1 signaling pathway	pp	Colorectal cancer
+Rap1 signaling pathway	pp	Renal cell carcinoma
+Rap1 signaling pathway	pp	Pancreatic cancer
+Rap1 signaling pathway	pp	Endometrial cancer
+Rap1 signaling pathway	pp	Glioma
+Rap1 signaling pathway	pp	Prostate cancer
+Rap1 signaling pathway	pp	Non-small cell lung cancer
+HIF-1 signaling pathway	pp	FoxO signaling pathway
+HIF-1 signaling pathway	pp	mTOR signaling pathway
+HIF-1 signaling pathway	pp	AMPK signaling pathway
+HIF-1 signaling pathway	pp	TNF signaling pathway
+HIF-1 signaling pathway	pp	Neurotrophin signaling pathway
+HIF-1 signaling pathway	pp	Cholinergic synapse
+HIF-1 signaling pathway	pp	Insulin signaling pathway
+HIF-1 signaling pathway	pp	Estrogen signaling pathway
+HIF-1 signaling pathway	pp	Thyroid hormone signaling pathway
+HIF-1 signaling pathway	pp	Hepatitis B
+HIF-1 signaling pathway	pp	Pathways in cancer
+HIF-1 signaling pathway	pp	Proteoglycans in cancer
+HIF-1 signaling pathway	pp	Colorectal cancer
+HIF-1 signaling pathway	pp	Renal cell carcinoma
+HIF-1 signaling pathway	pp	Pancreatic cancer
+HIF-1 signaling pathway	pp	Endometrial cancer
+HIF-1 signaling pathway	pp	Glioma
+HIF-1 signaling pathway	pp	Prostate cancer
+HIF-1 signaling pathway	pp	Chronic myeloid leukemia
+HIF-1 signaling pathway	pp	Acute myeloid leukemia
+HIF-1 signaling pathway	pp	Small cell lung cancer
+HIF-1 signaling pathway	pp	Non-small cell lung cancer
+FoxO signaling pathway	pp	Cell cycle
+FoxO signaling pathway	pp	mTOR signaling pathway
+FoxO signaling pathway	pp	AMPK signaling pathway
+FoxO signaling pathway	pp	Focal adhesion
+FoxO signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+FoxO signaling pathway	pp	TNF signaling pathway
+FoxO signaling pathway	pp	Neurotrophin signaling pathway
+FoxO signaling pathway	pp	Insulin signaling pathway
+FoxO signaling pathway	pp	Estrogen signaling pathway
+FoxO signaling pathway	pp	Thyroid hormone signaling pathway
+FoxO signaling pathway	pp	Hepatitis B
+FoxO signaling pathway	pp	HTLV-I infection
+FoxO signaling pathway	pp	Epstein-Barr virus infection
+FoxO signaling pathway	pp	Pathways in cancer
+FoxO signaling pathway	pp	Proteoglycans in cancer
+FoxO signaling pathway	pp	Colorectal cancer
+FoxO signaling pathway	pp	Renal cell carcinoma
+FoxO signaling pathway	pp	Pancreatic cancer
+FoxO signaling pathway	pp	Endometrial cancer
+FoxO signaling pathway	pp	Glioma
+FoxO signaling pathway	pp	Prostate cancer
+FoxO signaling pathway	pp	Chronic myeloid leukemia
+FoxO signaling pathway	pp	Acute myeloid leukemia
+FoxO signaling pathway	pp	Small cell lung cancer
+FoxO signaling pathway	pp	Non-small cell lung cancer
+Phosphatidylinositol signaling system	pp	mTOR signaling pathway
+Phosphatidylinositol signaling system	pp	Cholinergic synapse
+Phosphatidylinositol signaling system	pp	Estrogen signaling pathway
+Phosphatidylinositol signaling system	pp	Thyroid hormone signaling pathway
+Phosphatidylinositol signaling system	pp	Glioma
+Phosphatidylinositol signaling system	pp	Non-small cell lung cancer
+Cell cycle	pp	Oocyte meiosis
+Cell cycle	pp	p53 signaling pathway
+Cell cycle	pp	TGF-beta signaling pathway
+Cell cycle	pp	Hepatitis B
+Cell cycle	pp	HTLV-I infection
+Cell cycle	pp	Viral carcinogenesis
+Cell cycle	pp	Chronic myeloid leukemia
+Oocyte meiosis	pp	Cholinergic synapse
+Oocyte meiosis	pp	Estrogen signaling pathway
+Oocyte meiosis	pp	HTLV-I infection
+Oocyte meiosis	pp	Glioma
+mTOR signaling pathway	pp	AMPK signaling pathway
+mTOR signaling pathway	pp	TNF signaling pathway
+mTOR signaling pathway	pp	Neurotrophin signaling pathway
+mTOR signaling pathway	pp	Cholinergic synapse
+mTOR signaling pathway	pp	Insulin signaling pathway
+mTOR signaling pathway	pp	Estrogen signaling pathway
+mTOR signaling pathway	pp	Thyroid hormone signaling pathway
+mTOR signaling pathway	pp	Hepatitis B
+mTOR signaling pathway	pp	Proteoglycans in cancer
+mTOR signaling pathway	pp	Colorectal cancer
+mTOR signaling pathway	pp	Renal cell carcinoma
+mTOR signaling pathway	pp	Pancreatic cancer
+mTOR signaling pathway	pp	Endometrial cancer
+mTOR signaling pathway	pp	Glioma
+mTOR signaling pathway	pp	Prostate cancer
+mTOR signaling pathway	pp	Chronic myeloid leukemia
+mTOR signaling pathway	pp	Acute myeloid leukemia
+mTOR signaling pathway	pp	Small cell lung cancer
+mTOR signaling pathway	pp	Non-small cell lung cancer
+AMPK signaling pathway	pp	Insulin signaling pathway
+AMPK signaling pathway	pp	Endometrial cancer
+AMPK signaling pathway	pp	Prostate cancer
+AMPK signaling pathway	pp	Acute myeloid leukemia
+Wnt signaling pathway	pp	Hippo signaling pathway
+Wnt signaling pathway	pp	Adherens junction
+Wnt signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+Wnt signaling pathway	pp	HTLV-I infection
+Wnt signaling pathway	pp	Pathways in cancer
+Wnt signaling pathway	pp	Proteoglycans in cancer
+Wnt signaling pathway	pp	Colorectal cancer
+TGF-beta signaling pathway	pp	Hippo signaling pathway
+TGF-beta signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+TGF-beta signaling pathway	pp	Colorectal cancer
+Hippo signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+Hippo signaling pathway	pp	HTLV-I infection
+Hippo signaling pathway	pp	Pathways in cancer
+Hippo signaling pathway	pp	Proteoglycans in cancer
+Hippo signaling pathway	pp	Colorectal cancer
+Focal adhesion	pp	Neurotrophin signaling pathway
+Focal adhesion	pp	Regulation of actin cytoskeleton
+Focal adhesion	pp	Insulin signaling pathway
+Focal adhesion	pp	Estrogen signaling pathway
+Focal adhesion	pp	Thyroid hormone signaling pathway
+Focal adhesion	pp	Bacterial invasion of epithelial cells
+Focal adhesion	pp	Pathways in cancer
+Focal adhesion	pp	Proteoglycans in cancer
+Focal adhesion	pp	Colorectal cancer
+Focal adhesion	pp	Renal cell carcinoma
+Focal adhesion	pp	Pancreatic cancer
+Focal adhesion	pp	Endometrial cancer
+Focal adhesion	pp	Glioma
+Focal adhesion	pp	Prostate cancer
+Focal adhesion	pp	Chronic myeloid leukemia
+Focal adhesion	pp	Acute myeloid leukemia
+Focal adhesion	pp	Small cell lung cancer
+Focal adhesion	pp	Non-small cell lung cancer
+Adherens junction	pp	Bacterial invasion of epithelial cells
+Adherens junction	pp	Shigellosis
+Adherens junction	pp	Colorectal cancer
+Adherens junction	pp	Pancreatic cancer
+Adherens junction	pp	Endometrial cancer
+Adherens junction	pp	Prostate cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Neurotrophin signaling pathway
+Signaling pathways regulating pluripotency of stem cells	pp	Estrogen signaling pathway
+Signaling pathways regulating pluripotency of stem cells	pp	Thyroid hormone signaling pathway
+Signaling pathways regulating pluripotency of stem cells	pp	Hepatitis B
+Signaling pathways regulating pluripotency of stem cells	pp	HTLV-I infection
+Signaling pathways regulating pluripotency of stem cells	pp	Pathways in cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Proteoglycans in cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Colorectal cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Renal cell carcinoma
+Signaling pathways regulating pluripotency of stem cells	pp	Pancreatic cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Endometrial cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Glioma
+Signaling pathways regulating pluripotency of stem cells	pp	Prostate cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Chronic myeloid leukemia
+Signaling pathways regulating pluripotency of stem cells	pp	Acute myeloid leukemia
+Signaling pathways regulating pluripotency of stem cells	pp	Non-small cell lung cancer
+TNF signaling pathway	pp	Neurotrophin signaling pathway
+TNF signaling pathway	pp	Cholinergic synapse
+TNF signaling pathway	pp	Estrogen signaling pathway
+TNF signaling pathway	pp	Shigellosis
+TNF signaling pathway	pp	Hepatitis B
+TNF signaling pathway	pp	HTLV-I infection
+TNF signaling pathway	pp	Epstein-Barr virus infection
+TNF signaling pathway	pp	Viral carcinogenesis
+TNF signaling pathway	pp	Colorectal cancer
+TNF signaling pathway	pp	Renal cell carcinoma
+TNF signaling pathway	pp	Pancreatic cancer
+TNF signaling pathway	pp	Endometrial cancer
+TNF signaling pathway	pp	Prostate cancer
+TNF signaling pathway	pp	Chronic myeloid leukemia
+TNF signaling pathway	pp	Acute myeloid leukemia
+TNF signaling pathway	pp	Small cell lung cancer
+TNF signaling pathway	pp	Non-small cell lung cancer
+Neurotrophin signaling pathway	pp	Cholinergic synapse
+Neurotrophin signaling pathway	pp	Insulin signaling pathway
+Neurotrophin signaling pathway	pp	Estrogen signaling pathway
+Neurotrophin signaling pathway	pp	Thyroid hormone signaling pathway
+Neurotrophin signaling pathway	pp	Bacterial invasion of epithelial cells
+Neurotrophin signaling pathway	pp	Shigellosis
+Neurotrophin signaling pathway	pp	Hepatitis B
+Neurotrophin signaling pathway	pp	Epstein-Barr virus infection
+Neurotrophin signaling pathway	pp	Pathways in cancer
+Neurotrophin signaling pathway	pp	Proteoglycans in cancer
+Neurotrophin signaling pathway	pp	Colorectal cancer
+Neurotrophin signaling pathway	pp	Renal cell carcinoma
+Neurotrophin signaling pathway	pp	Pancreatic cancer
+Neurotrophin signaling pathway	pp	Endometrial cancer
+Neurotrophin signaling pathway	pp	Glioma
+Neurotrophin signaling pathway	pp	Prostate cancer
+Neurotrophin signaling pathway	pp	Chronic myeloid leukemia
+Neurotrophin signaling pathway	pp	Acute myeloid leukemia
+Neurotrophin signaling pathway	pp	Small cell lung cancer
+Neurotrophin signaling pathway	pp	Non-small cell lung cancer
+Cholinergic synapse	pp	Insulin signaling pathway
+Cholinergic synapse	pp	Estrogen signaling pathway
+Cholinergic synapse	pp	Thyroid hormone signaling pathway
+Cholinergic synapse	pp	Morphine addiction
+Cholinergic synapse	pp	Hepatitis B
+Cholinergic synapse	pp	Pathways in cancer
+Cholinergic synapse	pp	Proteoglycans in cancer
+Cholinergic synapse	pp	Colorectal cancer
+Cholinergic synapse	pp	Renal cell carcinoma
+Cholinergic synapse	pp	Pancreatic cancer
+Cholinergic synapse	pp	Endometrial cancer
+Cholinergic synapse	pp	Glioma
+Cholinergic synapse	pp	Prostate cancer
+Cholinergic synapse	pp	Chronic myeloid leukemia
+Cholinergic synapse	pp	Acute myeloid leukemia
+Cholinergic synapse	pp	Non-small cell lung cancer
+Regulation of actin cytoskeleton	pp	Bacterial invasion of epithelial cells
+Regulation of actin cytoskeleton	pp	Shigellosis
+Regulation of actin cytoskeleton	pp	Pathways in cancer
+Regulation of actin cytoskeleton	pp	Proteoglycans in cancer
+Regulation of actin cytoskeleton	pp	Renal cell carcinoma
+Regulation of actin cytoskeleton	pp	Endometrial cancer
+Regulation of actin cytoskeleton	pp	Glioma
+Regulation of actin cytoskeleton	pp	Prostate cancer
+Regulation of actin cytoskeleton	pp	Non-small cell lung cancer
+Insulin signaling pathway	pp	Estrogen signaling pathway
+Insulin signaling pathway	pp	Thyroid hormone signaling pathway
+Insulin signaling pathway	pp	Hepatitis B
+Insulin signaling pathway	pp	Proteoglycans in cancer
+Insulin signaling pathway	pp	Colorectal cancer
+Insulin signaling pathway	pp	Renal cell carcinoma
+Insulin signaling pathway	pp	Pancreatic cancer
+Insulin signaling pathway	pp	Endometrial cancer
+Insulin signaling pathway	pp	Glioma
+Insulin signaling pathway	pp	Prostate cancer
+Insulin signaling pathway	pp	Chronic myeloid leukemia
+Insulin signaling pathway	pp	Acute myeloid leukemia
+Insulin signaling pathway	pp	Non-small cell lung cancer
+Estrogen signaling pathway	pp	Thyroid hormone signaling pathway
+Estrogen signaling pathway	pp	Morphine addiction
+Estrogen signaling pathway	pp	Hepatitis B
+Estrogen signaling pathway	pp	HTLV-I infection
+Estrogen signaling pathway	pp	Pathways in cancer
+Estrogen signaling pathway	pp	Viral carcinogenesis
+Estrogen signaling pathway	pp	Proteoglycans in cancer
+Estrogen signaling pathway	pp	Colorectal cancer
+Estrogen signaling pathway	pp	Renal cell carcinoma
+Estrogen signaling pathway	pp	Pancreatic cancer
+Estrogen signaling pathway	pp	Endometrial cancer
+Estrogen signaling pathway	pp	Glioma
+Estrogen signaling pathway	pp	Prostate cancer
+Estrogen signaling pathway	pp	Chronic myeloid leukemia
+Estrogen signaling pathway	pp	Acute myeloid leukemia
+Estrogen signaling pathway	pp	Non-small cell lung cancer
+Thyroid hormone signaling pathway	pp	Hepatitis B
+Thyroid hormone signaling pathway	pp	Pathways in cancer
+Thyroid hormone signaling pathway	pp	Viral carcinogenesis
+Thyroid hormone signaling pathway	pp	Proteoglycans in cancer
+Thyroid hormone signaling pathway	pp	Colorectal cancer
+Thyroid hormone signaling pathway	pp	Renal cell carcinoma
+Thyroid hormone signaling pathway	pp	Pancreatic cancer
+Thyroid hormone signaling pathway	pp	Endometrial cancer
+Thyroid hormone signaling pathway	pp	Glioma
+Thyroid hormone signaling pathway	pp	Prostate cancer
+Thyroid hormone signaling pathway	pp	Chronic myeloid leukemia
+Thyroid hormone signaling pathway	pp	Acute myeloid leukemia
+Thyroid hormone signaling pathway	pp	Small cell lung cancer
+Thyroid hormone signaling pathway	pp	Non-small cell lung cancer
+Bacterial invasion of epithelial cells	pp	Shigellosis
+Bacterial invasion of epithelial cells	pp	Proteoglycans in cancer
+Bacterial invasion of epithelial cells	pp	Renal cell carcinoma
+Bacterial invasion of epithelial cells	pp	Endometrial cancer
+Bacterial invasion of epithelial cells	pp	Glioma
+Bacterial invasion of epithelial cells	pp	Chronic myeloid leukemia
+Shigellosis	pp	Pancreatic cancer
+Shigellosis	pp	Chronic myeloid leukemia
+Hepatitis B	pp	HTLV-I infection
+Hepatitis B	pp	Epstein-Barr virus infection
+Hepatitis B	pp	Pathways in cancer
+Hepatitis B	pp	Viral carcinogenesis
+Hepatitis B	pp	Proteoglycans in cancer
+Hepatitis B	pp	Colorectal cancer
+Hepatitis B	pp	Renal cell carcinoma
+Hepatitis B	pp	Pancreatic cancer
+Hepatitis B	pp	Endometrial cancer
+Hepatitis B	pp	Glioma
+Hepatitis B	pp	Prostate cancer
+Hepatitis B	pp	Chronic myeloid leukemia
+Hepatitis B	pp	Acute myeloid leukemia
+Hepatitis B	pp	Small cell lung cancer
+Hepatitis B	pp	Non-small cell lung cancer
+HTLV-I infection	pp	Epstein-Barr virus infection
+HTLV-I infection	pp	Pathways in cancer
+HTLV-I infection	pp	Viral carcinogenesis
+HTLV-I infection	pp	Proteoglycans in cancer
+HTLV-I infection	pp	Colorectal cancer
+HTLV-I infection	pp	Pancreatic cancer
+HTLV-I infection	pp	Glioma
+HTLV-I infection	pp	Prostate cancer
+HTLV-I infection	pp	Chronic myeloid leukemia
+Epstein-Barr virus infection	pp	Viral carcinogenesis
+Epstein-Barr virus infection	pp	Pancreatic cancer
+Epstein-Barr virus infection	pp	Prostate cancer
+Epstein-Barr virus infection	pp	Chronic myeloid leukemia
+Epstein-Barr virus infection	pp	Small cell lung cancer
+Pathways in cancer	pp	Viral carcinogenesis
+Pathways in cancer	pp	Proteoglycans in cancer
+Pathways in cancer	pp	Colorectal cancer
+Pathways in cancer	pp	Renal cell carcinoma
+Pathways in cancer	pp	Pancreatic cancer
+Pathways in cancer	pp	Endometrial cancer
+Pathways in cancer	pp	Glioma
+Pathways in cancer	pp	Prostate cancer
+Pathways in cancer	pp	Chronic myeloid leukemia
+Pathways in cancer	pp	Acute myeloid leukemia
+Pathways in cancer	pp	Small cell lung cancer
+Pathways in cancer	pp	Non-small cell lung cancer
+Viral carcinogenesis	pp	Pancreatic cancer
+Viral carcinogenesis	pp	Glioma
+Viral carcinogenesis	pp	Prostate cancer
+Viral carcinogenesis	pp	Chronic myeloid leukemia
+Viral carcinogenesis	pp	Acute myeloid leukemia
+Viral carcinogenesis	pp	Small cell lung cancer
+Proteoglycans in cancer	pp	Colorectal cancer
+Proteoglycans in cancer	pp	Renal cell carcinoma
+Proteoglycans in cancer	pp	Pancreatic cancer
+Proteoglycans in cancer	pp	Endometrial cancer
+Proteoglycans in cancer	pp	Glioma
+Proteoglycans in cancer	pp	Prostate cancer
+Proteoglycans in cancer	pp	Chronic myeloid leukemia
+Proteoglycans in cancer	pp	Acute myeloid leukemia
+Proteoglycans in cancer	pp	Non-small cell lung cancer
+Colorectal cancer	pp	Renal cell carcinoma
+Colorectal cancer	pp	Pancreatic cancer
+Colorectal cancer	pp	Endometrial cancer
+Colorectal cancer	pp	Glioma
+Colorectal cancer	pp	Prostate cancer
+Colorectal cancer	pp	Chronic myeloid leukemia
+Colorectal cancer	pp	Acute myeloid leukemia
+Colorectal cancer	pp	Small cell lung cancer
+Colorectal cancer	pp	Non-small cell lung cancer
+Renal cell carcinoma	pp	Pancreatic cancer
+Renal cell carcinoma	pp	Endometrial cancer
+Renal cell carcinoma	pp	Glioma
+Renal cell carcinoma	pp	Prostate cancer
+Renal cell carcinoma	pp	Chronic myeloid leukemia
+Renal cell carcinoma	pp	Acute myeloid leukemia
+Renal cell carcinoma	pp	Non-small cell lung cancer
+Pancreatic cancer	pp	Endometrial cancer
+Pancreatic cancer	pp	Glioma
+Pancreatic cancer	pp	Prostate cancer
+Pancreatic cancer	pp	Chronic myeloid leukemia
+Pancreatic cancer	pp	Acute myeloid leukemia
+Pancreatic cancer	pp	Small cell lung cancer
+Pancreatic cancer	pp	Non-small cell lung cancer
+Endometrial cancer	pp	Glioma
+Endometrial cancer	pp	Prostate cancer
+Endometrial cancer	pp	Chronic myeloid leukemia
+Endometrial cancer	pp	Acute myeloid leukemia
+Endometrial cancer	pp	Small cell lung cancer
+Endometrial cancer	pp	Non-small cell lung cancer
+Glioma	pp	Prostate cancer
+Glioma	pp	Chronic myeloid leukemia
+Glioma	pp	Acute myeloid leukemia
+Glioma	pp	Small cell lung cancer
+Glioma	pp	Non-small cell lung cancer
+Prostate cancer	pp	Chronic myeloid leukemia
+Prostate cancer	pp	Acute myeloid leukemia
+Prostate cancer	pp	Small cell lung cancer
+Prostate cancer	pp	Non-small cell lung cancer
+Chronic myeloid leukemia	pp	Acute myeloid leukemia
+Chronic myeloid leukemia	pp	Small cell lung cancer
+Chronic myeloid leukemia	pp	Non-small cell lung cancer
+Acute myeloid leukemia	pp	Small cell lung cancer
+Acute myeloid leukemia	pp	Non-small cell lung cancer
+Small cell lung cancer	pp	Non-small cell lung cancer

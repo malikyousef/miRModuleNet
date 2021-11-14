@@ -1,0 +1,103 @@
+There are 3 different pathways which only appears in PRAD : Biosynthesis of unsaturated fatty acids,Calcium signaling pathway,Alanine Aspartate and Glutamate Metabolism
+
+ECM-receptor interaction
+Proteoglycans in cancer
+Pathways in cancer
+ErbB signaling pathway
+Focal adhesion
+Bacterial invasion of epithelial cells
+Adherens junction
+Signaling pathways regulating pluripotency of stem cells
+Thyroid hormone signaling pathway
+Colorectal cancer
+Wnt signaling pathway
+TGF-beta signaling pathway
+Regulation of actin cytoskeleton
+Glioma
+AMPK signaling pathway
+Endometrial cancer
+Estrogen signaling pathway
+Hippo signaling pathway
+Platelet activation
+Prostate cancer
+N-Glycan biosynthesis
+Phosphatidylinositol signaling system
+Acute myeloid leukemia
+mTOR signaling pathway
+Protein processing in endoplasmic reticulum
+Pancreatic cancer
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+Small cell lung cancer
+Renal cell carcinoma
+Non-small cell lung cancer
+Prion diseases
+Chronic myeloid leukemia
+FoxO signaling pathway
+Circadian rhythm
+Neurotrophin signaling pathway
+mRNA surveillance pathway
+p53 signaling pathway
+Ubiquitin mediated proteolysis
+Biosynthesis of unsaturated fatty acids
+Mucin type O-Glycan biosynthesis
+Ras signaling pathway
+Morphine addiction
+Rap1 signaling pathway
+Axon guidance
+GABAergic synapse
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Cholinergic synapse
+Glutamatergic synapse
+PI3K-Akt signaling pathway
+Fatty acid biosynthesis
+Retrograde endocannabinoid signaling
+Circadian entrainment
+Oxytocin signaling pathway
+Choline metabolism in cancer
+cGMP-PKG signaling pathway
+Adrenergic signaling in cardiomyocytes
+Gap junction
+Amphetamine addiction
+Calcium signaling pathway
+cAMP signaling pathway
+MAPK signaling pathway
+Cocaine addiction
+Melanoma
+Fc gamma R-mediated phagocytosis
+Thyroid hormone synthesis
+Viral carcinogenesis
+Cell cycle
+Endocytosis
+Fatty acid metabolism
+Fatty acid degradation
+Lysine degradation
+Spliceosome
+RNA transport
+Shigellosis
+Sphingolipid signaling pathway
+Steroid biosynthesis
+HIF-1 signaling pathway
+Oocyte meiosis
+Transcriptional misregulation in cancer
+Hepatitis B
+Citrate cycle (TCA cycle)
+TNF signaling pathway
+Lysosome
+Fatty acid elongation
+Proteasome
+Epstein-Barr virus infection
+Insulin signaling pathway
+Propanoate metabolism
+Central carbon metabolism in cancer
+Inositol phosphate metabolism
+Prolactin signaling pathway
+Epithelial cell signaling in Helicobacter pylori infection
+Valine
+B cell receptor signaling pathway
+HTLV-I infection
+SNARE interactions in vesicular transport
+Alanine
+Huntington's disease
+Progesterone-mediated oocyte maturation
+Bladder cancer
+One carbon pool by folate

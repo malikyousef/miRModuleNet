@@ -1,0 +1,20 @@
+19 elements included exclusively in "microT-CDS":
+Mucin type O-Glycan biosynthesis
+Morphine addiction
+Glutamatergic synapse
+Ras signaling pathway
+GABAergic synapse
+Circadian entrainment
+Prolactin signaling pathway
+Platelet activation
+Adipocytokine signaling pathway
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Retrograde endocannabinoid signaling
+PI3K-Akt signaling pathway
+Melanoma
+Mineral absorption
+Long-term depression
+Cholinergic synapse
+Oxytocin signaling pathway
+Inflammatory mediator regulation of TRP channels
+Choline metabolism in cancer

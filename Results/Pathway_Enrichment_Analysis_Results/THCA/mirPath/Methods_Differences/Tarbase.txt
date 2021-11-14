@@ -1,0 +1,30 @@
+29 elements included exclusively in "Tarbase":
+Cell cycle
+Transcriptional misregulation in cancer
+Lysine degradation
+Spliceosome
+Glycosaminoglycan biosynthesis - keratan sulfate
+RNA transport
+Other types of O-glycan biosynthesis
+Acute myeloid leukemia
+TNF signaling pathway
+HIF-1 signaling pathway
+Insulin signaling pathway
+Huntington's disease
+DNA replication
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Non-alcoholic fatty liver disease (NAFLD)
+Oocyte meiosis
+Alzheimer's disease
+Folate biosynthesis
+Epstein-Barr virus infection
+Shigellosis
+Homologous recombination
+Bladder cancer
+Ribosome
+Thyroid cancer
+VEGF signaling pathway
+Chagas disease (American trypanosomiasis)
+RNA degradation
+SNARE interactions in vesicular transport
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis

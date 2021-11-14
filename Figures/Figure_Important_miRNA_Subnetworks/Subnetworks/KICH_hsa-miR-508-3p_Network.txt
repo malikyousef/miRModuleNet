@@ -1,0 +1,14 @@
+hsa-miR-508-3p	pp	SPEF1
+hsa-miR-508-3p	pp	SPNS3
+hsa-miR-508-3p	pp	MYOM3
+hsa-miR-508-3p	pp	RALYL
+hsa-miR-508-3p	pp	ABHD12B
+hsa-miR-508-3p	pp	RAB7L1
+hsa-miR-508-3p	pp	LRRC48
+hsa-miR-508-3p	pp	BST1
+hsa-miR-508-3p	pp	PDZD3
+hsa-miR-508-3p	pp	TTBK1
+hsa-miR-508-3p	pp	C14orf73
+hsa-miR-508-3p	pp	NGEF
+hsa-miR-508-3p	pp	CFI
+hsa-miR-508-3p	pp	PNPLA1

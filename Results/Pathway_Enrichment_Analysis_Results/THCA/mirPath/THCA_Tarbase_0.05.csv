@@ -1,0 +1,74 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Proteoglycans in cancer;1.4889201368e-15;171;53
+Cell cycle;6.29020203777e-12;110;48
+Renal cell carcinoma;8.28203323316e-10;63;49
+Adherens junction;3.46184430784e-09;66;52
+Endocytosis;1.58651573806e-08;172;51
+Pancreatic cancer;1.6890049335e-08;62;49
+Protein processing in endoplasmic reticulum;5.56472710827e-08;142;51
+Chronic myeloid leukemia;1.87694582512e-07;67;50
+Hippo signaling pathway;3.88941218164e-07;121;50
+N-Glycan biosynthesis;3.89596286624e-07;43;42
+Viral carcinogenesis;7.5881834248e-07;161;51
+Pathways in cancer;1.08165176084e-06;304;53
+Colorectal cancer;1.94756065491e-06;57;48
+Hepatitis B;3.52185149361e-06;117;50
+Ubiquitin mediated proteolysis;4.20846285648e-06;115;50
+p53 signaling pathway;6.08918457474e-06;61;47
+ErbB signaling pathway;6.39573010143e-06;74;49
+Prostate cancer;6.39573010143e-06;78;49
+Transcriptional misregulation in cancer;7.52064757112e-06;141;50
+TGF-beta signaling pathway;1.08295130336e-05;67;49
+Lysine degradation;1.1108605031e-05;40;43
+Non-small cell lung cancer;1.68396206536e-05;49;47
+Axon guidance;1.84323955063e-05;98;49
+Spliceosome;2.36088027879e-05;110;51
+Focal adhesion;3.613581187e-05;165;53
+mTOR signaling pathway;4.23553675146e-05;54;47
+Glycosaminoglycan biosynthesis - keratan sulfate;4.95443442086e-05;14;29
+RNA transport;5.81620234931e-05;136;52
+Other types of O-glycan biosynthesis;9.08954218468e-05;24;40
+Acute myeloid leukemia;0.000121200709369;51;47
+Bacterial invasion of epithelial cells;0.000204863778314;64;50
+FoxO signaling pathway;0.000206098256198;107;49
+Thyroid hormone signaling pathway;0.000221402751507;95;51
+Prion diseases;0.000276135533617;26;43
+Sphingolipid signaling pathway;0.000290870158197;95;48
+Glioma;0.000295703839182;53;49
+TNF signaling pathway;0.000341123124929;90;48
+HIF-1 signaling pathway;0.000420144232058;87;51
+Small cell lung cancer;0.000468341694953;72;50
+Endometrial cancer;0.000821228009616;45;46
+Insulin signaling pathway;0.000881907775447;112;50
+ECM-receptor interaction;0.00102756219789;56;46
+Huntington's disease;0.00131380673091;144;52
+Estrogen signaling pathway;0.00274981896409;77;51
+DNA replication;0.00279311965693;31;32
+Signaling pathways regulating pluripotency of stem cells;0.00306735281068;107;50
+Wnt signaling pathway;0.0033442083445;105;48
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate;0.00430966141348;17;27
+Inositol phosphate metabolism;0.00470905161573;48;42
+Neurotrophin signaling pathway;0.00473889577272;95;50
+HTLV-I infection;0.004944424892;193;51
+Non-alcoholic fatty liver disease (NAFLD);0.00600246472122;117;51
+Regulation of actin cytoskeleton;0.00605629961566;157;52
+Oocyte meiosis;0.00974460116684;85;48
+Alzheimer's disease;0.00974460116684;126;51
+Folate biosynthesis;0.0098080375118;12;10
+Epstein-Barr virus infection;0.0101558257671;151;51
+Shigellosis;0.0102865170947;51;50
+MAPK signaling pathway;0.0124218696045;186;52
+Homologous recombination;0.0181991488372;23;32
+Bladder cancer;0.0181991488372;33;46
+Choline metabolism in cancer;0.018856891014;79;47
+Ribosome;0.0201106223808;103;46
+AMPK signaling pathway;0.0211208268597;96;50
+Thyroid cancer;0.0226810217095;24;42
+VEGF signaling pathway;0.0264373258204;49;46
+Chagas disease (American trypanosomiasis);0.0310865935115;79;49
+RNA degradation;0.0310865935115;61;50
+SNARE interactions in vesicular transport;0.0316728389448;27;34
+Rap1 signaling pathway;0.0357405076016;151;52
+mRNA surveillance pathway;0.0373673878868;72;50
+Fatty acid metabolism;0.0456804192809;33;37
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis;0.0480163914801;21;24

@@ -1,0 +1,104 @@
+There are 3 different pathways which only appears in LUSC : Glycosphingolipid biosynthesis - ganglio series,Osteoclast differentiation,Hedgehog signaling pathway
+
+Glioma
+Pancreatic cancer
+Renal cell carcinoma
+Axon guidance
+Hippo signaling pathway
+FoxO signaling pathway
+Endometrial cancer
+Proteoglycans in cancer
+TGF-beta signaling pathway
+Colorectal cancer
+ErbB signaling pathway
+Endocytosis
+Prostate cancer
+Pathways in cancer
+Focal adhesion
+Neurotrophin signaling pathway
+Non-small cell lung cancer
+p53 signaling pathway
+ECM-receptor interaction
+Chronic myeloid leukemia
+Thyroid hormone signaling pathway
+Small cell lung cancer
+Adherens junction
+mRNA surveillance pathway
+Wnt signaling pathway
+Choline metabolism in cancer
+Sphingolipid signaling pathway
+TNF signaling pathway
+Signaling pathways regulating pluripotency of stem cells
+Lysine degradation
+Insulin signaling pathway
+Gap junction
+mTOR signaling pathway
+Ubiquitin mediated proteolysis
+Bacterial invasion of epithelial cells
+Acute myeloid leukemia
+Hepatitis B
+Estrogen signaling pathway
+HIF-1 signaling pathway
+Regulation of actin cytoskeleton
+Mucin type O-Glycan biosynthesis
+Glycosphingolipid biosynthesis - ganglio series
+Morphine addiction
+AMPK signaling pathway
+T cell receptor signaling pathway
+Fatty acid biosynthesis
+Rap1 signaling pathway
+PI3K-Akt signaling pathway
+Ras signaling pathway
+Melanoma
+Adrenergic signaling in cardiomyocytes
+Cholinergic synapse
+Prolactin signaling pathway
+Phosphatidylinositol signaling system
+Fc gamma R-mediated phagocytosis
+Dorso-ventral axis formation
+Long-term depression
+Retrograde endocannabinoid signaling
+Circadian entrainment
+Endocrine and other factor-regulated calcium reabsorption
+Glutamatergic synapse
+cAMP signaling pathway
+GABAergic synapse
+Type II diabetes mellitus
+Osteoclast differentiation
+Glycosphingolipid biosynthesis - lacto and neolacto series
+ABC transporters
+Cell cycle
+Protein processing in endoplasmic reticulum
+Viral carcinogenesis
+Spliceosome
+RNA transport
+Epstein-Barr virus infection
+Transcriptional misregulation in cancer
+Prion diseases
+Oocyte meiosis
+HTLV-I infection
+Fatty acid metabolism
+Central carbon metabolism in cancer
+Thyroid cancer
+Circadian rhythm
+Vitamin B6 metabolism
+Bladder cancer
+DNA replication
+Ribosome
+Inositol phosphate metabolism
+Protein export
+N-Glycan biosynthesis
+Propanoate metabolism
+Basal transcription factors
+RNA degradation
+Shigellosis
+Pathogenic Escherichia coli infection
+MAPK signaling pathway
+Nucleotide excision repair
+Hedgehog signaling pathway
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Mismatch repair
+Progesterone-mediated oocyte maturation
+Terpenoid backbone biosynthesis
+NF-kappa B signaling pathway
+Fatty acid degradation

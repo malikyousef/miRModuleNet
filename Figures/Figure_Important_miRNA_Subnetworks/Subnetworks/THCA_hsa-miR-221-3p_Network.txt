@@ -1,0 +1,10 @@
+hsa-miR-221-3p	pp	SLC26A7
+hsa-miR-221-3p	pp	C11orf80
+hsa-miR-221-3p	pp	CDR2
+hsa-miR-221-3p	pp	BID
+hsa-miR-221-3p	pp	GPR98
+hsa-miR-221-3p	pp	ALDH3B1
+hsa-miR-221-3p	pp	RUNX1
+hsa-miR-221-3p	pp	ETV4
+hsa-miR-221-3p	pp	PLA2R1
+hsa-miR-221-3p	pp	PLXND1

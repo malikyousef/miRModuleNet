@@ -1,0 +1,37 @@
+36 elements included exclusively in "Tarbase":
+Viral carcinogenesis
+Cell cycle
+Endocytosis
+Fatty acid metabolism
+Fatty acid degradation
+Lysine degradation
+Spliceosome
+RNA transport
+Shigellosis
+Sphingolipid signaling pathway
+Steroid biosynthesis
+HIF-1 signaling pathway
+Oocyte meiosis
+Transcriptional misregulation in cancer
+Hepatitis B
+Citrate cycle (TCA cycle)
+TNF signaling pathway
+Lysosome
+Fatty acid elongation
+Proteasome
+Epstein-Barr virus infection
+Insulin signaling pathway
+Propanoate metabolism
+Central carbon metabolism in cancer
+Inositol phosphate metabolism
+Prolactin signaling pathway
+Epithelial cell signaling in Helicobacter pylori infection
+Valine
+B cell receptor signaling pathway
+HTLV-I infection
+SNARE interactions in vesicular transport
+Alanine
+Huntington's disease
+Progesterone-mediated oocyte maturation
+Bladder cancer
+One carbon pool by folate

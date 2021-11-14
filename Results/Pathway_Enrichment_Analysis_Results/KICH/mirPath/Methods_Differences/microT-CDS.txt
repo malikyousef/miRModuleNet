@@ -1,0 +1,32 @@
+31 elements included exclusively in "microT-CDS":
+Morphine addiction
+ECM-receptor interaction
+AMPK signaling pathway
+Glutamatergic synapse
+Rap1 signaling pathway
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Mucin type O-Glycan biosynthesis
+GABAergic synapse
+Circadian entrainment
+Platelet activation
+Fatty acid biosynthesis
+Retrograde endocannabinoid signaling
+Ras signaling pathway
+Endocrine and other factor-regulated calcium reabsorption
+Oxytocin signaling pathway
+Adrenergic signaling in cardiomyocytes
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+Gap junction
+Cocaine addiction
+Cholinergic synapse
+Prolactin signaling pathway
+Gastric acid secretion
+PI3K-Akt signaling pathway
+Cell adhesion molecules (CAMs)
+Long-term depression
+One carbon pool by folate
+Dopaminergic synapse
+Amphetamine addiction
+Adipocytokine signaling pathway
+SNARE interactions in vesicular transport
+Insulin signaling pathway

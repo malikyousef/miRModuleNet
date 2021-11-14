@@ -1,0 +1,111 @@
+There is no pathway which only appears in KIRP apart from Common Whole Pathway List.
+
+Proteoglycans in cancer
+Axon guidance
+ECM-receptor interaction
+N-Glycan biosynthesis
+Endocytosis
+Adherens junction
+Renal cell carcinoma
+Fatty acid biosynthesis
+Focal adhesion
+ErbB signaling pathway
+FoxO signaling pathway
+Pancreatic cancer
+Hippo signaling pathway
+Glycosaminoglycan biosynthesis - keratan sulfate
+Signaling pathways regulating pluripotency of stem cells
+Pathways in cancer
+Bacterial invasion of epithelial cells
+Wnt signaling pathway
+Phosphatidylinositol signaling system
+Glioma
+Protein processing in endoplasmic reticulum
+Lysine degradation
+Ubiquitin mediated proteolysis
+Fc gamma R-mediated phagocytosis
+Thyroid hormone signaling pathway
+TGF-beta signaling pathway
+Endometrial cancer
+Neurotrophin signaling pathway
+MAPK signaling pathway
+p53 signaling pathway
+AMPK signaling pathway
+Colorectal cancer
+Sphingolipid signaling pathway
+Prostate cancer
+Fatty acid metabolism
+Inositol phosphate metabolism
+SNARE interactions in vesicular transport
+Shigellosis
+Acute myeloid leukemia
+Mucin type O-Glycan biosynthesis
+Rap1 signaling pathway
+Ras signaling pathway
+Morphine addiction
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Regulation of actin cytoskeleton
+Platelet activation
+GABAergic synapse
+Glutamatergic synapse
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+Endocrine and other factor-regulated calcium reabsorption
+Prolactin signaling pathway
+Retrograde endocannabinoid signaling
+Cholinergic synapse
+cAMP signaling pathway
+PI3K-Akt signaling pathway
+Mineral absorption
+ABC transporters
+Type II diabetes mellitus
+Cell cycle
+Viral carcinogenesis
+Transcriptional misregulation in cancer
+Chronic myeloid leukemia
+Spliceosome
+Fatty acid elongation
+Non-alcoholic fatty liver disease (NAFLD)
+Non-small cell lung cancer
+Small cell lung cancer
+TNF signaling pathway
+mTOR signaling pathway
+Fatty acid degradation
+Other types of O-glycan biosynthesis
+Hepatitis B
+Alzheimer's disease
+Thyroid cancer
+Oxidative phosphorylation
+NF-kappa B signaling pathway
+Steroid biosynthesis
+Proteasome
+Homologous recombination
+HIF-1 signaling pathway
+HTLV-I infection
+Huntington's disease
+RNA transport
+Chagas disease (American trypanosomiasis)
+Base excision repair
+Ribosome
+DNA replication
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Notch signaling pathway
+Parkinson's disease
+Oocyte meiosis
+Insulin signaling pathway
+B cell receptor signaling pathway
+Valine
+Bladder cancer
+Prion diseases
+Epstein-Barr virus infection
+Circadian rhythm
+Apoptosis
+Estrogen signaling pathway
+Central carbon metabolism in cancer
+Citrate cycle (TCA cycle)
+VEGF signaling pathway
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+RNA degradation
+Nucleotide excision repair
+Legionellosis
+Mismatch repair
+Progesterone-mediated oocyte maturation

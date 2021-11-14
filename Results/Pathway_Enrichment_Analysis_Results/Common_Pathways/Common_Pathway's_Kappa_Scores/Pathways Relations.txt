@@ -1,0 +1,2976 @@
+Glycolysis / Gluconeogenesis	pp	Pentose phosphate pathway
+Glycolysis / Gluconeogenesis	pp	Fructose and mannose metabolism
+Glycolysis / Gluconeogenesis	pp	Galactose metabolism
+Glycolysis / Gluconeogenesis	pp	Fatty acid degradation
+Glycolysis / Gluconeogenesis	pp	Histidine metabolism
+Glycolysis / Gluconeogenesis	pp	Tyrosine metabolism
+Glycolysis / Gluconeogenesis	pp	beta-Alanine metabolism
+Glycolysis / Gluconeogenesis	pp	Starch and sucrose metabolism
+Glycolysis / Gluconeogenesis	pp	Pyruvate metabolism
+Glycolysis / Gluconeogenesis	pp	Drug metabolism
+Glycolysis / Gluconeogenesis	pp	HIF-1 signaling pathway
+Glycolysis / Gluconeogenesis	pp	Glucagon signaling pathway
+Glycolysis / Gluconeogenesis	pp	Central carbon metabolism in cancer
+Citrate cycle (TCA cycle)	pp	Pyruvate metabolism
+Citrate cycle (TCA cycle)	pp	Glyoxylate and dicarboxylate metabolism
+Pentose phosphate pathway	pp	Fructose and mannose metabolism
+Pentose phosphate pathway	pp	Galactose metabolism
+Pentose and glucuronate interconversions	pp	Ascorbate and aldarate metabolism
+Pentose and glucuronate interconversions	pp	Steroid hormone biosynthesis
+Pentose and glucuronate interconversions	pp	Starch and sucrose metabolism
+Pentose and glucuronate interconversions	pp	Retinol metabolism
+Pentose and glucuronate interconversions	pp	Porphyrin and chlorophyll metabolism
+Pentose and glucuronate interconversions	pp	Metabolism of xenobiotics by cytochrome P450
+Pentose and glucuronate interconversions	pp	Drug metabolism
+Pentose and glucuronate interconversions	pp	Drug metabolism
+Pentose and glucuronate interconversions	pp	Chemical carcinogenesis
+Fructose and mannose metabolism	pp	Galactose metabolism
+Fructose and mannose metabolism	pp	Amino sugar and nucleotide sugar metabolism
+Fructose and mannose metabolism	pp	Butirosin and neomycin biosynthesis
+Fructose and mannose metabolism	pp	Central carbon metabolism in cancer
+Galactose metabolism	pp	Starch and sucrose metabolism
+Galactose metabolism	pp	Amino sugar and nucleotide sugar metabolism
+Galactose metabolism	pp	Butirosin and neomycin biosynthesis
+Galactose metabolism	pp	Carbohydrate digestion and absorption
+Galactose metabolism	pp	Central carbon metabolism in cancer
+Ascorbate and aldarate metabolism	pp	Steroid hormone biosynthesis
+Ascorbate and aldarate metabolism	pp	Histidine metabolism
+Ascorbate and aldarate metabolism	pp	beta-Alanine metabolism
+Ascorbate and aldarate metabolism	pp	Starch and sucrose metabolism
+Ascorbate and aldarate metabolism	pp	Retinol metabolism
+Ascorbate and aldarate metabolism	pp	Porphyrin and chlorophyll metabolism
+Ascorbate and aldarate metabolism	pp	Metabolism of xenobiotics by cytochrome P450
+Ascorbate and aldarate metabolism	pp	Drug metabolism
+Ascorbate and aldarate metabolism	pp	Drug metabolism
+Ascorbate and aldarate metabolism	pp	Chemical carcinogenesis
+Fatty acid biosynthesis	pp	Fatty acid degradation
+Fatty acid biosynthesis	pp	PPAR signaling pathway
+Fatty acid biosynthesis	pp	Adipocytokine signaling pathway
+Fatty acid elongation	pp	Biosynthesis of unsaturated fatty acids
+Fatty acid degradation	pp	Valine, leucine and isoleucine degradation
+Fatty acid degradation	pp	Lysine degradation
+Fatty acid degradation	pp	Tyrosine metabolism
+Fatty acid degradation	pp	Tryptophan metabolism
+Fatty acid degradation	pp	beta-Alanine metabolism
+Fatty acid degradation	pp	Pyruvate metabolism
+Fatty acid degradation	pp	Propanoate metabolism
+Fatty acid degradation	pp	Butanoate metabolism
+Fatty acid degradation	pp	PPAR signaling pathway
+Fatty acid degradation	pp	Peroxisome
+Fatty acid degradation	pp	Adipocytokine signaling pathway
+Synthesis and degradation of ketone bodies	pp	Valine, leucine and isoleucine degradation
+Synthesis and degradation of ketone bodies	pp	Butanoate metabolism
+Synthesis and degradation of ketone bodies	pp	Terpenoid backbone biosynthesis
+Steroid hormone biosynthesis	pp	Starch and sucrose metabolism
+Steroid hormone biosynthesis	pp	Retinol metabolism
+Steroid hormone biosynthesis	pp	Porphyrin and chlorophyll metabolism
+Steroid hormone biosynthesis	pp	Metabolism of xenobiotics by cytochrome P450
+Steroid hormone biosynthesis	pp	Drug metabolism
+Steroid hormone biosynthesis	pp	Drug metabolism
+Steroid hormone biosynthesis	pp	Ovarian steroidogenesis
+Steroid hormone biosynthesis	pp	Chemical carcinogenesis
+Oxidative phosphorylation	pp	Cardiac muscle contraction
+Oxidative phosphorylation	pp	Synaptic vesicle cycle
+Oxidative phosphorylation	pp	Non-alcoholic fatty liver disease (NAFLD)
+Oxidative phosphorylation	pp	Collecting duct acid secretion
+Oxidative phosphorylation	pp	Alzheimer's disease
+Oxidative phosphorylation	pp	Parkinson's disease
+Oxidative phosphorylation	pp	Huntington's disease
+Oxidative phosphorylation	pp	Vibrio cholerae infection
+Oxidative phosphorylation	pp	Epithelial cell signaling in Helicobacter pylori infection
+Oxidative phosphorylation	pp	Rheumatoid arthritis
+Purine metabolism	pp	Pyrimidine metabolism
+Purine metabolism	pp	RNA polymerase
+Purine metabolism	pp	Morphine addiction
+Caffeine metabolism	pp	Drug metabolism
+Pyrimidine metabolism	pp	Drug metabolism
+Pyrimidine metabolism	pp	RNA polymerase
+Pyrimidine metabolism	pp	DNA replication
+Pyrimidine metabolism	pp	Cytosolic DNA-sensing pathway
+Pyrimidine metabolism	pp	Epstein-Barr virus infection
+Alanine, aspartate and glutamate metabolism	pp	Arginine and proline metabolism
+Alanine, aspartate and glutamate metabolism	pp	D-Glutamine and D-glutamate metabolism
+Alanine, aspartate and glutamate metabolism	pp	Nitrogen metabolism
+Glycine, serine and threonine metabolism	pp	Glyoxylate and dicarboxylate metabolism
+Cysteine and methionine metabolism	pp	Phenylalanine, tyrosine and tryptophan biosynthesis
+Cysteine and methionine metabolism	pp	Pyruvate metabolism
+Valine, leucine and isoleucine degradation	pp	Lysine degradation
+Valine, leucine and isoleucine degradation	pp	Tryptophan metabolism
+Valine, leucine and isoleucine degradation	pp	beta-Alanine metabolism
+Valine, leucine and isoleucine degradation	pp	Pyruvate metabolism
+Valine, leucine and isoleucine degradation	pp	Glyoxylate and dicarboxylate metabolism
+Valine, leucine and isoleucine degradation	pp	Propanoate metabolism
+Valine, leucine and isoleucine degradation	pp	Butanoate metabolism
+Valine, leucine and isoleucine biosynthesis	pp	Pantothenate and CoA biosynthesis
+Lysine degradation	pp	Tryptophan metabolism
+Lysine degradation	pp	beta-Alanine metabolism
+Arginine and proline metabolism	pp	Histidine metabolism
+Arginine and proline metabolism	pp	Tryptophan metabolism
+Arginine and proline metabolism	pp	beta-Alanine metabolism
+Histidine metabolism	pp	Tyrosine metabolism
+Histidine metabolism	pp	Phenylalanine metabolism
+Histidine metabolism	pp	Tryptophan metabolism
+Histidine metabolism	pp	beta-Alanine metabolism
+Histidine metabolism	pp	Pyruvate metabolism
+Tyrosine metabolism	pp	Phenylalanine metabolism
+Tyrosine metabolism	pp	Phenylalanine, tyrosine and tryptophan biosynthesis
+Tyrosine metabolism	pp	beta-Alanine metabolism
+Tyrosine metabolism	pp	Retinol metabolism
+Tyrosine metabolism	pp	Metabolism of xenobiotics by cytochrome P450
+Tyrosine metabolism	pp	Drug metabolism
+Tyrosine metabolism	pp	Chemical carcinogenesis
+Phenylalanine metabolism	pp	Phenylalanine, tyrosine and tryptophan biosynthesis
+Phenylalanine metabolism	pp	beta-Alanine metabolism
+Tryptophan metabolism	pp	beta-Alanine metabolism
+Tryptophan metabolism	pp	Pyruvate metabolism
+Tryptophan metabolism	pp	Butanoate metabolism
+beta-Alanine metabolism	pp	Propanoate metabolism
+beta-Alanine metabolism	pp	Butanoate metabolism
+beta-Alanine metabolism	pp	Pantothenate and CoA biosynthesis
+Taurine and hypotaurine metabolism	pp	Cyanoamino acid metabolism
+D-Glutamine and D-glutamate metabolism	pp	Nitrogen metabolism
+D-Glutamine and D-glutamate metabolism	pp	Proximal tubule bicarbonate reclamation
+Glutathione metabolism	pp	Arachidonic acid metabolism
+Glutathione metabolism	pp	Metabolism of xenobiotics by cytochrome P450
+Glutathione metabolism	pp	Drug metabolism
+Glutathione metabolism	pp	Chemical carcinogenesis
+Starch and sucrose metabolism	pp	Amino sugar and nucleotide sugar metabolism
+Starch and sucrose metabolism	pp	Butirosin and neomycin biosynthesis
+Starch and sucrose metabolism	pp	Retinol metabolism
+Starch and sucrose metabolism	pp	Porphyrin and chlorophyll metabolism
+Starch and sucrose metabolism	pp	Metabolism of xenobiotics by cytochrome P450
+Starch and sucrose metabolism	pp	Drug metabolism
+Starch and sucrose metabolism	pp	Drug metabolism
+Starch and sucrose metabolism	pp	Carbohydrate digestion and absorption
+Starch and sucrose metabolism	pp	Chemical carcinogenesis
+Other glycan degradation	pp	Glycosaminoglycan degradation
+Other glycan degradation	pp	Sphingolipid metabolism
+Other glycan degradation	pp	Glycosphingolipid biosynthesis
+Other types of O-glycan biosynthesis	pp	Glycosaminoglycan biosynthesis
+Other types of O-glycan biosynthesis	pp	Glycosphingolipid biosynthesis
+Amino sugar and nucleotide sugar metabolism	pp	Butirosin and neomycin biosynthesis
+Butirosin and neomycin biosynthesis	pp	Type II diabetes mellitus
+Butirosin and neomycin biosynthesis	pp	Carbohydrate digestion and absorption
+Glycosaminoglycan degradation	pp	Glycosphingolipid biosynthesis
+Glycosaminoglycan degradation	pp	Lysosome
+Glycosaminoglycan biosynthesis	pp	Glycosaminoglycan biosynthesis
+Glycosaminoglycan biosynthesis	pp	Glycosphingolipid biosynthesis
+Glycerolipid metabolism	pp	Glycerophospholipid metabolism
+Glycerolipid metabolism	pp	Fat digestion and absorption
+Inositol phosphate metabolism	pp	Phosphatidylinositol signaling system
+Inositol phosphate metabolism	pp	Thyroid hormone signaling pathway
+Glycerophospholipid metabolism	pp	Ether lipid metabolism
+Glycerophospholipid metabolism	pp	Arachidonic acid metabolism
+Glycerophospholipid metabolism	pp	Linoleic acid metabolism
+Glycerophospholipid metabolism	pp	alpha-Linolenic acid metabolism
+Glycerophospholipid metabolism	pp	Vascular smooth muscle contraction
+Glycerophospholipid metabolism	pp	Fat digestion and absorption
+Glycerophospholipid metabolism	pp	Choline metabolism in cancer
+Ether lipid metabolism	pp	Arachidonic acid metabolism
+Ether lipid metabolism	pp	Linoleic acid metabolism
+Ether lipid metabolism	pp	alpha-Linolenic acid metabolism
+Ether lipid metabolism	pp	Ras signaling pathway
+Ether lipid metabolism	pp	Vascular smooth muscle contraction
+Ether lipid metabolism	pp	Fc gamma R-mediated phagocytosis
+Ether lipid metabolism	pp	Fat digestion and absorption
+Ether lipid metabolism	pp	Choline metabolism in cancer
+Arachidonic acid metabolism	pp	Linoleic acid metabolism
+Arachidonic acid metabolism	pp	alpha-Linolenic acid metabolism
+Arachidonic acid metabolism	pp	Vascular smooth muscle contraction
+Arachidonic acid metabolism	pp	Serotonergic synapse
+Arachidonic acid metabolism	pp	Ovarian steroidogenesis
+Arachidonic acid metabolism	pp	Fat digestion and absorption
+Linoleic acid metabolism	pp	alpha-Linolenic acid metabolism
+Linoleic acid metabolism	pp	Vascular smooth muscle contraction
+Linoleic acid metabolism	pp	VEGF signaling pathway
+Linoleic acid metabolism	pp	Serotonergic synapse
+Linoleic acid metabolism	pp	Long-term depression
+Linoleic acid metabolism	pp	Ovarian steroidogenesis
+Linoleic acid metabolism	pp	Pancreatic secretion
+Linoleic acid metabolism	pp	Fat digestion and absorption
+alpha-Linolenic acid metabolism	pp	Biosynthesis of unsaturated fatty acids
+alpha-Linolenic acid metabolism	pp	Ras signaling pathway
+alpha-Linolenic acid metabolism	pp	Vascular smooth muscle contraction
+alpha-Linolenic acid metabolism	pp	VEGF signaling pathway
+alpha-Linolenic acid metabolism	pp	Long-term depression
+alpha-Linolenic acid metabolism	pp	Ovarian steroidogenesis
+alpha-Linolenic acid metabolism	pp	Pancreatic secretion
+alpha-Linolenic acid metabolism	pp	Fat digestion and absorption
+Sphingolipid metabolism	pp	Sphingolipid signaling pathway
+Glycosphingolipid biosynthesis	pp	Glycosphingolipid biosynthesis
+Glycosphingolipid biosynthesis	pp	Glycosphingolipid biosynthesis
+Pyruvate metabolism	pp	Glyoxylate and dicarboxylate metabolism
+Pyruvate metabolism	pp	Propanoate metabolism
+Pyruvate metabolism	pp	Glucagon signaling pathway
+Glyoxylate and dicarboxylate metabolism	pp	Propanoate metabolism
+Propanoate metabolism	pp	Butanoate metabolism
+Butanoate metabolism	pp	Terpenoid backbone biosynthesis
+Folate biosynthesis	pp	Sulfur relay system
+Retinol metabolism	pp	Porphyrin and chlorophyll metabolism
+Retinol metabolism	pp	Metabolism of xenobiotics by cytochrome P450
+Retinol metabolism	pp	Drug metabolism
+Retinol metabolism	pp	Drug metabolism
+Retinol metabolism	pp	Chemical carcinogenesis
+Porphyrin and chlorophyll metabolism	pp	Metabolism of xenobiotics by cytochrome P450
+Porphyrin and chlorophyll metabolism	pp	Drug metabolism
+Porphyrin and chlorophyll metabolism	pp	Drug metabolism
+Porphyrin and chlorophyll metabolism	pp	Chemical carcinogenesis
+Nitrogen metabolism	pp	Proximal tubule bicarbonate reclamation
+Sulfur metabolism	pp	Sulfur relay system
+Metabolism of xenobiotics by cytochrome P450	pp	Drug metabolism
+Metabolism of xenobiotics by cytochrome P450	pp	Drug metabolism
+Metabolism of xenobiotics by cytochrome P450	pp	Chemical carcinogenesis
+Drug metabolism	pp	Drug metabolism
+Drug metabolism	pp	Chemical carcinogenesis
+Drug metabolism	pp	Chemical carcinogenesis
+ABC transporters	pp	Bile secretion
+Ribosome biogenesis in eukaryotes	pp	RNA transport
+RNA transport	pp	mRNA surveillance pathway
+mRNA surveillance pathway	pp	Dopaminergic synapse
+RNA polymerase	pp	Cytosolic DNA-sensing pathway
+RNA polymerase	pp	Epstein-Barr virus infection
+Basal transcription factors	pp	Nucleotide excision repair
+DNA replication	pp	Base excision repair
+DNA replication	pp	Nucleotide excision repair
+DNA replication	pp	Mismatch repair
+DNA replication	pp	Homologous recombination
+PPAR signaling pathway	pp	Adipocytokine signaling pathway
+Base excision repair	pp	Nucleotide excision repair
+Base excision repair	pp	Mismatch repair
+Nucleotide excision repair	pp	Mismatch repair
+Nucleotide excision repair	pp	Homologous recombination
+Mismatch repair	pp	Homologous recombination
+Mismatch repair	pp	Fanconi anemia pathway
+Homologous recombination	pp	Fanconi anemia pathway
+MAPK signaling pathway	pp	ErbB signaling pathway
+MAPK signaling pathway	pp	Ras signaling pathway
+MAPK signaling pathway	pp	Rap1 signaling pathway
+MAPK signaling pathway	pp	FoxO signaling pathway
+MAPK signaling pathway	pp	PI3K-Akt signaling pathway
+MAPK signaling pathway	pp	Apoptosis
+MAPK signaling pathway	pp	Adrenergic signaling in cardiomyocytes
+MAPK signaling pathway	pp	VEGF signaling pathway
+MAPK signaling pathway	pp	Osteoclast differentiation
+MAPK signaling pathway	pp	Toll-like receptor signaling pathway
+MAPK signaling pathway	pp	T cell receptor signaling pathway
+MAPK signaling pathway	pp	B cell receptor signaling pathway
+MAPK signaling pathway	pp	Fc epsilon RI signaling pathway
+MAPK signaling pathway	pp	TNF signaling pathway
+MAPK signaling pathway	pp	Long-term potentiation
+MAPK signaling pathway	pp	Neurotrophin signaling pathway
+MAPK signaling pathway	pp	Serotonergic synapse
+MAPK signaling pathway	pp	Regulation of actin cytoskeleton
+MAPK signaling pathway	pp	GnRH signaling pathway
+MAPK signaling pathway	pp	Oxytocin signaling pathway
+MAPK signaling pathway	pp	Chagas disease (American trypanosomiasis)
+MAPK signaling pathway	pp	Toxoplasmosis
+MAPK signaling pathway	pp	Hepatitis B
+MAPK signaling pathway	pp	HTLV-I infection
+MAPK signaling pathway	pp	Epstein-Barr virus infection
+MAPK signaling pathway	pp	Pathways in cancer
+MAPK signaling pathway	pp	Proteoglycans in cancer
+MAPK signaling pathway	pp	Renal cell carcinoma
+MAPK signaling pathway	pp	Pancreatic cancer
+MAPK signaling pathway	pp	Prostate cancer
+MAPK signaling pathway	pp	Melanoma
+MAPK signaling pathway	pp	Chronic myeloid leukemia
+MAPK signaling pathway	pp	Choline metabolism in cancer
+ErbB signaling pathway	pp	Ras signaling pathway
+ErbB signaling pathway	pp	Rap1 signaling pathway
+ErbB signaling pathway	pp	cAMP signaling pathway
+ErbB signaling pathway	pp	Chemokine signaling pathway
+ErbB signaling pathway	pp	HIF-1 signaling pathway
+ErbB signaling pathway	pp	FoxO signaling pathway
+ErbB signaling pathway	pp	Sphingolipid signaling pathway
+ErbB signaling pathway	pp	mTOR signaling pathway
+ErbB signaling pathway	pp	VEGF signaling pathway
+ErbB signaling pathway	pp	Osteoclast differentiation
+ErbB signaling pathway	pp	Focal adhesion
+ErbB signaling pathway	pp	Gap junction
+ErbB signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+ErbB signaling pathway	pp	Toll-like receptor signaling pathway
+ErbB signaling pathway	pp	Jak-STAT signaling pathway
+ErbB signaling pathway	pp	Natural killer cell mediated cytotoxicity
+ErbB signaling pathway	pp	T cell receptor signaling pathway
+ErbB signaling pathway	pp	B cell receptor signaling pathway
+ErbB signaling pathway	pp	Fc epsilon RI signaling pathway
+ErbB signaling pathway	pp	Fc gamma R-mediated phagocytosis
+ErbB signaling pathway	pp	TNF signaling pathway
+ErbB signaling pathway	pp	Long-term potentiation
+ErbB signaling pathway	pp	Neurotrophin signaling pathway
+ErbB signaling pathway	pp	Cholinergic synapse
+ErbB signaling pathway	pp	Long-term depression
+ErbB signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+ErbB signaling pathway	pp	Regulation of actin cytoskeleton
+ErbB signaling pathway	pp	Insulin signaling pathway
+ErbB signaling pathway	pp	GnRH signaling pathway
+ErbB signaling pathway	pp	Progesterone-mediated oocyte maturation
+ErbB signaling pathway	pp	Estrogen signaling pathway
+ErbB signaling pathway	pp	Melanogenesis
+ErbB signaling pathway	pp	Prolactin signaling pathway
+ErbB signaling pathway	pp	Thyroid hormone signaling pathway
+ErbB signaling pathway	pp	Oxytocin signaling pathway
+ErbB signaling pathway	pp	Type II diabetes mellitus
+ErbB signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+ErbB signaling pathway	pp	Carbohydrate digestion and absorption
+ErbB signaling pathway	pp	Bacterial invasion of epithelial cells
+ErbB signaling pathway	pp	Chagas disease (American trypanosomiasis)
+ErbB signaling pathway	pp	Toxoplasmosis
+ErbB signaling pathway	pp	Hepatitis C
+ErbB signaling pathway	pp	Hepatitis B
+ErbB signaling pathway	pp	Influenza A
+ErbB signaling pathway	pp	Pathways in cancer
+ErbB signaling pathway	pp	Proteoglycans in cancer
+ErbB signaling pathway	pp	Colorectal cancer
+ErbB signaling pathway	pp	Renal cell carcinoma
+ErbB signaling pathway	pp	Pancreatic cancer
+ErbB signaling pathway	pp	Endometrial cancer
+ErbB signaling pathway	pp	Glioma
+ErbB signaling pathway	pp	Prostate cancer
+ErbB signaling pathway	pp	Melanoma
+ErbB signaling pathway	pp	Bladder cancer
+ErbB signaling pathway	pp	Chronic myeloid leukemia
+ErbB signaling pathway	pp	Acute myeloid leukemia
+ErbB signaling pathway	pp	Small cell lung cancer
+ErbB signaling pathway	pp	Non-small cell lung cancer
+ErbB signaling pathway	pp	Central carbon metabolism in cancer
+ErbB signaling pathway	pp	Choline metabolism in cancer
+Ras signaling pathway	pp	Rap1 signaling pathway
+Ras signaling pathway	pp	cAMP signaling pathway
+Ras signaling pathway	pp	Chemokine signaling pathway
+Ras signaling pathway	pp	HIF-1 signaling pathway
+Ras signaling pathway	pp	FoxO signaling pathway
+Ras signaling pathway	pp	Sphingolipid signaling pathway
+Ras signaling pathway	pp	PI3K-Akt signaling pathway
+Ras signaling pathway	pp	Vascular smooth muscle contraction
+Ras signaling pathway	pp	VEGF signaling pathway
+Ras signaling pathway	pp	Focal adhesion
+Ras signaling pathway	pp	Natural killer cell mediated cytotoxicity
+Ras signaling pathway	pp	T cell receptor signaling pathway
+Ras signaling pathway	pp	B cell receptor signaling pathway
+Ras signaling pathway	pp	Fc epsilon RI signaling pathway
+Ras signaling pathway	pp	Fc gamma R-mediated phagocytosis
+Ras signaling pathway	pp	Circadian entrainment
+Ras signaling pathway	pp	Long-term potentiation
+Ras signaling pathway	pp	Neurotrophin signaling pathway
+Ras signaling pathway	pp	Retrograde endocannabinoid signaling
+Ras signaling pathway	pp	Glutamatergic synapse
+Ras signaling pathway	pp	Cholinergic synapse
+Ras signaling pathway	pp	Serotonergic synapse
+Ras signaling pathway	pp	Dopaminergic synapse
+Ras signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+Ras signaling pathway	pp	Regulation of actin cytoskeleton
+Ras signaling pathway	pp	Insulin signaling pathway
+Ras signaling pathway	pp	GnRH signaling pathway
+Ras signaling pathway	pp	Estrogen signaling pathway
+Ras signaling pathway	pp	Prolactin signaling pathway
+Ras signaling pathway	pp	Thyroid hormone signaling pathway
+Ras signaling pathway	pp	Oxytocin signaling pathway
+Ras signaling pathway	pp	Alcoholism
+Ras signaling pathway	pp	Hepatitis C
+Ras signaling pathway	pp	Hepatitis B
+Ras signaling pathway	pp	Pathways in cancer
+Ras signaling pathway	pp	Proteoglycans in cancer
+Ras signaling pathway	pp	Colorectal cancer
+Ras signaling pathway	pp	Renal cell carcinoma
+Ras signaling pathway	pp	Pancreatic cancer
+Ras signaling pathway	pp	Endometrial cancer
+Ras signaling pathway	pp	Glioma
+Ras signaling pathway	pp	Prostate cancer
+Ras signaling pathway	pp	Melanoma
+Ras signaling pathway	pp	Chronic myeloid leukemia
+Ras signaling pathway	pp	Acute myeloid leukemia
+Ras signaling pathway	pp	Non-small cell lung cancer
+Ras signaling pathway	pp	Central carbon metabolism in cancer
+Ras signaling pathway	pp	Choline metabolism in cancer
+Rap1 signaling pathway	pp	cGMP-PKG signaling pathway
+Rap1 signaling pathway	pp	cAMP signaling pathway
+Rap1 signaling pathway	pp	Chemokine signaling pathway
+Rap1 signaling pathway	pp	HIF-1 signaling pathway
+Rap1 signaling pathway	pp	FoxO signaling pathway
+Rap1 signaling pathway	pp	Sphingolipid signaling pathway
+Rap1 signaling pathway	pp	PI3K-Akt signaling pathway
+Rap1 signaling pathway	pp	Adrenergic signaling in cardiomyocytes
+Rap1 signaling pathway	pp	Vascular smooth muscle contraction
+Rap1 signaling pathway	pp	VEGF signaling pathway
+Rap1 signaling pathway	pp	Focal adhesion
+Rap1 signaling pathway	pp	Tight junction
+Rap1 signaling pathway	pp	Gap junction
+Rap1 signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+Rap1 signaling pathway	pp	Platelet activation
+Rap1 signaling pathway	pp	T cell receptor signaling pathway
+Rap1 signaling pathway	pp	B cell receptor signaling pathway
+Rap1 signaling pathway	pp	Fc epsilon RI signaling pathway
+Rap1 signaling pathway	pp	Fc gamma R-mediated phagocytosis
+Rap1 signaling pathway	pp	Leukocyte transendothelial migration
+Rap1 signaling pathway	pp	Circadian entrainment
+Rap1 signaling pathway	pp	Long-term potentiation
+Rap1 signaling pathway	pp	Neurotrophin signaling pathway
+Rap1 signaling pathway	pp	Retrograde endocannabinoid signaling
+Rap1 signaling pathway	pp	Cholinergic synapse
+Rap1 signaling pathway	pp	Dopaminergic synapse
+Rap1 signaling pathway	pp	Long-term depression
+Rap1 signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+Rap1 signaling pathway	pp	Regulation of actin cytoskeleton
+Rap1 signaling pathway	pp	Insulin signaling pathway
+Rap1 signaling pathway	pp	GnRH signaling pathway
+Rap1 signaling pathway	pp	Progesterone-mediated oocyte maturation
+Rap1 signaling pathway	pp	Estrogen signaling pathway
+Rap1 signaling pathway	pp	Melanogenesis
+Rap1 signaling pathway	pp	Prolactin signaling pathway
+Rap1 signaling pathway	pp	Thyroid hormone signaling pathway
+Rap1 signaling pathway	pp	Oxytocin signaling pathway
+Rap1 signaling pathway	pp	Gastric acid secretion
+Rap1 signaling pathway	pp	Chagas disease (American trypanosomiasis)
+Rap1 signaling pathway	pp	Pathways in cancer
+Rap1 signaling pathway	pp	Proteoglycans in cancer
+Rap1 signaling pathway	pp	Colorectal cancer
+Rap1 signaling pathway	pp	Renal cell carcinoma
+Rap1 signaling pathway	pp	Pancreatic cancer
+Rap1 signaling pathway	pp	Endometrial cancer
+Rap1 signaling pathway	pp	Glioma
+Rap1 signaling pathway	pp	Prostate cancer
+Rap1 signaling pathway	pp	Melanoma
+Rap1 signaling pathway	pp	Non-small cell lung cancer
+Rap1 signaling pathway	pp	Central carbon metabolism in cancer
+Rap1 signaling pathway	pp	Choline metabolism in cancer
+Calcium signaling pathway	pp	cGMP-PKG signaling pathway
+Calcium signaling pathway	pp	cAMP signaling pathway
+Calcium signaling pathway	pp	Phosphatidylinositol signaling system
+Calcium signaling pathway	pp	Neuroactive ligand-receptor interaction
+Calcium signaling pathway	pp	Oocyte meiosis
+Calcium signaling pathway	pp	Adrenergic signaling in cardiomyocytes
+Calcium signaling pathway	pp	Vascular smooth muscle contraction
+Calcium signaling pathway	pp	Gap junction
+Calcium signaling pathway	pp	Platelet activation
+Calcium signaling pathway	pp	Circadian entrainment
+Calcium signaling pathway	pp	Long-term potentiation
+Calcium signaling pathway	pp	Retrograde endocannabinoid signaling
+Calcium signaling pathway	pp	Glutamatergic synapse
+Calcium signaling pathway	pp	Cholinergic synapse
+Calcium signaling pathway	pp	Serotonergic synapse
+Calcium signaling pathway	pp	Dopaminergic synapse
+Calcium signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+Calcium signaling pathway	pp	Insulin secretion
+Calcium signaling pathway	pp	GnRH signaling pathway
+Calcium signaling pathway	pp	Estrogen signaling pathway
+Calcium signaling pathway	pp	Melanogenesis
+Calcium signaling pathway	pp	Thyroid hormone synthesis
+Calcium signaling pathway	pp	Oxytocin signaling pathway
+Calcium signaling pathway	pp	Glucagon signaling pathway
+Calcium signaling pathway	pp	Salivary secretion
+Calcium signaling pathway	pp	Gastric acid secretion
+Calcium signaling pathway	pp	Pancreatic secretion
+Calcium signaling pathway	pp	Alzheimer's disease
+Calcium signaling pathway	pp	Amphetamine addiction
+cGMP-PKG signaling pathway	pp	cAMP signaling pathway
+cGMP-PKG signaling pathway	pp	Chemokine signaling pathway
+cGMP-PKG signaling pathway	pp	Phosphatidylinositol signaling system
+cGMP-PKG signaling pathway	pp	Sphingolipid signaling pathway
+cGMP-PKG signaling pathway	pp	Oocyte meiosis
+cGMP-PKG signaling pathway	pp	Adrenergic signaling in cardiomyocytes
+cGMP-PKG signaling pathway	pp	Vascular smooth muscle contraction
+cGMP-PKG signaling pathway	pp	VEGF signaling pathway
+cGMP-PKG signaling pathway	pp	Gap junction
+cGMP-PKG signaling pathway	pp	Platelet activation
+cGMP-PKG signaling pathway	pp	T cell receptor signaling pathway
+cGMP-PKG signaling pathway	pp	B cell receptor signaling pathway
+cGMP-PKG signaling pathway	pp	TNF signaling pathway
+cGMP-PKG signaling pathway	pp	Circadian entrainment
+cGMP-PKG signaling pathway	pp	Long-term potentiation
+cGMP-PKG signaling pathway	pp	Neurotrophin signaling pathway
+cGMP-PKG signaling pathway	pp	Retrograde endocannabinoid signaling
+cGMP-PKG signaling pathway	pp	Glutamatergic synapse
+cGMP-PKG signaling pathway	pp	Cholinergic synapse
+cGMP-PKG signaling pathway	pp	Dopaminergic synapse
+cGMP-PKG signaling pathway	pp	Long-term depression
+cGMP-PKG signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+cGMP-PKG signaling pathway	pp	Insulin signaling pathway
+cGMP-PKG signaling pathway	pp	Insulin secretion
+cGMP-PKG signaling pathway	pp	GnRH signaling pathway
+cGMP-PKG signaling pathway	pp	Progesterone-mediated oocyte maturation
+cGMP-PKG signaling pathway	pp	Estrogen signaling pathway
+cGMP-PKG signaling pathway	pp	Melanogenesis
+cGMP-PKG signaling pathway	pp	Thyroid hormone synthesis
+cGMP-PKG signaling pathway	pp	Thyroid hormone signaling pathway
+cGMP-PKG signaling pathway	pp	Oxytocin signaling pathway
+cGMP-PKG signaling pathway	pp	Glucagon signaling pathway
+cGMP-PKG signaling pathway	pp	Type II diabetes mellitus
+cGMP-PKG signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+cGMP-PKG signaling pathway	pp	Endocrine and other factor-regulated calcium reabsorption
+cGMP-PKG signaling pathway	pp	Salivary secretion
+cGMP-PKG signaling pathway	pp	Gastric acid secretion
+cGMP-PKG signaling pathway	pp	Pancreatic secretion
+cGMP-PKG signaling pathway	pp	Carbohydrate digestion and absorption
+cGMP-PKG signaling pathway	pp	Alzheimer's disease
+cGMP-PKG signaling pathway	pp	Amphetamine addiction
+cGMP-PKG signaling pathway	pp	Chagas disease (American trypanosomiasis)
+cGMP-PKG signaling pathway	pp	Hepatitis B
+cGMP-PKG signaling pathway	pp	HTLV-I infection
+cGMP-PKG signaling pathway	pp	Glioma
+cGMP-PKG signaling pathway	pp	Prostate cancer
+cAMP signaling pathway	pp	Chemokine signaling pathway
+cAMP signaling pathway	pp	Sphingolipid signaling pathway
+cAMP signaling pathway	pp	Neuroactive ligand-receptor interaction
+cAMP signaling pathway	pp	Oocyte meiosis
+cAMP signaling pathway	pp	Adrenergic signaling in cardiomyocytes
+cAMP signaling pathway	pp	Vascular smooth muscle contraction
+cAMP signaling pathway	pp	Focal adhesion
+cAMP signaling pathway	pp	Gap junction
+cAMP signaling pathway	pp	Platelet activation
+cAMP signaling pathway	pp	T cell receptor signaling pathway
+cAMP signaling pathway	pp	B cell receptor signaling pathway
+cAMP signaling pathway	pp	Fc epsilon RI signaling pathway
+cAMP signaling pathway	pp	TNF signaling pathway
+cAMP signaling pathway	pp	Circadian entrainment
+cAMP signaling pathway	pp	Long-term potentiation
+cAMP signaling pathway	pp	Neurotrophin signaling pathway
+cAMP signaling pathway	pp	Retrograde endocannabinoid signaling
+cAMP signaling pathway	pp	Glutamatergic synapse
+cAMP signaling pathway	pp	Cholinergic synapse
+cAMP signaling pathway	pp	Dopaminergic synapse
+cAMP signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+cAMP signaling pathway	pp	Insulin signaling pathway
+cAMP signaling pathway	pp	Insulin secretion
+cAMP signaling pathway	pp	GnRH signaling pathway
+cAMP signaling pathway	pp	Progesterone-mediated oocyte maturation
+cAMP signaling pathway	pp	Estrogen signaling pathway
+cAMP signaling pathway	pp	Melanogenesis
+cAMP signaling pathway	pp	Thyroid hormone synthesis
+cAMP signaling pathway	pp	Thyroid hormone signaling pathway
+cAMP signaling pathway	pp	Oxytocin signaling pathway
+cAMP signaling pathway	pp	Glucagon signaling pathway
+cAMP signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+cAMP signaling pathway	pp	Salivary secretion
+cAMP signaling pathway	pp	Gastric acid secretion
+cAMP signaling pathway	pp	Pancreatic secretion
+cAMP signaling pathway	pp	Carbohydrate digestion and absorption
+cAMP signaling pathway	pp	Bile secretion
+cAMP signaling pathway	pp	Cocaine addiction
+cAMP signaling pathway	pp	Amphetamine addiction
+cAMP signaling pathway	pp	Morphine addiction
+cAMP signaling pathway	pp	Alcoholism
+cAMP signaling pathway	pp	Chagas disease (American trypanosomiasis)
+cAMP signaling pathway	pp	Hepatitis B
+cAMP signaling pathway	pp	Pathways in cancer
+cAMP signaling pathway	pp	Proteoglycans in cancer
+cAMP signaling pathway	pp	Colorectal cancer
+cAMP signaling pathway	pp	Renal cell carcinoma
+cAMP signaling pathway	pp	Pancreatic cancer
+cAMP signaling pathway	pp	Glioma
+cAMP signaling pathway	pp	Prostate cancer
+cAMP signaling pathway	pp	Choline metabolism in cancer
+Cytokine-cytokine receptor interaction	pp	Chemokine signaling pathway
+Cytokine-cytokine receptor interaction	pp	PI3K-Akt signaling pathway
+Cytokine-cytokine receptor interaction	pp	Toll-like receptor signaling pathway
+Cytokine-cytokine receptor interaction	pp	Jak-STAT signaling pathway
+Cytokine-cytokine receptor interaction	pp	Hematopoietic cell lineage
+Cytokine-cytokine receptor interaction	pp	Measles
+Cytokine-cytokine receptor interaction	pp	Inflammatory bowel disease (IBD)
+Cytokine-cytokine receptor interaction	pp	Rheumatoid arthritis
+Chemokine signaling pathway	pp	Sphingolipid signaling pathway
+Chemokine signaling pathway	pp	PI3K-Akt signaling pathway
+Chemokine signaling pathway	pp	Adrenergic signaling in cardiomyocytes
+Chemokine signaling pathway	pp	Vascular smooth muscle contraction
+Chemokine signaling pathway	pp	VEGF signaling pathway
+Chemokine signaling pathway	pp	Focal adhesion
+Chemokine signaling pathway	pp	Gap junction
+Chemokine signaling pathway	pp	Platelet activation
+Chemokine signaling pathway	pp	Toll-like receptor signaling pathway
+Chemokine signaling pathway	pp	Natural killer cell mediated cytotoxicity
+Chemokine signaling pathway	pp	T cell receptor signaling pathway
+Chemokine signaling pathway	pp	B cell receptor signaling pathway
+Chemokine signaling pathway	pp	Fc epsilon RI signaling pathway
+Chemokine signaling pathway	pp	Fc gamma R-mediated phagocytosis
+Chemokine signaling pathway	pp	TNF signaling pathway
+Chemokine signaling pathway	pp	Leukocyte transendothelial migration
+Chemokine signaling pathway	pp	Circadian entrainment
+Chemokine signaling pathway	pp	Long-term potentiation
+Chemokine signaling pathway	pp	Neurotrophin signaling pathway
+Chemokine signaling pathway	pp	Retrograde endocannabinoid signaling
+Chemokine signaling pathway	pp	Glutamatergic synapse
+Chemokine signaling pathway	pp	Cholinergic synapse
+Chemokine signaling pathway	pp	Serotonergic synapse
+Chemokine signaling pathway	pp	GABAergic synapse
+Chemokine signaling pathway	pp	Dopaminergic synapse
+Chemokine signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+Chemokine signaling pathway	pp	Regulation of actin cytoskeleton
+Chemokine signaling pathway	pp	Insulin signaling pathway
+Chemokine signaling pathway	pp	GnRH signaling pathway
+Chemokine signaling pathway	pp	Progesterone-mediated oocyte maturation
+Chemokine signaling pathway	pp	Estrogen signaling pathway
+Chemokine signaling pathway	pp	Melanogenesis
+Chemokine signaling pathway	pp	Prolactin signaling pathway
+Chemokine signaling pathway	pp	Thyroid hormone signaling pathway
+Chemokine signaling pathway	pp	Oxytocin signaling pathway
+Chemokine signaling pathway	pp	Morphine addiction
+Chemokine signaling pathway	pp	Alcoholism
+Chemokine signaling pathway	pp	Bacterial invasion of epithelial cells
+Chemokine signaling pathway	pp	Chagas disease (American trypanosomiasis)
+Chemokine signaling pathway	pp	Toxoplasmosis
+Chemokine signaling pathway	pp	Hepatitis C
+Chemokine signaling pathway	pp	Hepatitis B
+Chemokine signaling pathway	pp	Pathways in cancer
+Chemokine signaling pathway	pp	Viral carcinogenesis
+Chemokine signaling pathway	pp	Proteoglycans in cancer
+Chemokine signaling pathway	pp	Colorectal cancer
+Chemokine signaling pathway	pp	Renal cell carcinoma
+Chemokine signaling pathway	pp	Pancreatic cancer
+Chemokine signaling pathway	pp	Endometrial cancer
+Chemokine signaling pathway	pp	Glioma
+Chemokine signaling pathway	pp	Prostate cancer
+Chemokine signaling pathway	pp	Chronic myeloid leukemia
+Chemokine signaling pathway	pp	Acute myeloid leukemia
+Chemokine signaling pathway	pp	Non-small cell lung cancer
+Chemokine signaling pathway	pp	Choline metabolism in cancer
+NF-kappa B signaling pathway	pp	Apoptosis
+NF-kappa B signaling pathway	pp	Osteoclast differentiation
+NF-kappa B signaling pathway	pp	Toll-like receptor signaling pathway
+NF-kappa B signaling pathway	pp	NOD-like receptor signaling pathway
+NF-kappa B signaling pathway	pp	RIG-I-like receptor signaling pathway
+NF-kappa B signaling pathway	pp	T cell receptor signaling pathway
+NF-kappa B signaling pathway	pp	B cell receptor signaling pathway
+NF-kappa B signaling pathway	pp	TNF signaling pathway
+NF-kappa B signaling pathway	pp	Pertussis
+NF-kappa B signaling pathway	pp	Leishmaniasis
+NF-kappa B signaling pathway	pp	Chagas disease (American trypanosomiasis)
+NF-kappa B signaling pathway	pp	Toxoplasmosis
+NF-kappa B signaling pathway	pp	Herpes simplex infection
+NF-kappa B signaling pathway	pp	Epstein-Barr virus infection
+NF-kappa B signaling pathway	pp	Small cell lung cancer
+HIF-1 signaling pathway	pp	FoxO signaling pathway
+HIF-1 signaling pathway	pp	Sphingolipid signaling pathway
+HIF-1 signaling pathway	pp	mTOR signaling pathway
+HIF-1 signaling pathway	pp	PI3K-Akt signaling pathway
+HIF-1 signaling pathway	pp	AMPK signaling pathway
+HIF-1 signaling pathway	pp	VEGF signaling pathway
+HIF-1 signaling pathway	pp	Osteoclast differentiation
+HIF-1 signaling pathway	pp	Toll-like receptor signaling pathway
+HIF-1 signaling pathway	pp	Natural killer cell mediated cytotoxicity
+HIF-1 signaling pathway	pp	T cell receptor signaling pathway
+HIF-1 signaling pathway	pp	B cell receptor signaling pathway
+HIF-1 signaling pathway	pp	Fc epsilon RI signaling pathway
+HIF-1 signaling pathway	pp	Fc gamma R-mediated phagocytosis
+HIF-1 signaling pathway	pp	TNF signaling pathway
+HIF-1 signaling pathway	pp	Neurotrophin signaling pathway
+HIF-1 signaling pathway	pp	Cholinergic synapse
+HIF-1 signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+HIF-1 signaling pathway	pp	Insulin signaling pathway
+HIF-1 signaling pathway	pp	Progesterone-mediated oocyte maturation
+HIF-1 signaling pathway	pp	Estrogen signaling pathway
+HIF-1 signaling pathway	pp	Prolactin signaling pathway
+HIF-1 signaling pathway	pp	Thyroid hormone signaling pathway
+HIF-1 signaling pathway	pp	Oxytocin signaling pathway
+HIF-1 signaling pathway	pp	Type II diabetes mellitus
+HIF-1 signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+HIF-1 signaling pathway	pp	Carbohydrate digestion and absorption
+HIF-1 signaling pathway	pp	Chagas disease (American trypanosomiasis)
+HIF-1 signaling pathway	pp	Toxoplasmosis
+HIF-1 signaling pathway	pp	Hepatitis B
+HIF-1 signaling pathway	pp	Measles
+HIF-1 signaling pathway	pp	Influenza A
+HIF-1 signaling pathway	pp	Pathways in cancer
+HIF-1 signaling pathway	pp	Proteoglycans in cancer
+HIF-1 signaling pathway	pp	Colorectal cancer
+HIF-1 signaling pathway	pp	Renal cell carcinoma
+HIF-1 signaling pathway	pp	Pancreatic cancer
+HIF-1 signaling pathway	pp	Endometrial cancer
+HIF-1 signaling pathway	pp	Glioma
+HIF-1 signaling pathway	pp	Prostate cancer
+HIF-1 signaling pathway	pp	Melanoma
+HIF-1 signaling pathway	pp	Chronic myeloid leukemia
+HIF-1 signaling pathway	pp	Acute myeloid leukemia
+HIF-1 signaling pathway	pp	Small cell lung cancer
+HIF-1 signaling pathway	pp	Non-small cell lung cancer
+HIF-1 signaling pathway	pp	Central carbon metabolism in cancer
+HIF-1 signaling pathway	pp	Choline metabolism in cancer
+FoxO signaling pathway	pp	Sphingolipid signaling pathway
+FoxO signaling pathway	pp	Cell cycle
+FoxO signaling pathway	pp	mTOR signaling pathway
+FoxO signaling pathway	pp	PI3K-Akt signaling pathway
+FoxO signaling pathway	pp	AMPK signaling pathway
+FoxO signaling pathway	pp	VEGF signaling pathway
+FoxO signaling pathway	pp	Osteoclast differentiation
+FoxO signaling pathway	pp	Focal adhesion
+FoxO signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+FoxO signaling pathway	pp	Toll-like receptor signaling pathway
+FoxO signaling pathway	pp	Natural killer cell mediated cytotoxicity
+FoxO signaling pathway	pp	T cell receptor signaling pathway
+FoxO signaling pathway	pp	B cell receptor signaling pathway
+FoxO signaling pathway	pp	Fc epsilon RI signaling pathway
+FoxO signaling pathway	pp	TNF signaling pathway
+FoxO signaling pathway	pp	Neurotrophin signaling pathway
+FoxO signaling pathway	pp	Insulin signaling pathway
+FoxO signaling pathway	pp	GnRH signaling pathway
+FoxO signaling pathway	pp	Progesterone-mediated oocyte maturation
+FoxO signaling pathway	pp	Estrogen signaling pathway
+FoxO signaling pathway	pp	Prolactin signaling pathway
+FoxO signaling pathway	pp	Thyroid hormone signaling pathway
+FoxO signaling pathway	pp	Adipocytokine signaling pathway
+FoxO signaling pathway	pp	Oxytocin signaling pathway
+FoxO signaling pathway	pp	Glucagon signaling pathway
+FoxO signaling pathway	pp	Type II diabetes mellitus
+FoxO signaling pathway	pp	Non-alcoholic fatty liver disease (NAFLD)
+FoxO signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+FoxO signaling pathway	pp	Chagas disease (American trypanosomiasis)
+FoxO signaling pathway	pp	Toxoplasmosis
+FoxO signaling pathway	pp	Hepatitis C
+FoxO signaling pathway	pp	Hepatitis B
+FoxO signaling pathway	pp	Influenza A
+FoxO signaling pathway	pp	HTLV-I infection
+FoxO signaling pathway	pp	Epstein-Barr virus infection
+FoxO signaling pathway	pp	Pathways in cancer
+FoxO signaling pathway	pp	Proteoglycans in cancer
+FoxO signaling pathway	pp	Colorectal cancer
+FoxO signaling pathway	pp	Renal cell carcinoma
+FoxO signaling pathway	pp	Pancreatic cancer
+FoxO signaling pathway	pp	Endometrial cancer
+FoxO signaling pathway	pp	Glioma
+FoxO signaling pathway	pp	Prostate cancer
+FoxO signaling pathway	pp	Melanoma
+FoxO signaling pathway	pp	Bladder cancer
+FoxO signaling pathway	pp	Chronic myeloid leukemia
+FoxO signaling pathway	pp	Acute myeloid leukemia
+FoxO signaling pathway	pp	Small cell lung cancer
+FoxO signaling pathway	pp	Non-small cell lung cancer
+FoxO signaling pathway	pp	Central carbon metabolism in cancer
+FoxO signaling pathway	pp	Choline metabolism in cancer
+Phosphatidylinositol signaling system	pp	mTOR signaling pathway
+Phosphatidylinositol signaling system	pp	Adrenergic signaling in cardiomyocytes
+Phosphatidylinositol signaling system	pp	VEGF signaling pathway
+Phosphatidylinositol signaling system	pp	Fc epsilon RI signaling pathway
+Phosphatidylinositol signaling system	pp	Fc gamma R-mediated phagocytosis
+Phosphatidylinositol signaling system	pp	Circadian entrainment
+Phosphatidylinositol signaling system	pp	Long-term potentiation
+Phosphatidylinositol signaling system	pp	Cholinergic synapse
+Phosphatidylinositol signaling system	pp	Inflammatory mediator regulation of TRP channels
+Phosphatidylinositol signaling system	pp	GnRH signaling pathway
+Phosphatidylinositol signaling system	pp	Estrogen signaling pathway
+Phosphatidylinositol signaling system	pp	Thyroid hormone signaling pathway
+Phosphatidylinositol signaling system	pp	Oxytocin signaling pathway
+Phosphatidylinositol signaling system	pp	Aldosterone-regulated sodium reabsorption
+Phosphatidylinositol signaling system	pp	Salivary secretion
+Phosphatidylinositol signaling system	pp	Gastric acid secretion
+Phosphatidylinositol signaling system	pp	Carbohydrate digestion and absorption
+Phosphatidylinositol signaling system	pp	Glioma
+Phosphatidylinositol signaling system	pp	Non-small cell lung cancer
+Phosphatidylinositol signaling system	pp	Choline metabolism in cancer
+Sphingolipid signaling pathway	pp	mTOR signaling pathway
+Sphingolipid signaling pathway	pp	PI3K-Akt signaling pathway
+Sphingolipid signaling pathway	pp	AMPK signaling pathway
+Sphingolipid signaling pathway	pp	Apoptosis
+Sphingolipid signaling pathway	pp	Adrenergic signaling in cardiomyocytes
+Sphingolipid signaling pathway	pp	VEGF signaling pathway
+Sphingolipid signaling pathway	pp	Osteoclast differentiation
+Sphingolipid signaling pathway	pp	Focal adhesion
+Sphingolipid signaling pathway	pp	Tight junction
+Sphingolipid signaling pathway	pp	Gap junction
+Sphingolipid signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+Sphingolipid signaling pathway	pp	Platelet activation
+Sphingolipid signaling pathway	pp	Toll-like receptor signaling pathway
+Sphingolipid signaling pathway	pp	Natural killer cell mediated cytotoxicity
+Sphingolipid signaling pathway	pp	T cell receptor signaling pathway
+Sphingolipid signaling pathway	pp	B cell receptor signaling pathway
+Sphingolipid signaling pathway	pp	Fc epsilon RI signaling pathway
+Sphingolipid signaling pathway	pp	Fc gamma R-mediated phagocytosis
+Sphingolipid signaling pathway	pp	TNF signaling pathway
+Sphingolipid signaling pathway	pp	Leukocyte transendothelial migration
+Sphingolipid signaling pathway	pp	Long-term potentiation
+Sphingolipid signaling pathway	pp	Neurotrophin signaling pathway
+Sphingolipid signaling pathway	pp	Retrograde endocannabinoid signaling
+Sphingolipid signaling pathway	pp	Cholinergic synapse
+Sphingolipid signaling pathway	pp	Dopaminergic synapse
+Sphingolipid signaling pathway	pp	Long-term depression
+Sphingolipid signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+Sphingolipid signaling pathway	pp	Insulin signaling pathway
+Sphingolipid signaling pathway	pp	GnRH signaling pathway
+Sphingolipid signaling pathway	pp	Progesterone-mediated oocyte maturation
+Sphingolipid signaling pathway	pp	Estrogen signaling pathway
+Sphingolipid signaling pathway	pp	Melanogenesis
+Sphingolipid signaling pathway	pp	Prolactin signaling pathway
+Sphingolipid signaling pathway	pp	Thyroid hormone signaling pathway
+Sphingolipid signaling pathway	pp	Oxytocin signaling pathway
+Sphingolipid signaling pathway	pp	Type II diabetes mellitus
+Sphingolipid signaling pathway	pp	Non-alcoholic fatty liver disease (NAFLD)
+Sphingolipid signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+Sphingolipid signaling pathway	pp	Pertussis
+Sphingolipid signaling pathway	pp	Chagas disease (American trypanosomiasis)
+Sphingolipid signaling pathway	pp	Toxoplasmosis
+Sphingolipid signaling pathway	pp	Amoebiasis
+Sphingolipid signaling pathway	pp	Tuberculosis
+Sphingolipid signaling pathway	pp	Hepatitis C
+Sphingolipid signaling pathway	pp	Hepatitis B
+Sphingolipid signaling pathway	pp	Influenza A
+Sphingolipid signaling pathway	pp	Pathways in cancer
+Sphingolipid signaling pathway	pp	Proteoglycans in cancer
+Sphingolipid signaling pathway	pp	Colorectal cancer
+Sphingolipid signaling pathway	pp	Renal cell carcinoma
+Sphingolipid signaling pathway	pp	Pancreatic cancer
+Sphingolipid signaling pathway	pp	Endometrial cancer
+Sphingolipid signaling pathway	pp	Glioma
+Sphingolipid signaling pathway	pp	Prostate cancer
+Sphingolipid signaling pathway	pp	Melanoma
+Sphingolipid signaling pathway	pp	Chronic myeloid leukemia
+Sphingolipid signaling pathway	pp	Acute myeloid leukemia
+Sphingolipid signaling pathway	pp	Small cell lung cancer
+Sphingolipid signaling pathway	pp	Non-small cell lung cancer
+Sphingolipid signaling pathway	pp	Central carbon metabolism in cancer
+Sphingolipid signaling pathway	pp	Choline metabolism in cancer
+Neuroactive ligand-receptor interaction	pp	Nicotine addiction
+Cell cycle	pp	Oocyte meiosis
+Cell cycle	pp	p53 signaling pathway
+Cell cycle	pp	TGF-beta signaling pathway
+Cell cycle	pp	Progesterone-mediated oocyte maturation
+Cell cycle	pp	Hepatitis B
+Cell cycle	pp	HTLV-I infection
+Cell cycle	pp	Viral carcinogenesis
+Cell cycle	pp	Chronic myeloid leukemia
+Oocyte meiosis	pp	Adrenergic signaling in cardiomyocytes
+Oocyte meiosis	pp	Vascular smooth muscle contraction
+Oocyte meiosis	pp	Gap junction
+Oocyte meiosis	pp	Platelet activation
+Oocyte meiosis	pp	Circadian entrainment
+Oocyte meiosis	pp	Long-term potentiation
+Oocyte meiosis	pp	Retrograde endocannabinoid signaling
+Oocyte meiosis	pp	Glutamatergic synapse
+Oocyte meiosis	pp	Cholinergic synapse
+Oocyte meiosis	pp	Dopaminergic synapse
+Oocyte meiosis	pp	Inflammatory mediator regulation of TRP channels
+Oocyte meiosis	pp	Insulin secretion
+Oocyte meiosis	pp	GnRH signaling pathway
+Oocyte meiosis	pp	Ovarian steroidogenesis
+Oocyte meiosis	pp	Progesterone-mediated oocyte maturation
+Oocyte meiosis	pp	Estrogen signaling pathway
+Oocyte meiosis	pp	Melanogenesis
+Oocyte meiosis	pp	Thyroid hormone synthesis
+Oocyte meiosis	pp	Oxytocin signaling pathway
+Oocyte meiosis	pp	Glucagon signaling pathway
+Oocyte meiosis	pp	Salivary secretion
+Oocyte meiosis	pp	Gastric acid secretion
+Oocyte meiosis	pp	Amphetamine addiction
+Oocyte meiosis	pp	HTLV-I infection
+Oocyte meiosis	pp	Glioma
+Regulation of autophagy	pp	Toll-like receptor signaling pathway
+Regulation of autophagy	pp	RIG-I-like receptor signaling pathway
+Regulation of autophagy	pp	Cytosolic DNA-sensing pathway
+Regulation of autophagy	pp	Natural killer cell mediated cytotoxicity
+Regulation of autophagy	pp	Measles
+Regulation of autophagy	pp	Autoimmune thyroid disease
+Phagosome	pp	Cell adhesion molecules (CAMs)
+Phagosome	pp	Antigen processing and presentation
+Phagosome	pp	Synaptic vesicle cycle
+Phagosome	pp	Type I diabetes mellitus
+Phagosome	pp	Collecting duct acid secretion
+Phagosome	pp	Vibrio cholerae infection
+Phagosome	pp	Epithelial cell signaling in Helicobacter pylori infection
+Phagosome	pp	Pathogenic Escherichia coli infection
+Phagosome	pp	Leishmaniasis
+Phagosome	pp	Staphylococcus aureus infection
+Phagosome	pp	Tuberculosis
+Phagosome	pp	Asthma
+Phagosome	pp	Autoimmune thyroid disease
+Phagosome	pp	Inflammatory bowel disease (IBD)
+Phagosome	pp	Rheumatoid arthritis
+Phagosome	pp	Allograft rejection
+Phagosome	pp	Graft-versus-host disease
+Phagosome	pp	Viral myocarditis
+mTOR signaling pathway	pp	PI3K-Akt signaling pathway
+mTOR signaling pathway	pp	AMPK signaling pathway
+mTOR signaling pathway	pp	Apoptosis
+mTOR signaling pathway	pp	VEGF signaling pathway
+mTOR signaling pathway	pp	Toll-like receptor signaling pathway
+mTOR signaling pathway	pp	T cell receptor signaling pathway
+mTOR signaling pathway	pp	B cell receptor signaling pathway
+mTOR signaling pathway	pp	Fc epsilon RI signaling pathway
+mTOR signaling pathway	pp	Fc gamma R-mediated phagocytosis
+mTOR signaling pathway	pp	TNF signaling pathway
+mTOR signaling pathway	pp	Neurotrophin signaling pathway
+mTOR signaling pathway	pp	Cholinergic synapse
+mTOR signaling pathway	pp	Insulin signaling pathway
+mTOR signaling pathway	pp	Progesterone-mediated oocyte maturation
+mTOR signaling pathway	pp	Estrogen signaling pathway
+mTOR signaling pathway	pp	Prolactin signaling pathway
+mTOR signaling pathway	pp	Thyroid hormone signaling pathway
+mTOR signaling pathway	pp	Type II diabetes mellitus
+mTOR signaling pathway	pp	Non-alcoholic fatty liver disease (NAFLD)
+mTOR signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+mTOR signaling pathway	pp	Carbohydrate digestion and absorption
+mTOR signaling pathway	pp	Chagas disease (American trypanosomiasis)
+mTOR signaling pathway	pp	Toxoplasmosis
+mTOR signaling pathway	pp	Hepatitis C
+mTOR signaling pathway	pp	Hepatitis B
+mTOR signaling pathway	pp	Proteoglycans in cancer
+mTOR signaling pathway	pp	Colorectal cancer
+mTOR signaling pathway	pp	Renal cell carcinoma
+mTOR signaling pathway	pp	Pancreatic cancer
+mTOR signaling pathway	pp	Endometrial cancer
+mTOR signaling pathway	pp	Glioma
+mTOR signaling pathway	pp	Prostate cancer
+mTOR signaling pathway	pp	Melanoma
+mTOR signaling pathway	pp	Chronic myeloid leukemia
+mTOR signaling pathway	pp	Acute myeloid leukemia
+mTOR signaling pathway	pp	Small cell lung cancer
+mTOR signaling pathway	pp	Non-small cell lung cancer
+mTOR signaling pathway	pp	Central carbon metabolism in cancer
+mTOR signaling pathway	pp	Choline metabolism in cancer
+PI3K-Akt signaling pathway	pp	AMPK signaling pathway
+PI3K-Akt signaling pathway	pp	Focal adhesion
+PI3K-Akt signaling pathway	pp	ECM-receptor interaction
+PI3K-Akt signaling pathway	pp	Toll-like receptor signaling pathway
+PI3K-Akt signaling pathway	pp	Jak-STAT signaling pathway
+PI3K-Akt signaling pathway	pp	Cholinergic synapse
+PI3K-Akt signaling pathway	pp	Dopaminergic synapse
+PI3K-Akt signaling pathway	pp	Regulation of actin cytoskeleton
+PI3K-Akt signaling pathway	pp	Insulin signaling pathway
+PI3K-Akt signaling pathway	pp	Toxoplasmosis
+PI3K-Akt signaling pathway	pp	Amoebiasis
+PI3K-Akt signaling pathway	pp	Hepatitis C
+PI3K-Akt signaling pathway	pp	Hepatitis B
+PI3K-Akt signaling pathway	pp	Measles
+PI3K-Akt signaling pathway	pp	Pathways in cancer
+PI3K-Akt signaling pathway	pp	Viral carcinogenesis
+PI3K-Akt signaling pathway	pp	Proteoglycans in cancer
+PI3K-Akt signaling pathway	pp	Endometrial cancer
+PI3K-Akt signaling pathway	pp	Glioma
+PI3K-Akt signaling pathway	pp	Prostate cancer
+PI3K-Akt signaling pathway	pp	Melanoma
+PI3K-Akt signaling pathway	pp	Chronic myeloid leukemia
+PI3K-Akt signaling pathway	pp	Acute myeloid leukemia
+PI3K-Akt signaling pathway	pp	Small cell lung cancer
+PI3K-Akt signaling pathway	pp	Non-small cell lung cancer
+PI3K-Akt signaling pathway	pp	Choline metabolism in cancer
+AMPK signaling pathway	pp	Adrenergic signaling in cardiomyocytes
+AMPK signaling pathway	pp	Dopaminergic synapse
+AMPK signaling pathway	pp	Insulin signaling pathway
+AMPK signaling pathway	pp	Adipocytokine signaling pathway
+AMPK signaling pathway	pp	Glucagon signaling pathway
+AMPK signaling pathway	pp	Type II diabetes mellitus
+AMPK signaling pathway	pp	Non-alcoholic fatty liver disease (NAFLD)
+AMPK signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+AMPK signaling pathway	pp	Carbohydrate digestion and absorption
+AMPK signaling pathway	pp	Chagas disease (American trypanosomiasis)
+AMPK signaling pathway	pp	Endometrial cancer
+AMPK signaling pathway	pp	Prostate cancer
+AMPK signaling pathway	pp	Acute myeloid leukemia
+AMPK signaling pathway	pp	Choline metabolism in cancer
+Apoptosis	pp	VEGF signaling pathway
+Apoptosis	pp	Osteoclast differentiation
+Apoptosis	pp	Toll-like receptor signaling pathway
+Apoptosis	pp	RIG-I-like receptor signaling pathway
+Apoptosis	pp	Natural killer cell mediated cytotoxicity
+Apoptosis	pp	T cell receptor signaling pathway
+Apoptosis	pp	B cell receptor signaling pathway
+Apoptosis	pp	Fc epsilon RI signaling pathway
+Apoptosis	pp	TNF signaling pathway
+Apoptosis	pp	Neurotrophin signaling pathway
+Apoptosis	pp	Inflammatory mediator regulation of TRP channels
+Apoptosis	pp	Insulin signaling pathway
+Apoptosis	pp	Progesterone-mediated oocyte maturation
+Apoptosis	pp	Prolactin signaling pathway
+Apoptosis	pp	Thyroid hormone signaling pathway
+Apoptosis	pp	Adipocytokine signaling pathway
+Apoptosis	pp	Non-alcoholic fatty liver disease (NAFLD)
+Apoptosis	pp	Carbohydrate digestion and absorption
+Apoptosis	pp	Alzheimer's disease
+Apoptosis	pp	Amyotrophic lateral sclerosis (ALS)
+Apoptosis	pp	Legionellosis
+Apoptosis	pp	Chagas disease (American trypanosomiasis)
+Apoptosis	pp	Toxoplasmosis
+Apoptosis	pp	Amoebiasis
+Apoptosis	pp	Tuberculosis
+Apoptosis	pp	Hepatitis C
+Apoptosis	pp	Hepatitis B
+Apoptosis	pp	Measles
+Apoptosis	pp	Influenza A
+Apoptosis	pp	HTLV-I infection
+Apoptosis	pp	Epstein-Barr virus infection
+Apoptosis	pp	Pathways in cancer
+Apoptosis	pp	Colorectal cancer
+Apoptosis	pp	Pancreatic cancer
+Apoptosis	pp	Endometrial cancer
+Apoptosis	pp	Prostate cancer
+Apoptosis	pp	Melanoma
+Apoptosis	pp	Chronic myeloid leukemia
+Apoptosis	pp	Acute myeloid leukemia
+Apoptosis	pp	Small cell lung cancer
+Apoptosis	pp	Non-small cell lung cancer
+Apoptosis	pp	Central carbon metabolism in cancer
+Cardiac muscle contraction	pp	Adrenergic signaling in cardiomyocytes
+Cardiac muscle contraction	pp	Insulin secretion
+Cardiac muscle contraction	pp	Oxytocin signaling pathway
+Cardiac muscle contraction	pp	Non-alcoholic fatty liver disease (NAFLD)
+Cardiac muscle contraction	pp	Endocrine and other factor-regulated calcium reabsorption
+Cardiac muscle contraction	pp	Proximal tubule bicarbonate reclamation
+Cardiac muscle contraction	pp	Carbohydrate digestion and absorption
+Cardiac muscle contraction	pp	Alzheimer's disease
+Cardiac muscle contraction	pp	Parkinson's disease
+Cardiac muscle contraction	pp	Huntington's disease
+Cardiac muscle contraction	pp	Hypertrophic cardiomyopathy (HCM)
+Cardiac muscle contraction	pp	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Cardiac muscle contraction	pp	Dilated cardiomyopathy
+Adrenergic signaling in cardiomyocytes	pp	Vascular smooth muscle contraction
+Adrenergic signaling in cardiomyocytes	pp	VEGF signaling pathway
+Adrenergic signaling in cardiomyocytes	pp	Gap junction
+Adrenergic signaling in cardiomyocytes	pp	Platelet activation
+Adrenergic signaling in cardiomyocytes	pp	Fc epsilon RI signaling pathway
+Adrenergic signaling in cardiomyocytes	pp	TNF signaling pathway
+Adrenergic signaling in cardiomyocytes	pp	Circadian entrainment
+Adrenergic signaling in cardiomyocytes	pp	Long-term potentiation
+Adrenergic signaling in cardiomyocytes	pp	Neurotrophin signaling pathway
+Adrenergic signaling in cardiomyocytes	pp	Retrograde endocannabinoid signaling
+Adrenergic signaling in cardiomyocytes	pp	Glutamatergic synapse
+Adrenergic signaling in cardiomyocytes	pp	Cholinergic synapse
+Adrenergic signaling in cardiomyocytes	pp	Serotonergic synapse
+Adrenergic signaling in cardiomyocytes	pp	GABAergic synapse
+Adrenergic signaling in cardiomyocytes	pp	Dopaminergic synapse
+Adrenergic signaling in cardiomyocytes	pp	Inflammatory mediator regulation of TRP channels
+Adrenergic signaling in cardiomyocytes	pp	Insulin signaling pathway
+Adrenergic signaling in cardiomyocytes	pp	Insulin secretion
+Adrenergic signaling in cardiomyocytes	pp	GnRH signaling pathway
+Adrenergic signaling in cardiomyocytes	pp	Progesterone-mediated oocyte maturation
+Adrenergic signaling in cardiomyocytes	pp	Estrogen signaling pathway
+Adrenergic signaling in cardiomyocytes	pp	Melanogenesis
+Adrenergic signaling in cardiomyocytes	pp	Thyroid hormone synthesis
+Adrenergic signaling in cardiomyocytes	pp	Thyroid hormone signaling pathway
+Adrenergic signaling in cardiomyocytes	pp	Oxytocin signaling pathway
+Adrenergic signaling in cardiomyocytes	pp	Glucagon signaling pathway
+Adrenergic signaling in cardiomyocytes	pp	Aldosterone-regulated sodium reabsorption
+Adrenergic signaling in cardiomyocytes	pp	Endocrine and other factor-regulated calcium reabsorption
+Adrenergic signaling in cardiomyocytes	pp	Salivary secretion
+Adrenergic signaling in cardiomyocytes	pp	Gastric acid secretion
+Adrenergic signaling in cardiomyocytes	pp	Pancreatic secretion
+Adrenergic signaling in cardiomyocytes	pp	Carbohydrate digestion and absorption
+Adrenergic signaling in cardiomyocytes	pp	Bile secretion
+Adrenergic signaling in cardiomyocytes	pp	Cocaine addiction
+Adrenergic signaling in cardiomyocytes	pp	Amphetamine addiction
+Adrenergic signaling in cardiomyocytes	pp	Chagas disease (American trypanosomiasis)
+Adrenergic signaling in cardiomyocytes	pp	Hepatitis C
+Adrenergic signaling in cardiomyocytes	pp	Hepatitis B
+Adrenergic signaling in cardiomyocytes	pp	Glioma
+Adrenergic signaling in cardiomyocytes	pp	Prostate cancer
+Adrenergic signaling in cardiomyocytes	pp	Hypertrophic cardiomyopathy (HCM)
+Adrenergic signaling in cardiomyocytes	pp	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Adrenergic signaling in cardiomyocytes	pp	Dilated cardiomyopathy
+Vascular smooth muscle contraction	pp	VEGF signaling pathway
+Vascular smooth muscle contraction	pp	Gap junction
+Vascular smooth muscle contraction	pp	Platelet activation
+Vascular smooth muscle contraction	pp	Fc epsilon RI signaling pathway
+Vascular smooth muscle contraction	pp	Circadian entrainment
+Vascular smooth muscle contraction	pp	Long-term potentiation
+Vascular smooth muscle contraction	pp	Retrograde endocannabinoid signaling
+Vascular smooth muscle contraction	pp	Glutamatergic synapse
+Vascular smooth muscle contraction	pp	Cholinergic synapse
+Vascular smooth muscle contraction	pp	Serotonergic synapse
+Vascular smooth muscle contraction	pp	GABAergic synapse
+Vascular smooth muscle contraction	pp	Dopaminergic synapse
+Vascular smooth muscle contraction	pp	Long-term depression
+Vascular smooth muscle contraction	pp	Inflammatory mediator regulation of TRP channels
+Vascular smooth muscle contraction	pp	Insulin secretion
+Vascular smooth muscle contraction	pp	GnRH signaling pathway
+Vascular smooth muscle contraction	pp	Ovarian steroidogenesis
+Vascular smooth muscle contraction	pp	Progesterone-mediated oocyte maturation
+Vascular smooth muscle contraction	pp	Estrogen signaling pathway
+Vascular smooth muscle contraction	pp	Melanogenesis
+Vascular smooth muscle contraction	pp	Thyroid hormone synthesis
+Vascular smooth muscle contraction	pp	Oxytocin signaling pathway
+Vascular smooth muscle contraction	pp	Glucagon signaling pathway
+Vascular smooth muscle contraction	pp	Endocrine and other factor-regulated calcium reabsorption
+Vascular smooth muscle contraction	pp	Salivary secretion
+Vascular smooth muscle contraction	pp	Gastric acid secretion
+Vascular smooth muscle contraction	pp	Pancreatic secretion
+Vascular smooth muscle contraction	pp	Amphetamine addiction
+Vascular smooth muscle contraction	pp	Proteoglycans in cancer
+Vascular smooth muscle contraction	pp	Glioma
+Vascular smooth muscle contraction	pp	Dilated cardiomyopathy
+Wnt signaling pathway	pp	Hedgehog signaling pathway
+Wnt signaling pathway	pp	Hippo signaling pathway
+Wnt signaling pathway	pp	Adherens junction
+Wnt signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+Wnt signaling pathway	pp	Long-term potentiation
+Wnt signaling pathway	pp	Melanogenesis
+Wnt signaling pathway	pp	Oxytocin signaling pathway
+Wnt signaling pathway	pp	Amphetamine addiction
+Wnt signaling pathway	pp	HTLV-I infection
+Wnt signaling pathway	pp	Pathways in cancer
+Wnt signaling pathway	pp	Proteoglycans in cancer
+Wnt signaling pathway	pp	Colorectal cancer
+Wnt signaling pathway	pp	Basal cell carcinoma
+Dorso-ventral axis formation	pp	Renal cell carcinoma
+Dorso-ventral axis formation	pp	Endometrial cancer
+Dorso-ventral axis formation	pp	Glioma
+Dorso-ventral axis formation	pp	Acute myeloid leukemia
+Dorso-ventral axis formation	pp	Non-small cell lung cancer
+Hedgehog signaling pathway	pp	Hippo signaling pathway
+Hedgehog signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+Hedgehog signaling pathway	pp	Melanogenesis
+Hedgehog signaling pathway	pp	Proteoglycans in cancer
+Hedgehog signaling pathway	pp	Basal cell carcinoma
+TGF-beta signaling pathway	pp	Hippo signaling pathway
+TGF-beta signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+TGF-beta signaling pathway	pp	Chagas disease (American trypanosomiasis)
+TGF-beta signaling pathway	pp	Colorectal cancer
+Axon guidance	pp	VEGF signaling pathway
+Axon guidance	pp	T cell receptor signaling pathway
+VEGF signaling pathway	pp	Osteoclast differentiation
+VEGF signaling pathway	pp	Focal adhesion
+VEGF signaling pathway	pp	Gap junction
+VEGF signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+VEGF signaling pathway	pp	Platelet activation
+VEGF signaling pathway	pp	Toll-like receptor signaling pathway
+VEGF signaling pathway	pp	Natural killer cell mediated cytotoxicity
+VEGF signaling pathway	pp	T cell receptor signaling pathway
+VEGF signaling pathway	pp	B cell receptor signaling pathway
+VEGF signaling pathway	pp	Fc epsilon RI signaling pathway
+VEGF signaling pathway	pp	Fc gamma R-mediated phagocytosis
+VEGF signaling pathway	pp	TNF signaling pathway
+VEGF signaling pathway	pp	Leukocyte transendothelial migration
+VEGF signaling pathway	pp	Long-term potentiation
+VEGF signaling pathway	pp	Neurotrophin signaling pathway
+VEGF signaling pathway	pp	Glutamatergic synapse
+VEGF signaling pathway	pp	Cholinergic synapse
+VEGF signaling pathway	pp	Serotonergic synapse
+VEGF signaling pathway	pp	Long-term depression
+VEGF signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+VEGF signaling pathway	pp	Regulation of actin cytoskeleton
+VEGF signaling pathway	pp	Insulin signaling pathway
+VEGF signaling pathway	pp	GnRH signaling pathway
+VEGF signaling pathway	pp	Progesterone-mediated oocyte maturation
+VEGF signaling pathway	pp	Estrogen signaling pathway
+VEGF signaling pathway	pp	Prolactin signaling pathway
+VEGF signaling pathway	pp	Thyroid hormone signaling pathway
+VEGF signaling pathway	pp	Oxytocin signaling pathway
+VEGF signaling pathway	pp	Type II diabetes mellitus
+VEGF signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+VEGF signaling pathway	pp	Carbohydrate digestion and absorption
+VEGF signaling pathway	pp	Amyotrophic lateral sclerosis (ALS)
+VEGF signaling pathway	pp	Bacterial invasion of epithelial cells
+VEGF signaling pathway	pp	Chagas disease (American trypanosomiasis)
+VEGF signaling pathway	pp	Toxoplasmosis
+VEGF signaling pathway	pp	Tuberculosis
+VEGF signaling pathway	pp	Hepatitis C
+VEGF signaling pathway	pp	Hepatitis B
+VEGF signaling pathway	pp	Influenza A
+VEGF signaling pathway	pp	Proteoglycans in cancer
+VEGF signaling pathway	pp	Colorectal cancer
+VEGF signaling pathway	pp	Renal cell carcinoma
+VEGF signaling pathway	pp	Pancreatic cancer
+VEGF signaling pathway	pp	Endometrial cancer
+VEGF signaling pathway	pp	Glioma
+VEGF signaling pathway	pp	Prostate cancer
+VEGF signaling pathway	pp	Thyroid cancer
+VEGF signaling pathway	pp	Melanoma
+VEGF signaling pathway	pp	Bladder cancer
+VEGF signaling pathway	pp	Chronic myeloid leukemia
+VEGF signaling pathway	pp	Acute myeloid leukemia
+VEGF signaling pathway	pp	Small cell lung cancer
+VEGF signaling pathway	pp	Non-small cell lung cancer
+VEGF signaling pathway	pp	Central carbon metabolism in cancer
+VEGF signaling pathway	pp	Choline metabolism in cancer
+Osteoclast differentiation	pp	Platelet activation
+Osteoclast differentiation	pp	Toll-like receptor signaling pathway
+Osteoclast differentiation	pp	NOD-like receptor signaling pathway
+Osteoclast differentiation	pp	RIG-I-like receptor signaling pathway
+Osteoclast differentiation	pp	Jak-STAT signaling pathway
+Osteoclast differentiation	pp	Natural killer cell mediated cytotoxicity
+Osteoclast differentiation	pp	T cell receptor signaling pathway
+Osteoclast differentiation	pp	B cell receptor signaling pathway
+Osteoclast differentiation	pp	Fc epsilon RI signaling pathway
+Osteoclast differentiation	pp	Fc gamma R-mediated phagocytosis
+Osteoclast differentiation	pp	TNF signaling pathway
+Osteoclast differentiation	pp	Leukocyte transendothelial migration
+Osteoclast differentiation	pp	Neurotrophin signaling pathway
+Osteoclast differentiation	pp	Inflammatory mediator regulation of TRP channels
+Osteoclast differentiation	pp	Progesterone-mediated oocyte maturation
+Osteoclast differentiation	pp	Prolactin signaling pathway
+Osteoclast differentiation	pp	Type II diabetes mellitus
+Osteoclast differentiation	pp	Non-alcoholic fatty liver disease (NAFLD)
+Osteoclast differentiation	pp	Epithelial cell signaling in Helicobacter pylori infection
+Osteoclast differentiation	pp	Shigellosis
+Osteoclast differentiation	pp	Salmonella infection
+Osteoclast differentiation	pp	Pertussis
+Osteoclast differentiation	pp	Leishmaniasis
+Osteoclast differentiation	pp	Chagas disease (American trypanosomiasis)
+Osteoclast differentiation	pp	Toxoplasmosis
+Osteoclast differentiation	pp	Tuberculosis
+Osteoclast differentiation	pp	Hepatitis C
+Osteoclast differentiation	pp	Hepatitis B
+Osteoclast differentiation	pp	Measles
+Osteoclast differentiation	pp	Influenza A
+Osteoclast differentiation	pp	HTLV-I infection
+Osteoclast differentiation	pp	Herpes simplex infection
+Osteoclast differentiation	pp	Epstein-Barr virus infection
+Osteoclast differentiation	pp	Colorectal cancer
+Osteoclast differentiation	pp	Renal cell carcinoma
+Osteoclast differentiation	pp	Pancreatic cancer
+Osteoclast differentiation	pp	Endometrial cancer
+Osteoclast differentiation	pp	Glioma
+Osteoclast differentiation	pp	Prostate cancer
+Osteoclast differentiation	pp	Chronic myeloid leukemia
+Osteoclast differentiation	pp	Acute myeloid leukemia
+Osteoclast differentiation	pp	Small cell lung cancer
+Osteoclast differentiation	pp	Non-small cell lung cancer
+Osteoclast differentiation	pp	Choline metabolism in cancer
+Hippo signaling pathway	pp	Signaling pathways regulating pluripotency of stem cells
+Hippo signaling pathway	pp	Melanogenesis
+Hippo signaling pathway	pp	HTLV-I infection
+Hippo signaling pathway	pp	Pathways in cancer
+Hippo signaling pathway	pp	Proteoglycans in cancer
+Hippo signaling pathway	pp	Colorectal cancer
+Hippo signaling pathway	pp	Basal cell carcinoma
+Focal adhesion	pp	ECM-receptor interaction
+Focal adhesion	pp	Platelet activation
+Focal adhesion	pp	Natural killer cell mediated cytotoxicity
+Focal adhesion	pp	T cell receptor signaling pathway
+Focal adhesion	pp	B cell receptor signaling pathway
+Focal adhesion	pp	Fc epsilon RI signaling pathway
+Focal adhesion	pp	Fc gamma R-mediated phagocytosis
+Focal adhesion	pp	Leukocyte transendothelial migration
+Focal adhesion	pp	Neurotrophin signaling pathway
+Focal adhesion	pp	Regulation of actin cytoskeleton
+Focal adhesion	pp	Insulin signaling pathway
+Focal adhesion	pp	Estrogen signaling pathway
+Focal adhesion	pp	Prolactin signaling pathway
+Focal adhesion	pp	Thyroid hormone signaling pathway
+Focal adhesion	pp	Oxytocin signaling pathway
+Focal adhesion	pp	Bacterial invasion of epithelial cells
+Focal adhesion	pp	Toxoplasmosis
+Focal adhesion	pp	Amoebiasis
+Focal adhesion	pp	Pathways in cancer
+Focal adhesion	pp	Proteoglycans in cancer
+Focal adhesion	pp	Colorectal cancer
+Focal adhesion	pp	Renal cell carcinoma
+Focal adhesion	pp	Pancreatic cancer
+Focal adhesion	pp	Endometrial cancer
+Focal adhesion	pp	Glioma
+Focal adhesion	pp	Prostate cancer
+Focal adhesion	pp	Melanoma
+Focal adhesion	pp	Chronic myeloid leukemia
+Focal adhesion	pp	Acute myeloid leukemia
+Focal adhesion	pp	Small cell lung cancer
+Focal adhesion	pp	Non-small cell lung cancer
+Focal adhesion	pp	Choline metabolism in cancer
+Focal adhesion	pp	Hypertrophic cardiomyopathy (HCM)
+Focal adhesion	pp	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Focal adhesion	pp	Dilated cardiomyopathy
+ECM-receptor interaction	pp	Platelet activation
+ECM-receptor interaction	pp	Hematopoietic cell lineage
+ECM-receptor interaction	pp	Protein digestion and absorption
+ECM-receptor interaction	pp	Amoebiasis
+ECM-receptor interaction	pp	Small cell lung cancer
+ECM-receptor interaction	pp	Hypertrophic cardiomyopathy (HCM)
+ECM-receptor interaction	pp	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+ECM-receptor interaction	pp	Dilated cardiomyopathy
+Cell adhesion molecules (CAMs)	pp	Tight junction
+Cell adhesion molecules (CAMs)	pp	Antigen processing and presentation
+Cell adhesion molecules (CAMs)	pp	Leukocyte transendothelial migration
+Cell adhesion molecules (CAMs)	pp	Intestinal immune network for IgA production
+Cell adhesion molecules (CAMs)	pp	Type I diabetes mellitus
+Cell adhesion molecules (CAMs)	pp	Leishmaniasis
+Cell adhesion molecules (CAMs)	pp	Staphylococcus aureus infection
+Cell adhesion molecules (CAMs)	pp	Asthma
+Cell adhesion molecules (CAMs)	pp	Autoimmune thyroid disease
+Cell adhesion molecules (CAMs)	pp	Rheumatoid arthritis
+Cell adhesion molecules (CAMs)	pp	Allograft rejection
+Cell adhesion molecules (CAMs)	pp	Graft-versus-host disease
+Cell adhesion molecules (CAMs)	pp	Viral myocarditis
+Adherens junction	pp	Tight junction
+Adherens junction	pp	Leukocyte transendothelial migration
+Adherens junction	pp	Bacterial invasion of epithelial cells
+Adherens junction	pp	Shigellosis
+Adherens junction	pp	Colorectal cancer
+Adherens junction	pp	Pancreatic cancer
+Adherens junction	pp	Endometrial cancer
+Adherens junction	pp	Prostate cancer
+Adherens junction	pp	Thyroid cancer
+Adherens junction	pp	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Tight junction	pp	Leukocyte transendothelial migration
+Tight junction	pp	Hepatitis C
+Gap junction	pp	Platelet activation
+Gap junction	pp	Fc epsilon RI signaling pathway
+Gap junction	pp	Circadian entrainment
+Gap junction	pp	Long-term potentiation
+Gap junction	pp	Retrograde endocannabinoid signaling
+Gap junction	pp	Glutamatergic synapse
+Gap junction	pp	Cholinergic synapse
+Gap junction	pp	Serotonergic synapse
+Gap junction	pp	GABAergic synapse
+Gap junction	pp	Dopaminergic synapse
+Gap junction	pp	Long-term depression
+Gap junction	pp	Inflammatory mediator regulation of TRP channels
+Gap junction	pp	Insulin secretion
+Gap junction	pp	GnRH signaling pathway
+Gap junction	pp	Ovarian steroidogenesis
+Gap junction	pp	Progesterone-mediated oocyte maturation
+Gap junction	pp	Estrogen signaling pathway
+Gap junction	pp	Melanogenesis
+Gap junction	pp	Thyroid hormone synthesis
+Gap junction	pp	Thyroid hormone signaling pathway
+Gap junction	pp	Oxytocin signaling pathway
+Gap junction	pp	Endocrine and other factor-regulated calcium reabsorption
+Gap junction	pp	Salivary secretion
+Gap junction	pp	Gastric acid secretion
+Gap junction	pp	Pancreatic secretion
+Gap junction	pp	Bile secretion
+Gap junction	pp	Cocaine addiction
+Gap junction	pp	Morphine addiction
+Gap junction	pp	Pathogenic Escherichia coli infection
+Gap junction	pp	Pathways in cancer
+Gap junction	pp	Endometrial cancer
+Gap junction	pp	Glioma
+Gap junction	pp	Prostate cancer
+Gap junction	pp	Melanoma
+Gap junction	pp	Bladder cancer
+Gap junction	pp	Non-small cell lung cancer
+Gap junction	pp	Choline metabolism in cancer
+Gap junction	pp	Dilated cardiomyopathy
+Signaling pathways regulating pluripotency of stem cells	pp	T cell receptor signaling pathway
+Signaling pathways regulating pluripotency of stem cells	pp	B cell receptor signaling pathway
+Signaling pathways regulating pluripotency of stem cells	pp	Fc epsilon RI signaling pathway
+Signaling pathways regulating pluripotency of stem cells	pp	Neurotrophin signaling pathway
+Signaling pathways regulating pluripotency of stem cells	pp	Progesterone-mediated oocyte maturation
+Signaling pathways regulating pluripotency of stem cells	pp	Estrogen signaling pathway
+Signaling pathways regulating pluripotency of stem cells	pp	Melanogenesis
+Signaling pathways regulating pluripotency of stem cells	pp	Prolactin signaling pathway
+Signaling pathways regulating pluripotency of stem cells	pp	Thyroid hormone signaling pathway
+Signaling pathways regulating pluripotency of stem cells	pp	Hepatitis C
+Signaling pathways regulating pluripotency of stem cells	pp	Hepatitis B
+Signaling pathways regulating pluripotency of stem cells	pp	HTLV-I infection
+Signaling pathways regulating pluripotency of stem cells	pp	Pathways in cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Proteoglycans in cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Colorectal cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Renal cell carcinoma
+Signaling pathways regulating pluripotency of stem cells	pp	Pancreatic cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Endometrial cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Glioma
+Signaling pathways regulating pluripotency of stem cells	pp	Prostate cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Basal cell carcinoma
+Signaling pathways regulating pluripotency of stem cells	pp	Melanoma
+Signaling pathways regulating pluripotency of stem cells	pp	Chronic myeloid leukemia
+Signaling pathways regulating pluripotency of stem cells	pp	Acute myeloid leukemia
+Signaling pathways regulating pluripotency of stem cells	pp	Non-small cell lung cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Central carbon metabolism in cancer
+Signaling pathways regulating pluripotency of stem cells	pp	Choline metabolism in cancer
+Complement and coagulation cascades	pp	Prion diseases
+Complement and coagulation cascades	pp	Pertussis
+Complement and coagulation cascades	pp	Staphylococcus aureus infection
+Platelet activation	pp	T cell receptor signaling pathway
+Platelet activation	pp	B cell receptor signaling pathway
+Platelet activation	pp	Fc epsilon RI signaling pathway
+Platelet activation	pp	Fc gamma R-mediated phagocytosis
+Platelet activation	pp	Leukocyte transendothelial migration
+Platelet activation	pp	Circadian entrainment
+Platelet activation	pp	Long-term potentiation
+Platelet activation	pp	Neurotrophin signaling pathway
+Platelet activation	pp	Retrograde endocannabinoid signaling
+Platelet activation	pp	Glutamatergic synapse
+Platelet activation	pp	Cholinergic synapse
+Platelet activation	pp	Serotonergic synapse
+Platelet activation	pp	Dopaminergic synapse
+Platelet activation	pp	Long-term depression
+Platelet activation	pp	Inflammatory mediator regulation of TRP channels
+Platelet activation	pp	Regulation of actin cytoskeleton
+Platelet activation	pp	Insulin secretion
+Platelet activation	pp	GnRH signaling pathway
+Platelet activation	pp	Ovarian steroidogenesis
+Platelet activation	pp	Progesterone-mediated oocyte maturation
+Platelet activation	pp	Estrogen signaling pathway
+Platelet activation	pp	Melanogenesis
+Platelet activation	pp	Prolactin signaling pathway
+Platelet activation	pp	Thyroid hormone synthesis
+Platelet activation	pp	Thyroid hormone signaling pathway
+Platelet activation	pp	Oxytocin signaling pathway
+Platelet activation	pp	Salivary secretion
+Platelet activation	pp	Gastric acid secretion
+Platelet activation	pp	Pancreatic secretion
+Platelet activation	pp	Chagas disease (American trypanosomiasis)
+Platelet activation	pp	Toxoplasmosis
+Platelet activation	pp	Amoebiasis
+Platelet activation	pp	Pathways in cancer
+Platelet activation	pp	Proteoglycans in cancer
+Platelet activation	pp	Choline metabolism in cancer
+Platelet activation	pp	Dilated cardiomyopathy
+Antigen processing and presentation	pp	Natural killer cell mediated cytotoxicity
+Antigen processing and presentation	pp	Intestinal immune network for IgA production
+Antigen processing and presentation	pp	Type I diabetes mellitus
+Antigen processing and presentation	pp	Leishmaniasis
+Antigen processing and presentation	pp	Toxoplasmosis
+Antigen processing and presentation	pp	Staphylococcus aureus infection
+Antigen processing and presentation	pp	Tuberculosis
+Antigen processing and presentation	pp	Influenza A
+Antigen processing and presentation	pp	Herpes simplex infection
+Antigen processing and presentation	pp	Asthma
+Antigen processing and presentation	pp	Autoimmune thyroid disease
+Antigen processing and presentation	pp	Inflammatory bowel disease (IBD)
+Antigen processing and presentation	pp	Systemic lupus erythematosus
+Antigen processing and presentation	pp	Rheumatoid arthritis
+Antigen processing and presentation	pp	Allograft rejection
+Antigen processing and presentation	pp	Graft-versus-host disease
+Antigen processing and presentation	pp	Primary immunodeficiency
+Antigen processing and presentation	pp	Viral myocarditis
+Toll-like receptor signaling pathway	pp	NOD-like receptor signaling pathway
+Toll-like receptor signaling pathway	pp	RIG-I-like receptor signaling pathway
+Toll-like receptor signaling pathway	pp	Cytosolic DNA-sensing pathway
+Toll-like receptor signaling pathway	pp	Jak-STAT signaling pathway
+Toll-like receptor signaling pathway	pp	Natural killer cell mediated cytotoxicity
+Toll-like receptor signaling pathway	pp	T cell receptor signaling pathway
+Toll-like receptor signaling pathway	pp	B cell receptor signaling pathway
+Toll-like receptor signaling pathway	pp	Fc epsilon RI signaling pathway
+Toll-like receptor signaling pathway	pp	TNF signaling pathway
+Toll-like receptor signaling pathway	pp	Neurotrophin signaling pathway
+Toll-like receptor signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+Toll-like receptor signaling pathway	pp	Progesterone-mediated oocyte maturation
+Toll-like receptor signaling pathway	pp	Estrogen signaling pathway
+Toll-like receptor signaling pathway	pp	Prolactin signaling pathway
+Toll-like receptor signaling pathway	pp	Type II diabetes mellitus
+Toll-like receptor signaling pathway	pp	Non-alcoholic fatty liver disease (NAFLD)
+Toll-like receptor signaling pathway	pp	Epithelial cell signaling in Helicobacter pylori infection
+Toll-like receptor signaling pathway	pp	Shigellosis
+Toll-like receptor signaling pathway	pp	Salmonella infection
+Toll-like receptor signaling pathway	pp	Pertussis
+Toll-like receptor signaling pathway	pp	Legionellosis
+Toll-like receptor signaling pathway	pp	Leishmaniasis
+Toll-like receptor signaling pathway	pp	Chagas disease (American trypanosomiasis)
+Toll-like receptor signaling pathway	pp	Toxoplasmosis
+Toll-like receptor signaling pathway	pp	Amoebiasis
+Toll-like receptor signaling pathway	pp	Tuberculosis
+Toll-like receptor signaling pathway	pp	Hepatitis C
+Toll-like receptor signaling pathway	pp	Hepatitis B
+Toll-like receptor signaling pathway	pp	Measles
+Toll-like receptor signaling pathway	pp	Influenza A
+Toll-like receptor signaling pathway	pp	Herpes simplex infection
+Toll-like receptor signaling pathway	pp	Epstein-Barr virus infection
+Toll-like receptor signaling pathway	pp	Colorectal cancer
+Toll-like receptor signaling pathway	pp	Renal cell carcinoma
+Toll-like receptor signaling pathway	pp	Pancreatic cancer
+Toll-like receptor signaling pathway	pp	Endometrial cancer
+Toll-like receptor signaling pathway	pp	Glioma
+Toll-like receptor signaling pathway	pp	Prostate cancer
+Toll-like receptor signaling pathway	pp	Melanoma
+Toll-like receptor signaling pathway	pp	Chronic myeloid leukemia
+Toll-like receptor signaling pathway	pp	Acute myeloid leukemia
+Toll-like receptor signaling pathway	pp	Small cell lung cancer
+Toll-like receptor signaling pathway	pp	Non-small cell lung cancer
+Toll-like receptor signaling pathway	pp	Central carbon metabolism in cancer
+Toll-like receptor signaling pathway	pp	Choline metabolism in cancer
+Toll-like receptor signaling pathway	pp	Autoimmune thyroid disease
+NOD-like receptor signaling pathway	pp	RIG-I-like receptor signaling pathway
+NOD-like receptor signaling pathway	pp	Cytosolic DNA-sensing pathway
+NOD-like receptor signaling pathway	pp	T cell receptor signaling pathway
+NOD-like receptor signaling pathway	pp	TNF signaling pathway
+NOD-like receptor signaling pathway	pp	Neurotrophin signaling pathway
+NOD-like receptor signaling pathway	pp	Prolactin signaling pathway
+NOD-like receptor signaling pathway	pp	Adipocytokine signaling pathway
+NOD-like receptor signaling pathway	pp	Epithelial cell signaling in Helicobacter pylori infection
+NOD-like receptor signaling pathway	pp	Shigellosis
+NOD-like receptor signaling pathway	pp	Salmonella infection
+NOD-like receptor signaling pathway	pp	Pertussis
+NOD-like receptor signaling pathway	pp	Legionellosis
+NOD-like receptor signaling pathway	pp	Leishmaniasis
+NOD-like receptor signaling pathway	pp	Chagas disease (American trypanosomiasis)
+NOD-like receptor signaling pathway	pp	Toxoplasmosis
+NOD-like receptor signaling pathway	pp	Tuberculosis
+NOD-like receptor signaling pathway	pp	Hepatitis C
+NOD-like receptor signaling pathway	pp	Influenza A
+NOD-like receptor signaling pathway	pp	Herpes simplex infection
+NOD-like receptor signaling pathway	pp	Pancreatic cancer
+RIG-I-like receptor signaling pathway	pp	Cytosolic DNA-sensing pathway
+RIG-I-like receptor signaling pathway	pp	Jak-STAT signaling pathway
+RIG-I-like receptor signaling pathway	pp	T cell receptor signaling pathway
+RIG-I-like receptor signaling pathway	pp	TNF signaling pathway
+RIG-I-like receptor signaling pathway	pp	Adipocytokine signaling pathway
+RIG-I-like receptor signaling pathway	pp	Epithelial cell signaling in Helicobacter pylori infection
+RIG-I-like receptor signaling pathway	pp	Shigellosis
+RIG-I-like receptor signaling pathway	pp	Pertussis
+RIG-I-like receptor signaling pathway	pp	Leishmaniasis
+RIG-I-like receptor signaling pathway	pp	Chagas disease (American trypanosomiasis)
+RIG-I-like receptor signaling pathway	pp	Toxoplasmosis
+RIG-I-like receptor signaling pathway	pp	Tuberculosis
+RIG-I-like receptor signaling pathway	pp	Hepatitis C
+RIG-I-like receptor signaling pathway	pp	Hepatitis B
+RIG-I-like receptor signaling pathway	pp	Measles
+RIG-I-like receptor signaling pathway	pp	Influenza A
+RIG-I-like receptor signaling pathway	pp	Herpes simplex infection
+RIG-I-like receptor signaling pathway	pp	Epstein-Barr virus infection
+RIG-I-like receptor signaling pathway	pp	Autoimmune thyroid disease
+Cytosolic DNA-sensing pathway	pp	Hepatitis C
+Cytosolic DNA-sensing pathway	pp	Hepatitis B
+Cytosolic DNA-sensing pathway	pp	Measles
+Cytosolic DNA-sensing pathway	pp	Influenza A
+Cytosolic DNA-sensing pathway	pp	Herpes simplex infection
+Cytosolic DNA-sensing pathway	pp	Epstein-Barr virus infection
+Cytosolic DNA-sensing pathway	pp	Autoimmune thyroid disease
+Jak-STAT signaling pathway	pp	Hematopoietic cell lineage
+Jak-STAT signaling pathway	pp	Natural killer cell mediated cytotoxicity
+Jak-STAT signaling pathway	pp	T cell receptor signaling pathway
+Jak-STAT signaling pathway	pp	Fc epsilon RI signaling pathway
+Jak-STAT signaling pathway	pp	Prolactin signaling pathway
+Jak-STAT signaling pathway	pp	Toxoplasmosis
+Jak-STAT signaling pathway	pp	Tuberculosis
+Jak-STAT signaling pathway	pp	Hepatitis C
+Jak-STAT signaling pathway	pp	Hepatitis B
+Jak-STAT signaling pathway	pp	Measles
+Jak-STAT signaling pathway	pp	Influenza A
+Jak-STAT signaling pathway	pp	Herpes simplex infection
+Jak-STAT signaling pathway	pp	Chronic myeloid leukemia
+Jak-STAT signaling pathway	pp	Acute myeloid leukemia
+Jak-STAT signaling pathway	pp	Autoimmune thyroid disease
+Jak-STAT signaling pathway	pp	Inflammatory bowel disease (IBD)
+Hematopoietic cell lineage	pp	Leishmaniasis
+Natural killer cell mediated cytotoxicity	pp	T cell receptor signaling pathway
+Natural killer cell mediated cytotoxicity	pp	B cell receptor signaling pathway
+Natural killer cell mediated cytotoxicity	pp	Fc epsilon RI signaling pathway
+Natural killer cell mediated cytotoxicity	pp	Fc gamma R-mediated phagocytosis
+Natural killer cell mediated cytotoxicity	pp	Leukocyte transendothelial migration
+Natural killer cell mediated cytotoxicity	pp	Long-term potentiation
+Natural killer cell mediated cytotoxicity	pp	Neurotrophin signaling pathway
+Natural killer cell mediated cytotoxicity	pp	Insulin signaling pathway
+Natural killer cell mediated cytotoxicity	pp	Estrogen signaling pathway
+Natural killer cell mediated cytotoxicity	pp	Prolactin signaling pathway
+Natural killer cell mediated cytotoxicity	pp	Thyroid hormone signaling pathway
+Natural killer cell mediated cytotoxicity	pp	Oxytocin signaling pathway
+Natural killer cell mediated cytotoxicity	pp	Aldosterone-regulated sodium reabsorption
+Natural killer cell mediated cytotoxicity	pp	Tuberculosis
+Natural killer cell mediated cytotoxicity	pp	Hepatitis C
+Natural killer cell mediated cytotoxicity	pp	Hepatitis B
+Natural killer cell mediated cytotoxicity	pp	Measles
+Natural killer cell mediated cytotoxicity	pp	Influenza A
+Natural killer cell mediated cytotoxicity	pp	Herpes simplex infection
+Natural killer cell mediated cytotoxicity	pp	Proteoglycans in cancer
+Natural killer cell mediated cytotoxicity	pp	Colorectal cancer
+Natural killer cell mediated cytotoxicity	pp	Renal cell carcinoma
+Natural killer cell mediated cytotoxicity	pp	Pancreatic cancer
+Natural killer cell mediated cytotoxicity	pp	Endometrial cancer
+Natural killer cell mediated cytotoxicity	pp	Glioma
+Natural killer cell mediated cytotoxicity	pp	Prostate cancer
+Natural killer cell mediated cytotoxicity	pp	Melanoma
+Natural killer cell mediated cytotoxicity	pp	Chronic myeloid leukemia
+Natural killer cell mediated cytotoxicity	pp	Acute myeloid leukemia
+Natural killer cell mediated cytotoxicity	pp	Non-small cell lung cancer
+Natural killer cell mediated cytotoxicity	pp	Choline metabolism in cancer
+Natural killer cell mediated cytotoxicity	pp	Autoimmune thyroid disease
+Natural killer cell mediated cytotoxicity	pp	Graft-versus-host disease
+T cell receptor signaling pathway	pp	B cell receptor signaling pathway
+T cell receptor signaling pathway	pp	Fc epsilon RI signaling pathway
+T cell receptor signaling pathway	pp	Fc gamma R-mediated phagocytosis
+T cell receptor signaling pathway	pp	TNF signaling pathway
+T cell receptor signaling pathway	pp	Leukocyte transendothelial migration
+T cell receptor signaling pathway	pp	Neurotrophin signaling pathway
+T cell receptor signaling pathway	pp	Cholinergic synapse
+T cell receptor signaling pathway	pp	Regulation of actin cytoskeleton
+T cell receptor signaling pathway	pp	Insulin signaling pathway
+T cell receptor signaling pathway	pp	GnRH signaling pathway
+T cell receptor signaling pathway	pp	Progesterone-mediated oocyte maturation
+T cell receptor signaling pathway	pp	Estrogen signaling pathway
+T cell receptor signaling pathway	pp	Prolactin signaling pathway
+T cell receptor signaling pathway	pp	Thyroid hormone signaling pathway
+T cell receptor signaling pathway	pp	Adipocytokine signaling pathway
+T cell receptor signaling pathway	pp	Oxytocin signaling pathway
+T cell receptor signaling pathway	pp	Type II diabetes mellitus
+T cell receptor signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+T cell receptor signaling pathway	pp	Epithelial cell signaling in Helicobacter pylori infection
+T cell receptor signaling pathway	pp	Shigellosis
+T cell receptor signaling pathway	pp	Leishmaniasis
+T cell receptor signaling pathway	pp	Chagas disease (American trypanosomiasis)
+T cell receptor signaling pathway	pp	Toxoplasmosis
+T cell receptor signaling pathway	pp	Tuberculosis
+T cell receptor signaling pathway	pp	Hepatitis C
+T cell receptor signaling pathway	pp	Hepatitis B
+T cell receptor signaling pathway	pp	Measles
+T cell receptor signaling pathway	pp	Influenza A
+T cell receptor signaling pathway	pp	HTLV-I infection
+T cell receptor signaling pathway	pp	Epstein-Barr virus infection
+T cell receptor signaling pathway	pp	Proteoglycans in cancer
+T cell receptor signaling pathway	pp	Colorectal cancer
+T cell receptor signaling pathway	pp	Renal cell carcinoma
+T cell receptor signaling pathway	pp	Pancreatic cancer
+T cell receptor signaling pathway	pp	Endometrial cancer
+T cell receptor signaling pathway	pp	Glioma
+T cell receptor signaling pathway	pp	Prostate cancer
+T cell receptor signaling pathway	pp	Melanoma
+T cell receptor signaling pathway	pp	Chronic myeloid leukemia
+T cell receptor signaling pathway	pp	Acute myeloid leukemia
+T cell receptor signaling pathway	pp	Small cell lung cancer
+T cell receptor signaling pathway	pp	Non-small cell lung cancer
+T cell receptor signaling pathway	pp	Central carbon metabolism in cancer
+T cell receptor signaling pathway	pp	Choline metabolism in cancer
+T cell receptor signaling pathway	pp	Primary immunodeficiency
+B cell receptor signaling pathway	pp	Fc epsilon RI signaling pathway
+B cell receptor signaling pathway	pp	Fc gamma R-mediated phagocytosis
+B cell receptor signaling pathway	pp	TNF signaling pathway
+B cell receptor signaling pathway	pp	Long-term potentiation
+B cell receptor signaling pathway	pp	Neurotrophin signaling pathway
+B cell receptor signaling pathway	pp	Cholinergic synapse
+B cell receptor signaling pathway	pp	Regulation of actin cytoskeleton
+B cell receptor signaling pathway	pp	Insulin signaling pathway
+B cell receptor signaling pathway	pp	Progesterone-mediated oocyte maturation
+B cell receptor signaling pathway	pp	Estrogen signaling pathway
+B cell receptor signaling pathway	pp	Prolactin signaling pathway
+B cell receptor signaling pathway	pp	Thyroid hormone signaling pathway
+B cell receptor signaling pathway	pp	Oxytocin signaling pathway
+B cell receptor signaling pathway	pp	Type II diabetes mellitus
+B cell receptor signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+B cell receptor signaling pathway	pp	Carbohydrate digestion and absorption
+B cell receptor signaling pathway	pp	Chagas disease (American trypanosomiasis)
+B cell receptor signaling pathway	pp	Toxoplasmosis
+B cell receptor signaling pathway	pp	Hepatitis C
+B cell receptor signaling pathway	pp	Hepatitis B
+B cell receptor signaling pathway	pp	Measles
+B cell receptor signaling pathway	pp	Influenza A
+B cell receptor signaling pathway	pp	HTLV-I infection
+B cell receptor signaling pathway	pp	Epstein-Barr virus infection
+B cell receptor signaling pathway	pp	Proteoglycans in cancer
+B cell receptor signaling pathway	pp	Colorectal cancer
+B cell receptor signaling pathway	pp	Renal cell carcinoma
+B cell receptor signaling pathway	pp	Pancreatic cancer
+B cell receptor signaling pathway	pp	Endometrial cancer
+B cell receptor signaling pathway	pp	Glioma
+B cell receptor signaling pathway	pp	Prostate cancer
+B cell receptor signaling pathway	pp	Melanoma
+B cell receptor signaling pathway	pp	Chronic myeloid leukemia
+B cell receptor signaling pathway	pp	Acute myeloid leukemia
+B cell receptor signaling pathway	pp	Small cell lung cancer
+B cell receptor signaling pathway	pp	Non-small cell lung cancer
+B cell receptor signaling pathway	pp	Central carbon metabolism in cancer
+B cell receptor signaling pathway	pp	Choline metabolism in cancer
+Fc epsilon RI signaling pathway	pp	Fc gamma R-mediated phagocytosis
+Fc epsilon RI signaling pathway	pp	TNF signaling pathway
+Fc epsilon RI signaling pathway	pp	Leukocyte transendothelial migration
+Fc epsilon RI signaling pathway	pp	Neurotrophin signaling pathway
+Fc epsilon RI signaling pathway	pp	Cholinergic synapse
+Fc epsilon RI signaling pathway	pp	Serotonergic synapse
+Fc epsilon RI signaling pathway	pp	Long-term depression
+Fc epsilon RI signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+Fc epsilon RI signaling pathway	pp	Regulation of actin cytoskeleton
+Fc epsilon RI signaling pathway	pp	Insulin signaling pathway
+Fc epsilon RI signaling pathway	pp	GnRH signaling pathway
+Fc epsilon RI signaling pathway	pp	Progesterone-mediated oocyte maturation
+Fc epsilon RI signaling pathway	pp	Estrogen signaling pathway
+Fc epsilon RI signaling pathway	pp	Prolactin signaling pathway
+Fc epsilon RI signaling pathway	pp	Thyroid hormone signaling pathway
+Fc epsilon RI signaling pathway	pp	Oxytocin signaling pathway
+Fc epsilon RI signaling pathway	pp	Type II diabetes mellitus
+Fc epsilon RI signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+Fc epsilon RI signaling pathway	pp	Carbohydrate digestion and absorption
+Fc epsilon RI signaling pathway	pp	Epithelial cell signaling in Helicobacter pylori infection
+Fc epsilon RI signaling pathway	pp	Chagas disease (American trypanosomiasis)
+Fc epsilon RI signaling pathway	pp	Toxoplasmosis
+Fc epsilon RI signaling pathway	pp	Hepatitis C
+Fc epsilon RI signaling pathway	pp	Hepatitis B
+Fc epsilon RI signaling pathway	pp	Influenza A
+Fc epsilon RI signaling pathway	pp	Epstein-Barr virus infection
+Fc epsilon RI signaling pathway	pp	Proteoglycans in cancer
+Fc epsilon RI signaling pathway	pp	Colorectal cancer
+Fc epsilon RI signaling pathway	pp	Renal cell carcinoma
+Fc epsilon RI signaling pathway	pp	Pancreatic cancer
+Fc epsilon RI signaling pathway	pp	Endometrial cancer
+Fc epsilon RI signaling pathway	pp	Glioma
+Fc epsilon RI signaling pathway	pp	Prostate cancer
+Fc epsilon RI signaling pathway	pp	Melanoma
+Fc epsilon RI signaling pathway	pp	Chronic myeloid leukemia
+Fc epsilon RI signaling pathway	pp	Acute myeloid leukemia
+Fc epsilon RI signaling pathway	pp	Non-small cell lung cancer
+Fc epsilon RI signaling pathway	pp	Central carbon metabolism in cancer
+Fc epsilon RI signaling pathway	pp	Choline metabolism in cancer
+Fc epsilon RI signaling pathway	pp	Asthma
+Fc gamma R-mediated phagocytosis	pp	Leukocyte transendothelial migration
+Fc gamma R-mediated phagocytosis	pp	Neurotrophin signaling pathway
+Fc gamma R-mediated phagocytosis	pp	Cholinergic synapse
+Fc gamma R-mediated phagocytosis	pp	Long-term depression
+Fc gamma R-mediated phagocytosis	pp	Inflammatory mediator regulation of TRP channels
+Fc gamma R-mediated phagocytosis	pp	Regulation of actin cytoskeleton
+Fc gamma R-mediated phagocytosis	pp	Insulin signaling pathway
+Fc gamma R-mediated phagocytosis	pp	GnRH signaling pathway
+Fc gamma R-mediated phagocytosis	pp	Progesterone-mediated oocyte maturation
+Fc gamma R-mediated phagocytosis	pp	Estrogen signaling pathway
+Fc gamma R-mediated phagocytosis	pp	Prolactin signaling pathway
+Fc gamma R-mediated phagocytosis	pp	Thyroid hormone signaling pathway
+Fc gamma R-mediated phagocytosis	pp	Type II diabetes mellitus
+Fc gamma R-mediated phagocytosis	pp	Aldosterone-regulated sodium reabsorption
+Fc gamma R-mediated phagocytosis	pp	Carbohydrate digestion and absorption
+Fc gamma R-mediated phagocytosis	pp	Bacterial invasion of epithelial cells
+Fc gamma R-mediated phagocytosis	pp	Shigellosis
+Fc gamma R-mediated phagocytosis	pp	Salmonella infection
+Fc gamma R-mediated phagocytosis	pp	Proteoglycans in cancer
+Fc gamma R-mediated phagocytosis	pp	Colorectal cancer
+Fc gamma R-mediated phagocytosis	pp	Renal cell carcinoma
+Fc gamma R-mediated phagocytosis	pp	Pancreatic cancer
+Fc gamma R-mediated phagocytosis	pp	Endometrial cancer
+Fc gamma R-mediated phagocytosis	pp	Glioma
+Fc gamma R-mediated phagocytosis	pp	Prostate cancer
+Fc gamma R-mediated phagocytosis	pp	Melanoma
+Fc gamma R-mediated phagocytosis	pp	Chronic myeloid leukemia
+Fc gamma R-mediated phagocytosis	pp	Acute myeloid leukemia
+Fc gamma R-mediated phagocytosis	pp	Non-small cell lung cancer
+Fc gamma R-mediated phagocytosis	pp	Central carbon metabolism in cancer
+Fc gamma R-mediated phagocytosis	pp	Choline metabolism in cancer
+TNF signaling pathway	pp	Neurotrophin signaling pathway
+TNF signaling pathway	pp	Cholinergic synapse
+TNF signaling pathway	pp	Dopaminergic synapse
+TNF signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+TNF signaling pathway	pp	GnRH signaling pathway
+TNF signaling pathway	pp	Progesterone-mediated oocyte maturation
+TNF signaling pathway	pp	Estrogen signaling pathway
+TNF signaling pathway	pp	Prolactin signaling pathway
+TNF signaling pathway	pp	Adipocytokine signaling pathway
+TNF signaling pathway	pp	Type II diabetes mellitus
+TNF signaling pathway	pp	Non-alcoholic fatty liver disease (NAFLD)
+TNF signaling pathway	pp	Cocaine addiction
+TNF signaling pathway	pp	Epithelial cell signaling in Helicobacter pylori infection
+TNF signaling pathway	pp	Shigellosis
+TNF signaling pathway	pp	Salmonella infection
+TNF signaling pathway	pp	Pertussis
+TNF signaling pathway	pp	Leishmaniasis
+TNF signaling pathway	pp	Chagas disease (American trypanosomiasis)
+TNF signaling pathway	pp	Toxoplasmosis
+TNF signaling pathway	pp	Tuberculosis
+TNF signaling pathway	pp	Hepatitis C
+TNF signaling pathway	pp	Hepatitis B
+TNF signaling pathway	pp	Measles
+TNF signaling pathway	pp	Influenza A
+TNF signaling pathway	pp	HTLV-I infection
+TNF signaling pathway	pp	Herpes simplex infection
+TNF signaling pathway	pp	Epstein-Barr virus infection
+TNF signaling pathway	pp	Viral carcinogenesis
+TNF signaling pathway	pp	Colorectal cancer
+TNF signaling pathway	pp	Renal cell carcinoma
+TNF signaling pathway	pp	Pancreatic cancer
+TNF signaling pathway	pp	Endometrial cancer
+TNF signaling pathway	pp	Prostate cancer
+TNF signaling pathway	pp	Chronic myeloid leukemia
+TNF signaling pathway	pp	Acute myeloid leukemia
+TNF signaling pathway	pp	Small cell lung cancer
+TNF signaling pathway	pp	Non-small cell lung cancer
+TNF signaling pathway	pp	Choline metabolism in cancer
+Leukocyte transendothelial migration	pp	Neurotrophin signaling pathway
+Leukocyte transendothelial migration	pp	Regulation of actin cytoskeleton
+Leukocyte transendothelial migration	pp	Bacterial invasion of epithelial cells
+Leukocyte transendothelial migration	pp	Amoebiasis
+Leukocyte transendothelial migration	pp	Hepatitis C
+Leukocyte transendothelial migration	pp	Proteoglycans in cancer
+Leukocyte transendothelial migration	pp	Non-small cell lung cancer
+Intestinal immune network for IgA production	pp	Type I diabetes mellitus
+Intestinal immune network for IgA production	pp	Leishmaniasis
+Intestinal immune network for IgA production	pp	Toxoplasmosis
+Intestinal immune network for IgA production	pp	Staphylococcus aureus infection
+Intestinal immune network for IgA production	pp	Tuberculosis
+Intestinal immune network for IgA production	pp	HTLV-I infection
+Intestinal immune network for IgA production	pp	Asthma
+Intestinal immune network for IgA production	pp	Autoimmune thyroid disease
+Intestinal immune network for IgA production	pp	Inflammatory bowel disease (IBD)
+Intestinal immune network for IgA production	pp	Systemic lupus erythematosus
+Intestinal immune network for IgA production	pp	Rheumatoid arthritis
+Intestinal immune network for IgA production	pp	Allograft rejection
+Intestinal immune network for IgA production	pp	Graft-versus-host disease
+Intestinal immune network for IgA production	pp	Viral myocarditis
+Circadian entrainment	pp	Long-term potentiation
+Circadian entrainment	pp	Retrograde endocannabinoid signaling
+Circadian entrainment	pp	Glutamatergic synapse
+Circadian entrainment	pp	Cholinergic synapse
+Circadian entrainment	pp	Serotonergic synapse
+Circadian entrainment	pp	GABAergic synapse
+Circadian entrainment	pp	Dopaminergic synapse
+Circadian entrainment	pp	Long-term depression
+Circadian entrainment	pp	Taste transduction
+Circadian entrainment	pp	Inflammatory mediator regulation of TRP channels
+Circadian entrainment	pp	Insulin secretion
+Circadian entrainment	pp	GnRH signaling pathway
+Circadian entrainment	pp	Ovarian steroidogenesis
+Circadian entrainment	pp	Progesterone-mediated oocyte maturation
+Circadian entrainment	pp	Estrogen signaling pathway
+Circadian entrainment	pp	Melanogenesis
+Circadian entrainment	pp	Thyroid hormone synthesis
+Circadian entrainment	pp	Oxytocin signaling pathway
+Circadian entrainment	pp	Glucagon signaling pathway
+Circadian entrainment	pp	Endocrine and other factor-regulated calcium reabsorption
+Circadian entrainment	pp	Salivary secretion
+Circadian entrainment	pp	Gastric acid secretion
+Circadian entrainment	pp	Pancreatic secretion
+Circadian entrainment	pp	Bile secretion
+Circadian entrainment	pp	Alzheimer's disease
+Circadian entrainment	pp	Cocaine addiction
+Circadian entrainment	pp	Amphetamine addiction
+Circadian entrainment	pp	Morphine addiction
+Circadian entrainment	pp	Alcoholism
+Circadian entrainment	pp	Pathways in cancer
+Circadian entrainment	pp	Glioma
+Circadian entrainment	pp	Dilated cardiomyopathy
+Long-term potentiation	pp	Neurotrophin signaling pathway
+Long-term potentiation	pp	Retrograde endocannabinoid signaling
+Long-term potentiation	pp	Glutamatergic synapse
+Long-term potentiation	pp	Cholinergic synapse
+Long-term potentiation	pp	Serotonergic synapse
+Long-term potentiation	pp	Dopaminergic synapse
+Long-term potentiation	pp	Long-term depression
+Long-term potentiation	pp	Inflammatory mediator regulation of TRP channels
+Long-term potentiation	pp	Insulin signaling pathway
+Long-term potentiation	pp	Insulin secretion
+Long-term potentiation	pp	GnRH signaling pathway
+Long-term potentiation	pp	Progesterone-mediated oocyte maturation
+Long-term potentiation	pp	Estrogen signaling pathway
+Long-term potentiation	pp	Melanogenesis
+Long-term potentiation	pp	Thyroid hormone synthesis
+Long-term potentiation	pp	Thyroid hormone signaling pathway
+Long-term potentiation	pp	Oxytocin signaling pathway
+Long-term potentiation	pp	Glucagon signaling pathway
+Long-term potentiation	pp	Endocrine and other factor-regulated calcium reabsorption
+Long-term potentiation	pp	Salivary secretion
+Long-term potentiation	pp	Gastric acid secretion
+Long-term potentiation	pp	Pancreatic secretion
+Long-term potentiation	pp	Alzheimer's disease
+Long-term potentiation	pp	Amyotrophic lateral sclerosis (ALS)
+Long-term potentiation	pp	Cocaine addiction
+Long-term potentiation	pp	Amphetamine addiction
+Long-term potentiation	pp	Alcoholism
+Long-term potentiation	pp	African trypanosomiasis
+Long-term potentiation	pp	Tuberculosis
+Long-term potentiation	pp	Proteoglycans in cancer
+Long-term potentiation	pp	Renal cell carcinoma
+Long-term potentiation	pp	Endometrial cancer
+Long-term potentiation	pp	Glioma
+Long-term potentiation	pp	Prostate cancer
+Long-term potentiation	pp	Thyroid cancer
+Long-term potentiation	pp	Bladder cancer
+Long-term potentiation	pp	Acute myeloid leukemia
+Long-term potentiation	pp	Non-small cell lung cancer
+Synaptic vesicle cycle	pp	Endocrine and other factor-regulated calcium reabsorption
+Synaptic vesicle cycle	pp	Collecting duct acid secretion
+Synaptic vesicle cycle	pp	Vibrio cholerae infection
+Synaptic vesicle cycle	pp	Epithelial cell signaling in Helicobacter pylori infection
+Synaptic vesicle cycle	pp	Rheumatoid arthritis
+Neurotrophin signaling pathway	pp	Cholinergic synapse
+Neurotrophin signaling pathway	pp	Dopaminergic synapse
+Neurotrophin signaling pathway	pp	Inflammatory mediator regulation of TRP channels
+Neurotrophin signaling pathway	pp	Insulin signaling pathway
+Neurotrophin signaling pathway	pp	GnRH signaling pathway
+Neurotrophin signaling pathway	pp	Progesterone-mediated oocyte maturation
+Neurotrophin signaling pathway	pp	Estrogen signaling pathway
+Neurotrophin signaling pathway	pp	Melanogenesis
+Neurotrophin signaling pathway	pp	Prolactin signaling pathway
+Neurotrophin signaling pathway	pp	Thyroid hormone signaling pathway
+Neurotrophin signaling pathway	pp	Oxytocin signaling pathway
+Neurotrophin signaling pathway	pp	Type II diabetes mellitus
+Neurotrophin signaling pathway	pp	Non-alcoholic fatty liver disease (NAFLD)
+Neurotrophin signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+Neurotrophin signaling pathway	pp	Bacterial invasion of epithelial cells
+Neurotrophin signaling pathway	pp	Epithelial cell signaling in Helicobacter pylori infection
+Neurotrophin signaling pathway	pp	Shigellosis
+Neurotrophin signaling pathway	pp	Pertussis
+Neurotrophin signaling pathway	pp	Chagas disease (American trypanosomiasis)
+Neurotrophin signaling pathway	pp	Toxoplasmosis
+Neurotrophin signaling pathway	pp	Tuberculosis
+Neurotrophin signaling pathway	pp	Hepatitis C
+Neurotrophin signaling pathway	pp	Hepatitis B
+Neurotrophin signaling pathway	pp	Measles
+Neurotrophin signaling pathway	pp	Influenza A
+Neurotrophin signaling pathway	pp	Epstein-Barr virus infection
+Neurotrophin signaling pathway	pp	Pathways in cancer
+Neurotrophin signaling pathway	pp	Proteoglycans in cancer
+Neurotrophin signaling pathway	pp	Colorectal cancer
+Neurotrophin signaling pathway	pp	Renal cell carcinoma
+Neurotrophin signaling pathway	pp	Pancreatic cancer
+Neurotrophin signaling pathway	pp	Endometrial cancer
+Neurotrophin signaling pathway	pp	Glioma
+Neurotrophin signaling pathway	pp	Prostate cancer
+Neurotrophin signaling pathway	pp	Melanoma
+Neurotrophin signaling pathway	pp	Chronic myeloid leukemia
+Neurotrophin signaling pathway	pp	Acute myeloid leukemia
+Neurotrophin signaling pathway	pp	Small cell lung cancer
+Neurotrophin signaling pathway	pp	Non-small cell lung cancer
+Neurotrophin signaling pathway	pp	Central carbon metabolism in cancer
+Neurotrophin signaling pathway	pp	Choline metabolism in cancer
+Retrograde endocannabinoid signaling	pp	Glutamatergic synapse
+Retrograde endocannabinoid signaling	pp	Cholinergic synapse
+Retrograde endocannabinoid signaling	pp	Serotonergic synapse
+Retrograde endocannabinoid signaling	pp	GABAergic synapse
+Retrograde endocannabinoid signaling	pp	Dopaminergic synapse
+Retrograde endocannabinoid signaling	pp	Long-term depression
+Retrograde endocannabinoid signaling	pp	Taste transduction
+Retrograde endocannabinoid signaling	pp	Inflammatory mediator regulation of TRP channels
+Retrograde endocannabinoid signaling	pp	Insulin secretion
+Retrograde endocannabinoid signaling	pp	GnRH signaling pathway
+Retrograde endocannabinoid signaling	pp	Ovarian steroidogenesis
+Retrograde endocannabinoid signaling	pp	Progesterone-mediated oocyte maturation
+Retrograde endocannabinoid signaling	pp	Estrogen signaling pathway
+Retrograde endocannabinoid signaling	pp	Melanogenesis
+Retrograde endocannabinoid signaling	pp	Thyroid hormone synthesis
+Retrograde endocannabinoid signaling	pp	Oxytocin signaling pathway
+Retrograde endocannabinoid signaling	pp	Endocrine and other factor-regulated calcium reabsorption
+Retrograde endocannabinoid signaling	pp	Salivary secretion
+Retrograde endocannabinoid signaling	pp	Gastric acid secretion
+Retrograde endocannabinoid signaling	pp	Pancreatic secretion
+Retrograde endocannabinoid signaling	pp	Amphetamine addiction
+Retrograde endocannabinoid signaling	pp	Morphine addiction
+Retrograde endocannabinoid signaling	pp	Nicotine addiction
+Retrograde endocannabinoid signaling	pp	Alcoholism
+Retrograde endocannabinoid signaling	pp	Chagas disease (American trypanosomiasis)
+Retrograde endocannabinoid signaling	pp	Pathways in cancer
+Retrograde endocannabinoid signaling	pp	Dilated cardiomyopathy
+Glutamatergic synapse	pp	Cholinergic synapse
+Glutamatergic synapse	pp	Serotonergic synapse
+Glutamatergic synapse	pp	GABAergic synapse
+Glutamatergic synapse	pp	Dopaminergic synapse
+Glutamatergic synapse	pp	Long-term depression
+Glutamatergic synapse	pp	Taste transduction
+Glutamatergic synapse	pp	Inflammatory mediator regulation of TRP channels
+Glutamatergic synapse	pp	Insulin secretion
+Glutamatergic synapse	pp	GnRH signaling pathway
+Glutamatergic synapse	pp	Ovarian steroidogenesis
+Glutamatergic synapse	pp	Progesterone-mediated oocyte maturation
+Glutamatergic synapse	pp	Estrogen signaling pathway
+Glutamatergic synapse	pp	Melanogenesis
+Glutamatergic synapse	pp	Thyroid hormone synthesis
+Glutamatergic synapse	pp	Oxytocin signaling pathway
+Glutamatergic synapse	pp	Glucagon signaling pathway
+Glutamatergic synapse	pp	Endocrine and other factor-regulated calcium reabsorption
+Glutamatergic synapse	pp	Salivary secretion
+Glutamatergic synapse	pp	Gastric acid secretion
+Glutamatergic synapse	pp	Pancreatic secretion
+Glutamatergic synapse	pp	Cocaine addiction
+Glutamatergic synapse	pp	Amphetamine addiction
+Glutamatergic synapse	pp	Morphine addiction
+Glutamatergic synapse	pp	Nicotine addiction
+Glutamatergic synapse	pp	Alcoholism
+Glutamatergic synapse	pp	Pathways in cancer
+Cholinergic synapse	pp	Serotonergic synapse
+Cholinergic synapse	pp	GABAergic synapse
+Cholinergic synapse	pp	Dopaminergic synapse
+Cholinergic synapse	pp	Long-term depression
+Cholinergic synapse	pp	Taste transduction
+Cholinergic synapse	pp	Inflammatory mediator regulation of TRP channels
+Cholinergic synapse	pp	Insulin signaling pathway
+Cholinergic synapse	pp	Insulin secretion
+Cholinergic synapse	pp	GnRH signaling pathway
+Cholinergic synapse	pp	Progesterone-mediated oocyte maturation
+Cholinergic synapse	pp	Estrogen signaling pathway
+Cholinergic synapse	pp	Melanogenesis
+Cholinergic synapse	pp	Prolactin signaling pathway
+Cholinergic synapse	pp	Thyroid hormone synthesis
+Cholinergic synapse	pp	Thyroid hormone signaling pathway
+Cholinergic synapse	pp	Oxytocin signaling pathway
+Cholinergic synapse	pp	Glucagon signaling pathway
+Cholinergic synapse	pp	Type II diabetes mellitus
+Cholinergic synapse	pp	Aldosterone-regulated sodium reabsorption
+Cholinergic synapse	pp	Endocrine and other factor-regulated calcium reabsorption
+Cholinergic synapse	pp	Vasopressin-regulated water reabsorption
+Cholinergic synapse	pp	Salivary secretion
+Cholinergic synapse	pp	Gastric acid secretion
+Cholinergic synapse	pp	Pancreatic secretion
+Cholinergic synapse	pp	Carbohydrate digestion and absorption
+Cholinergic synapse	pp	Cocaine addiction
+Cholinergic synapse	pp	Amphetamine addiction
+Cholinergic synapse	pp	Morphine addiction
+Cholinergic synapse	pp	Alcoholism
+Cholinergic synapse	pp	Chagas disease (American trypanosomiasis)
+Cholinergic synapse	pp	Amoebiasis
+Cholinergic synapse	pp	Hepatitis B
+Cholinergic synapse	pp	Pathways in cancer
+Cholinergic synapse	pp	Proteoglycans in cancer
+Cholinergic synapse	pp	Colorectal cancer
+Cholinergic synapse	pp	Renal cell carcinoma
+Cholinergic synapse	pp	Pancreatic cancer
+Cholinergic synapse	pp	Endometrial cancer
+Cholinergic synapse	pp	Glioma
+Cholinergic synapse	pp	Prostate cancer
+Cholinergic synapse	pp	Melanoma
+Cholinergic synapse	pp	Chronic myeloid leukemia
+Cholinergic synapse	pp	Acute myeloid leukemia
+Cholinergic synapse	pp	Non-small cell lung cancer
+Cholinergic synapse	pp	Central carbon metabolism in cancer
+Cholinergic synapse	pp	Choline metabolism in cancer
+Cholinergic synapse	pp	Dilated cardiomyopathy
+Serotonergic synapse	pp	GABAergic synapse
+Serotonergic synapse	pp	Dopaminergic synapse
+Serotonergic synapse	pp	Long-term depression
+Serotonergic synapse	pp	Inflammatory mediator regulation of TRP channels
+Serotonergic synapse	pp	Insulin secretion
+Serotonergic synapse	pp	GnRH signaling pathway
+Serotonergic synapse	pp	Ovarian steroidogenesis
+Serotonergic synapse	pp	Estrogen signaling pathway
+Serotonergic synapse	pp	Melanogenesis
+Serotonergic synapse	pp	Thyroid hormone synthesis
+Serotonergic synapse	pp	Oxytocin signaling pathway
+Serotonergic synapse	pp	Endocrine and other factor-regulated calcium reabsorption
+Serotonergic synapse	pp	Salivary secretion
+Serotonergic synapse	pp	Gastric acid secretion
+Serotonergic synapse	pp	Cocaine addiction
+Serotonergic synapse	pp	Amphetamine addiction
+Serotonergic synapse	pp	Morphine addiction
+Serotonergic synapse	pp	Alcoholism
+Serotonergic synapse	pp	Pathways in cancer
+GABAergic synapse	pp	Dopaminergic synapse
+GABAergic synapse	pp	Taste transduction
+GABAergic synapse	pp	Inflammatory mediator regulation of TRP channels
+GABAergic synapse	pp	Insulin secretion
+GABAergic synapse	pp	GnRH signaling pathway
+GABAergic synapse	pp	Ovarian steroidogenesis
+GABAergic synapse	pp	Progesterone-mediated oocyte maturation
+GABAergic synapse	pp	Estrogen signaling pathway
+GABAergic synapse	pp	Melanogenesis
+GABAergic synapse	pp	Thyroid hormone synthesis
+GABAergic synapse	pp	Oxytocin signaling pathway
+GABAergic synapse	pp	Salivary secretion
+GABAergic synapse	pp	Gastric acid secretion
+GABAergic synapse	pp	Bile secretion
+GABAergic synapse	pp	Morphine addiction
+GABAergic synapse	pp	Nicotine addiction
+GABAergic synapse	pp	Alcoholism
+GABAergic synapse	pp	Dilated cardiomyopathy
+Dopaminergic synapse	pp	Long-term depression
+Dopaminergic synapse	pp	Inflammatory mediator regulation of TRP channels
+Dopaminergic synapse	pp	Insulin secretion
+Dopaminergic synapse	pp	GnRH signaling pathway
+Dopaminergic synapse	pp	Progesterone-mediated oocyte maturation
+Dopaminergic synapse	pp	Estrogen signaling pathway
+Dopaminergic synapse	pp	Melanogenesis
+Dopaminergic synapse	pp	Thyroid hormone synthesis
+Dopaminergic synapse	pp	Oxytocin signaling pathway
+Dopaminergic synapse	pp	Glucagon signaling pathway
+Dopaminergic synapse	pp	Salivary secretion
+Dopaminergic synapse	pp	Gastric acid secretion
+Dopaminergic synapse	pp	Cocaine addiction
+Dopaminergic synapse	pp	Amphetamine addiction
+Dopaminergic synapse	pp	Morphine addiction
+Dopaminergic synapse	pp	Alcoholism
+Dopaminergic synapse	pp	Pertussis
+Dopaminergic synapse	pp	Chagas disease (American trypanosomiasis)
+Dopaminergic synapse	pp	Glioma
+Long-term depression	pp	Inflammatory mediator regulation of TRP channels
+Long-term depression	pp	GnRH signaling pathway
+Long-term depression	pp	Ovarian steroidogenesis
+Long-term depression	pp	Progesterone-mediated oocyte maturation
+Long-term depression	pp	Estrogen signaling pathway
+Long-term depression	pp	Melanogenesis
+Long-term depression	pp	Thyroid hormone synthesis
+Long-term depression	pp	Thyroid hormone signaling pathway
+Long-term depression	pp	Oxytocin signaling pathway
+Long-term depression	pp	Endocrine and other factor-regulated calcium reabsorption
+Long-term depression	pp	Salivary secretion
+Long-term depression	pp	Gastric acid secretion
+Long-term depression	pp	Chagas disease (American trypanosomiasis)
+Long-term depression	pp	African trypanosomiasis
+Long-term depression	pp	Renal cell carcinoma
+Long-term depression	pp	Endometrial cancer
+Long-term depression	pp	Glioma
+Long-term depression	pp	Prostate cancer
+Long-term depression	pp	Thyroid cancer
+Long-term depression	pp	Melanoma
+Long-term depression	pp	Bladder cancer
+Long-term depression	pp	Acute myeloid leukemia
+Long-term depression	pp	Non-small cell lung cancer
+Long-term depression	pp	Choline metabolism in cancer
+Taste transduction	pp	Thyroid hormone synthesis
+Taste transduction	pp	Morphine addiction
+Inflammatory mediator regulation of TRP channels	pp	Insulin signaling pathway
+Inflammatory mediator regulation of TRP channels	pp	Insulin secretion
+Inflammatory mediator regulation of TRP channels	pp	GnRH signaling pathway
+Inflammatory mediator regulation of TRP channels	pp	Ovarian steroidogenesis
+Inflammatory mediator regulation of TRP channels	pp	Progesterone-mediated oocyte maturation
+Inflammatory mediator regulation of TRP channels	pp	Estrogen signaling pathway
+Inflammatory mediator regulation of TRP channels	pp	Melanogenesis
+Inflammatory mediator regulation of TRP channels	pp	Prolactin signaling pathway
+Inflammatory mediator regulation of TRP channels	pp	Thyroid hormone synthesis
+Inflammatory mediator regulation of TRP channels	pp	Thyroid hormone signaling pathway
+Inflammatory mediator regulation of TRP channels	pp	Oxytocin signaling pathway
+Inflammatory mediator regulation of TRP channels	pp	Glucagon signaling pathway
+Inflammatory mediator regulation of TRP channels	pp	Type II diabetes mellitus
+Inflammatory mediator regulation of TRP channels	pp	Aldosterone-regulated sodium reabsorption
+Inflammatory mediator regulation of TRP channels	pp	Endocrine and other factor-regulated calcium reabsorption
+Inflammatory mediator regulation of TRP channels	pp	Salivary secretion
+Inflammatory mediator regulation of TRP channels	pp	Gastric acid secretion
+Inflammatory mediator regulation of TRP channels	pp	Pancreatic secretion
+Inflammatory mediator regulation of TRP channels	pp	Bile secretion
+Inflammatory mediator regulation of TRP channels	pp	Amphetamine addiction
+Inflammatory mediator regulation of TRP channels	pp	Morphine addiction
+Inflammatory mediator regulation of TRP channels	pp	Pertussis
+Inflammatory mediator regulation of TRP channels	pp	Chagas disease (American trypanosomiasis)
+Inflammatory mediator regulation of TRP channels	pp	Amoebiasis
+Inflammatory mediator regulation of TRP channels	pp	Proteoglycans in cancer
+Inflammatory mediator regulation of TRP channels	pp	Glioma
+Inflammatory mediator regulation of TRP channels	pp	Non-small cell lung cancer
+Inflammatory mediator regulation of TRP channels	pp	Choline metabolism in cancer
+Regulation of actin cytoskeleton	pp	Oxytocin signaling pathway
+Regulation of actin cytoskeleton	pp	Bacterial invasion of epithelial cells
+Regulation of actin cytoskeleton	pp	Shigellosis
+Regulation of actin cytoskeleton	pp	Salmonella infection
+Regulation of actin cytoskeleton	pp	Pathways in cancer
+Regulation of actin cytoskeleton	pp	Proteoglycans in cancer
+Regulation of actin cytoskeleton	pp	Renal cell carcinoma
+Regulation of actin cytoskeleton	pp	Endometrial cancer
+Regulation of actin cytoskeleton	pp	Glioma
+Regulation of actin cytoskeleton	pp	Prostate cancer
+Regulation of actin cytoskeleton	pp	Melanoma
+Regulation of actin cytoskeleton	pp	Non-small cell lung cancer
+Regulation of actin cytoskeleton	pp	Choline metabolism in cancer
+Regulation of actin cytoskeleton	pp	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Insulin signaling pathway	pp	GnRH signaling pathway
+Insulin signaling pathway	pp	Progesterone-mediated oocyte maturation
+Insulin signaling pathway	pp	Estrogen signaling pathway
+Insulin signaling pathway	pp	Prolactin signaling pathway
+Insulin signaling pathway	pp	Thyroid hormone signaling pathway
+Insulin signaling pathway	pp	Adipocytokine signaling pathway
+Insulin signaling pathway	pp	Oxytocin signaling pathway
+Insulin signaling pathway	pp	Glucagon signaling pathway
+Insulin signaling pathway	pp	Type II diabetes mellitus
+Insulin signaling pathway	pp	Non-alcoholic fatty liver disease (NAFLD)
+Insulin signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+Insulin signaling pathway	pp	Carbohydrate digestion and absorption
+Insulin signaling pathway	pp	Hepatitis C
+Insulin signaling pathway	pp	Hepatitis B
+Insulin signaling pathway	pp	Proteoglycans in cancer
+Insulin signaling pathway	pp	Colorectal cancer
+Insulin signaling pathway	pp	Renal cell carcinoma
+Insulin signaling pathway	pp	Pancreatic cancer
+Insulin signaling pathway	pp	Endometrial cancer
+Insulin signaling pathway	pp	Glioma
+Insulin signaling pathway	pp	Prostate cancer
+Insulin signaling pathway	pp	Melanoma
+Insulin signaling pathway	pp	Chronic myeloid leukemia
+Insulin signaling pathway	pp	Acute myeloid leukemia
+Insulin signaling pathway	pp	Non-small cell lung cancer
+Insulin signaling pathway	pp	Central carbon metabolism in cancer
+Insulin signaling pathway	pp	Choline metabolism in cancer
+Insulin secretion	pp	GnRH signaling pathway
+Insulin secretion	pp	Ovarian steroidogenesis
+Insulin secretion	pp	Progesterone-mediated oocyte maturation
+Insulin secretion	pp	Estrogen signaling pathway
+Insulin secretion	pp	Melanogenesis
+Insulin secretion	pp	Thyroid hormone synthesis
+Insulin secretion	pp	Thyroid hormone signaling pathway
+Insulin secretion	pp	Oxytocin signaling pathway
+Insulin secretion	pp	Glucagon signaling pathway
+Insulin secretion	pp	Aldosterone-regulated sodium reabsorption
+Insulin secretion	pp	Endocrine and other factor-regulated calcium reabsorption
+Insulin secretion	pp	Vasopressin-regulated water reabsorption
+Insulin secretion	pp	Proximal tubule bicarbonate reclamation
+Insulin secretion	pp	Salivary secretion
+Insulin secretion	pp	Gastric acid secretion
+Insulin secretion	pp	Pancreatic secretion
+Insulin secretion	pp	Carbohydrate digestion and absorption
+Insulin secretion	pp	Bile secretion
+Insulin secretion	pp	Cocaine addiction
+Insulin secretion	pp	Amphetamine addiction
+Insulin secretion	pp	Morphine addiction
+Insulin secretion	pp	Dilated cardiomyopathy
+GnRH signaling pathway	pp	Ovarian steroidogenesis
+GnRH signaling pathway	pp	Progesterone-mediated oocyte maturation
+GnRH signaling pathway	pp	Estrogen signaling pathway
+GnRH signaling pathway	pp	Melanogenesis
+GnRH signaling pathway	pp	Prolactin signaling pathway
+GnRH signaling pathway	pp	Thyroid hormone synthesis
+GnRH signaling pathway	pp	Thyroid hormone signaling pathway
+GnRH signaling pathway	pp	Oxytocin signaling pathway
+GnRH signaling pathway	pp	Glucagon signaling pathway
+GnRH signaling pathway	pp	Endocrine and other factor-regulated calcium reabsorption
+GnRH signaling pathway	pp	Salivary secretion
+GnRH signaling pathway	pp	Gastric acid secretion
+GnRH signaling pathway	pp	Pancreatic secretion
+GnRH signaling pathway	pp	Bile secretion
+GnRH signaling pathway	pp	Amphetamine addiction
+GnRH signaling pathway	pp	Morphine addiction
+GnRH signaling pathway	pp	Epithelial cell signaling in Helicobacter pylori infection
+GnRH signaling pathway	pp	Pertussis
+GnRH signaling pathway	pp	Chagas disease (American trypanosomiasis)
+GnRH signaling pathway	pp	Hepatitis B
+GnRH signaling pathway	pp	Proteoglycans in cancer
+GnRH signaling pathway	pp	Renal cell carcinoma
+GnRH signaling pathway	pp	Endometrial cancer
+GnRH signaling pathway	pp	Glioma
+GnRH signaling pathway	pp	Non-small cell lung cancer
+GnRH signaling pathway	pp	Choline metabolism in cancer
+GnRH signaling pathway	pp	Dilated cardiomyopathy
+Ovarian steroidogenesis	pp	Progesterone-mediated oocyte maturation
+Ovarian steroidogenesis	pp	Estrogen signaling pathway
+Ovarian steroidogenesis	pp	Melanogenesis
+Ovarian steroidogenesis	pp	Thyroid hormone synthesis
+Ovarian steroidogenesis	pp	Oxytocin signaling pathway
+Ovarian steroidogenesis	pp	Vasopressin-regulated water reabsorption
+Ovarian steroidogenesis	pp	Salivary secretion
+Ovarian steroidogenesis	pp	Gastric acid secretion
+Ovarian steroidogenesis	pp	Bile secretion
+Ovarian steroidogenesis	pp	Morphine addiction
+Ovarian steroidogenesis	pp	Dilated cardiomyopathy
+Progesterone-mediated oocyte maturation	pp	Estrogen signaling pathway
+Progesterone-mediated oocyte maturation	pp	Melanogenesis
+Progesterone-mediated oocyte maturation	pp	Prolactin signaling pathway
+Progesterone-mediated oocyte maturation	pp	Thyroid hormone synthesis
+Progesterone-mediated oocyte maturation	pp	Thyroid hormone signaling pathway
+Progesterone-mediated oocyte maturation	pp	Oxytocin signaling pathway
+Progesterone-mediated oocyte maturation	pp	Type II diabetes mellitus
+Progesterone-mediated oocyte maturation	pp	Aldosterone-regulated sodium reabsorption
+Progesterone-mediated oocyte maturation	pp	Gastric acid secretion
+Progesterone-mediated oocyte maturation	pp	Carbohydrate digestion and absorption
+Progesterone-mediated oocyte maturation	pp	Bile secretion
+Progesterone-mediated oocyte maturation	pp	Morphine addiction
+Progesterone-mediated oocyte maturation	pp	Chagas disease (American trypanosomiasis)
+Progesterone-mediated oocyte maturation	pp	Toxoplasmosis
+Progesterone-mediated oocyte maturation	pp	Hepatitis C
+Progesterone-mediated oocyte maturation	pp	Hepatitis B
+Progesterone-mediated oocyte maturation	pp	Influenza A
+Progesterone-mediated oocyte maturation	pp	HTLV-I infection
+Progesterone-mediated oocyte maturation	pp	Epstein-Barr virus infection
+Progesterone-mediated oocyte maturation	pp	Pathways in cancer
+Progesterone-mediated oocyte maturation	pp	Proteoglycans in cancer
+Progesterone-mediated oocyte maturation	pp	Colorectal cancer
+Progesterone-mediated oocyte maturation	pp	Renal cell carcinoma
+Progesterone-mediated oocyte maturation	pp	Pancreatic cancer
+Progesterone-mediated oocyte maturation	pp	Endometrial cancer
+Progesterone-mediated oocyte maturation	pp	Glioma
+Progesterone-mediated oocyte maturation	pp	Prostate cancer
+Progesterone-mediated oocyte maturation	pp	Melanoma
+Progesterone-mediated oocyte maturation	pp	Chronic myeloid leukemia
+Progesterone-mediated oocyte maturation	pp	Acute myeloid leukemia
+Progesterone-mediated oocyte maturation	pp	Non-small cell lung cancer
+Progesterone-mediated oocyte maturation	pp	Central carbon metabolism in cancer
+Progesterone-mediated oocyte maturation	pp	Choline metabolism in cancer
+Estrogen signaling pathway	pp	Melanogenesis
+Estrogen signaling pathway	pp	Prolactin signaling pathway
+Estrogen signaling pathway	pp	Thyroid hormone synthesis
+Estrogen signaling pathway	pp	Thyroid hormone signaling pathway
+Estrogen signaling pathway	pp	Oxytocin signaling pathway
+Estrogen signaling pathway	pp	Glucagon signaling pathway
+Estrogen signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+Estrogen signaling pathway	pp	Endocrine and other factor-regulated calcium reabsorption
+Estrogen signaling pathway	pp	Vasopressin-regulated water reabsorption
+Estrogen signaling pathway	pp	Salivary secretion
+Estrogen signaling pathway	pp	Gastric acid secretion
+Estrogen signaling pathway	pp	Pancreatic secretion
+Estrogen signaling pathway	pp	Carbohydrate digestion and absorption
+Estrogen signaling pathway	pp	Bile secretion
+Estrogen signaling pathway	pp	Cocaine addiction
+Estrogen signaling pathway	pp	Amphetamine addiction
+Estrogen signaling pathway	pp	Morphine addiction
+Estrogen signaling pathway	pp	Alcoholism
+Estrogen signaling pathway	pp	Chagas disease (American trypanosomiasis)
+Estrogen signaling pathway	pp	Toxoplasmosis
+Estrogen signaling pathway	pp	Amoebiasis
+Estrogen signaling pathway	pp	Hepatitis C
+Estrogen signaling pathway	pp	Hepatitis B
+Estrogen signaling pathway	pp	Influenza A
+Estrogen signaling pathway	pp	HTLV-I infection
+Estrogen signaling pathway	pp	Pathways in cancer
+Estrogen signaling pathway	pp	Viral carcinogenesis
+Estrogen signaling pathway	pp	Proteoglycans in cancer
+Estrogen signaling pathway	pp	Colorectal cancer
+Estrogen signaling pathway	pp	Renal cell carcinoma
+Estrogen signaling pathway	pp	Pancreatic cancer
+Estrogen signaling pathway	pp	Endometrial cancer
+Estrogen signaling pathway	pp	Glioma
+Estrogen signaling pathway	pp	Prostate cancer
+Estrogen signaling pathway	pp	Melanoma
+Estrogen signaling pathway	pp	Bladder cancer
+Estrogen signaling pathway	pp	Chronic myeloid leukemia
+Estrogen signaling pathway	pp	Acute myeloid leukemia
+Estrogen signaling pathway	pp	Non-small cell lung cancer
+Estrogen signaling pathway	pp	Central carbon metabolism in cancer
+Estrogen signaling pathway	pp	Choline metabolism in cancer
+Melanogenesis	pp	Thyroid hormone synthesis
+Melanogenesis	pp	Thyroid hormone signaling pathway
+Melanogenesis	pp	Oxytocin signaling pathway
+Melanogenesis	pp	Glucagon signaling pathway
+Melanogenesis	pp	Endocrine and other factor-regulated calcium reabsorption
+Melanogenesis	pp	Vasopressin-regulated water reabsorption
+Melanogenesis	pp	Salivary secretion
+Melanogenesis	pp	Gastric acid secretion
+Melanogenesis	pp	Pancreatic secretion
+Melanogenesis	pp	Bile secretion
+Melanogenesis	pp	Cocaine addiction
+Melanogenesis	pp	Amphetamine addiction
+Melanogenesis	pp	Morphine addiction
+Melanogenesis	pp	Alcoholism
+Melanogenesis	pp	HTLV-I infection
+Melanogenesis	pp	Pathways in cancer
+Melanogenesis	pp	Proteoglycans in cancer
+Melanogenesis	pp	Endometrial cancer
+Melanogenesis	pp	Glioma
+Melanogenesis	pp	Prostate cancer
+Melanogenesis	pp	Thyroid cancer
+Melanogenesis	pp	Basal cell carcinoma
+Melanogenesis	pp	Acute myeloid leukemia
+Prolactin signaling pathway	pp	Thyroid hormone signaling pathway
+Prolactin signaling pathway	pp	Oxytocin signaling pathway
+Prolactin signaling pathway	pp	Type II diabetes mellitus
+Prolactin signaling pathway	pp	Non-alcoholic fatty liver disease (NAFLD)
+Prolactin signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+Prolactin signaling pathway	pp	Carbohydrate digestion and absorption
+Prolactin signaling pathway	pp	Bacterial invasion of epithelial cells
+Prolactin signaling pathway	pp	Shigellosis
+Prolactin signaling pathway	pp	Pertussis
+Prolactin signaling pathway	pp	Chagas disease (American trypanosomiasis)
+Prolactin signaling pathway	pp	Toxoplasmosis
+Prolactin signaling pathway	pp	Hepatitis C
+Prolactin signaling pathway	pp	Hepatitis B
+Prolactin signaling pathway	pp	Measles
+Prolactin signaling pathway	pp	Influenza A
+Prolactin signaling pathway	pp	Proteoglycans in cancer
+Prolactin signaling pathway	pp	Colorectal cancer
+Prolactin signaling pathway	pp	Renal cell carcinoma
+Prolactin signaling pathway	pp	Pancreatic cancer
+Prolactin signaling pathway	pp	Endometrial cancer
+Prolactin signaling pathway	pp	Glioma
+Prolactin signaling pathway	pp	Prostate cancer
+Prolactin signaling pathway	pp	Thyroid cancer
+Prolactin signaling pathway	pp	Melanoma
+Prolactin signaling pathway	pp	Bladder cancer
+Prolactin signaling pathway	pp	Chronic myeloid leukemia
+Prolactin signaling pathway	pp	Acute myeloid leukemia
+Prolactin signaling pathway	pp	Small cell lung cancer
+Prolactin signaling pathway	pp	Non-small cell lung cancer
+Prolactin signaling pathway	pp	Central carbon metabolism in cancer
+Prolactin signaling pathway	pp	Choline metabolism in cancer
+Thyroid hormone synthesis	pp	Thyroid hormone signaling pathway
+Thyroid hormone synthesis	pp	Oxytocin signaling pathway
+Thyroid hormone synthesis	pp	Glucagon signaling pathway
+Thyroid hormone synthesis	pp	Aldosterone-regulated sodium reabsorption
+Thyroid hormone synthesis	pp	Endocrine and other factor-regulated calcium reabsorption
+Thyroid hormone synthesis	pp	Vasopressin-regulated water reabsorption
+Thyroid hormone synthesis	pp	Proximal tubule bicarbonate reclamation
+Thyroid hormone synthesis	pp	Salivary secretion
+Thyroid hormone synthesis	pp	Gastric acid secretion
+Thyroid hormone synthesis	pp	Pancreatic secretion
+Thyroid hormone synthesis	pp	Carbohydrate digestion and absorption
+Thyroid hormone synthesis	pp	Bile secretion
+Thyroid hormone synthesis	pp	Cocaine addiction
+Thyroid hormone synthesis	pp	Amphetamine addiction
+Thyroid hormone synthesis	pp	Morphine addiction
+Thyroid hormone synthesis	pp	Vibrio cholerae infection
+Thyroid hormone synthesis	pp	Dilated cardiomyopathy
+Thyroid hormone signaling pathway	pp	Oxytocin signaling pathway
+Thyroid hormone signaling pathway	pp	Aldosterone-regulated sodium reabsorption
+Thyroid hormone signaling pathway	pp	Endocrine and other factor-regulated calcium reabsorption
+Thyroid hormone signaling pathway	pp	Salivary secretion
+Thyroid hormone signaling pathway	pp	Gastric acid secretion
+Thyroid hormone signaling pathway	pp	Pancreatic secretion
+Thyroid hormone signaling pathway	pp	Carbohydrate digestion and absorption
+Thyroid hormone signaling pathway	pp	Bile secretion
+Thyroid hormone signaling pathway	pp	Amoebiasis
+Thyroid hormone signaling pathway	pp	Hepatitis C
+Thyroid hormone signaling pathway	pp	Hepatitis B
+Thyroid hormone signaling pathway	pp	Influenza A
+Thyroid hormone signaling pathway	pp	Pathways in cancer
+Thyroid hormone signaling pathway	pp	Viral carcinogenesis
+Thyroid hormone signaling pathway	pp	Proteoglycans in cancer
+Thyroid hormone signaling pathway	pp	Colorectal cancer
+Thyroid hormone signaling pathway	pp	Renal cell carcinoma
+Thyroid hormone signaling pathway	pp	Pancreatic cancer
+Thyroid hormone signaling pathway	pp	Endometrial cancer
+Thyroid hormone signaling pathway	pp	Glioma
+Thyroid hormone signaling pathway	pp	Prostate cancer
+Thyroid hormone signaling pathway	pp	Thyroid cancer
+Thyroid hormone signaling pathway	pp	Melanoma
+Thyroid hormone signaling pathway	pp	Chronic myeloid leukemia
+Thyroid hormone signaling pathway	pp	Acute myeloid leukemia
+Thyroid hormone signaling pathway	pp	Small cell lung cancer
+Thyroid hormone signaling pathway	pp	Non-small cell lung cancer
+Thyroid hormone signaling pathway	pp	Central carbon metabolism in cancer
+Thyroid hormone signaling pathway	pp	Choline metabolism in cancer
+Adipocytokine signaling pathway	pp	Glucagon signaling pathway
+Adipocytokine signaling pathway	pp	Type II diabetes mellitus
+Adipocytokine signaling pathway	pp	Non-alcoholic fatty liver disease (NAFLD)
+Adipocytokine signaling pathway	pp	Chagas disease (American trypanosomiasis)
+Adipocytokine signaling pathway	pp	Toxoplasmosis
+Adipocytokine signaling pathway	pp	Hepatitis C
+Adipocytokine signaling pathway	pp	Pancreatic cancer
+Adipocytokine signaling pathway	pp	Small cell lung cancer
+Oxytocin signaling pathway	pp	Glucagon signaling pathway
+Oxytocin signaling pathway	pp	Salivary secretion
+Oxytocin signaling pathway	pp	Gastric acid secretion
+Oxytocin signaling pathway	pp	Pancreatic secretion
+Oxytocin signaling pathway	pp	Amphetamine addiction
+Oxytocin signaling pathway	pp	Morphine addiction
+Oxytocin signaling pathway	pp	Chagas disease (American trypanosomiasis)
+Oxytocin signaling pathway	pp	Hepatitis B
+Oxytocin signaling pathway	pp	HTLV-I infection
+Oxytocin signaling pathway	pp	Pathways in cancer
+Oxytocin signaling pathway	pp	Proteoglycans in cancer
+Oxytocin signaling pathway	pp	Endometrial cancer
+Oxytocin signaling pathway	pp	Glioma
+Oxytocin signaling pathway	pp	Melanoma
+Oxytocin signaling pathway	pp	Non-small cell lung cancer
+Oxytocin signaling pathway	pp	Choline metabolism in cancer
+Oxytocin signaling pathway	pp	Hypertrophic cardiomyopathy (HCM)
+Oxytocin signaling pathway	pp	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Oxytocin signaling pathway	pp	Dilated cardiomyopathy
+Glucagon signaling pathway	pp	Vasopressin-regulated water reabsorption
+Glucagon signaling pathway	pp	Salivary secretion
+Glucagon signaling pathway	pp	Gastric acid secretion
+Glucagon signaling pathway	pp	Cocaine addiction
+Glucagon signaling pathway	pp	Amphetamine addiction
+Glucagon signaling pathway	pp	Central carbon metabolism in cancer
+Type II diabetes mellitus	pp	Non-alcoholic fatty liver disease (NAFLD)
+Type II diabetes mellitus	pp	Maturity onset diabetes of the young
+Type II diabetes mellitus	pp	Aldosterone-regulated sodium reabsorption
+Type II diabetes mellitus	pp	Carbohydrate digestion and absorption
+Type II diabetes mellitus	pp	Chagas disease (American trypanosomiasis)
+Type II diabetes mellitus	pp	Toxoplasmosis
+Type II diabetes mellitus	pp	Hepatitis C
+Type II diabetes mellitus	pp	Colorectal cancer
+Type II diabetes mellitus	pp	Renal cell carcinoma
+Type II diabetes mellitus	pp	Pancreatic cancer
+Type II diabetes mellitus	pp	Endometrial cancer
+Type II diabetes mellitus	pp	Glioma
+Type II diabetes mellitus	pp	Prostate cancer
+Type II diabetes mellitus	pp	Melanoma
+Type II diabetes mellitus	pp	Chronic myeloid leukemia
+Type II diabetes mellitus	pp	Acute myeloid leukemia
+Type II diabetes mellitus	pp	Non-small cell lung cancer
+Type II diabetes mellitus	pp	Central carbon metabolism in cancer
+Type II diabetes mellitus	pp	Choline metabolism in cancer
+Non-alcoholic fatty liver disease (NAFLD)	pp	Alzheimer's disease
+Non-alcoholic fatty liver disease (NAFLD)	pp	Parkinson's disease
+Non-alcoholic fatty liver disease (NAFLD)	pp	Huntington's disease
+Non-alcoholic fatty liver disease (NAFLD)	pp	Chagas disease (American trypanosomiasis)
+Non-alcoholic fatty liver disease (NAFLD)	pp	Toxoplasmosis
+Non-alcoholic fatty liver disease (NAFLD)	pp	Hepatitis C
+Non-alcoholic fatty liver disease (NAFLD)	pp	Hepatitis B
+Non-alcoholic fatty liver disease (NAFLD)	pp	Influenza A
+Non-alcoholic fatty liver disease (NAFLD)	pp	Colorectal cancer
+Non-alcoholic fatty liver disease (NAFLD)	pp	Pancreatic cancer
+Type I diabetes mellitus	pp	Leishmaniasis
+Type I diabetes mellitus	pp	African trypanosomiasis
+Type I diabetes mellitus	pp	Toxoplasmosis
+Type I diabetes mellitus	pp	Staphylococcus aureus infection
+Type I diabetes mellitus	pp	Tuberculosis
+Type I diabetes mellitus	pp	Influenza A
+Type I diabetes mellitus	pp	HTLV-I infection
+Type I diabetes mellitus	pp	Herpes simplex infection
+Type I diabetes mellitus	pp	Asthma
+Type I diabetes mellitus	pp	Autoimmune thyroid disease
+Type I diabetes mellitus	pp	Inflammatory bowel disease (IBD)
+Type I diabetes mellitus	pp	Systemic lupus erythematosus
+Type I diabetes mellitus	pp	Rheumatoid arthritis
+Type I diabetes mellitus	pp	Allograft rejection
+Type I diabetes mellitus	pp	Graft-versus-host disease
+Type I diabetes mellitus	pp	Viral myocarditis
+Aldosterone-regulated sodium reabsorption	pp	Endocrine and other factor-regulated calcium reabsorption
+Aldosterone-regulated sodium reabsorption	pp	Proximal tubule bicarbonate reclamation
+Aldosterone-regulated sodium reabsorption	pp	Salivary secretion
+Aldosterone-regulated sodium reabsorption	pp	Gastric acid secretion
+Aldosterone-regulated sodium reabsorption	pp	Pancreatic secretion
+Aldosterone-regulated sodium reabsorption	pp	Carbohydrate digestion and absorption
+Aldosterone-regulated sodium reabsorption	pp	Bile secretion
+Aldosterone-regulated sodium reabsorption	pp	Mineral absorption
+Aldosterone-regulated sodium reabsorption	pp	Colorectal cancer
+Aldosterone-regulated sodium reabsorption	pp	Renal cell carcinoma
+Aldosterone-regulated sodium reabsorption	pp	Pancreatic cancer
+Aldosterone-regulated sodium reabsorption	pp	Endometrial cancer
+Aldosterone-regulated sodium reabsorption	pp	Glioma
+Aldosterone-regulated sodium reabsorption	pp	Prostate cancer
+Aldosterone-regulated sodium reabsorption	pp	Melanoma
+Aldosterone-regulated sodium reabsorption	pp	Chronic myeloid leukemia
+Aldosterone-regulated sodium reabsorption	pp	Acute myeloid leukemia
+Aldosterone-regulated sodium reabsorption	pp	Non-small cell lung cancer
+Aldosterone-regulated sodium reabsorption	pp	Central carbon metabolism in cancer
+Aldosterone-regulated sodium reabsorption	pp	Choline metabolism in cancer
+Endocrine and other factor-regulated calcium reabsorption	pp	Vasopressin-regulated water reabsorption
+Endocrine and other factor-regulated calcium reabsorption	pp	Proximal tubule bicarbonate reclamation
+Endocrine and other factor-regulated calcium reabsorption	pp	Salivary secretion
+Endocrine and other factor-regulated calcium reabsorption	pp	Gastric acid secretion
+Endocrine and other factor-regulated calcium reabsorption	pp	Pancreatic secretion
+Endocrine and other factor-regulated calcium reabsorption	pp	Carbohydrate digestion and absorption
+Endocrine and other factor-regulated calcium reabsorption	pp	Bile secretion
+Endocrine and other factor-regulated calcium reabsorption	pp	Mineral absorption
+Endocrine and other factor-regulated calcium reabsorption	pp	Vibrio cholerae infection
+Endocrine and other factor-regulated calcium reabsorption	pp	African trypanosomiasis
+Endocrine and other factor-regulated calcium reabsorption	pp	Amoebiasis
+Vasopressin-regulated water reabsorption	pp	Cocaine addiction
+Vasopressin-regulated water reabsorption	pp	Amphetamine addiction
+Proximal tubule bicarbonate reclamation	pp	Salivary secretion
+Proximal tubule bicarbonate reclamation	pp	Gastric acid secretion
+Proximal tubule bicarbonate reclamation	pp	Pancreatic secretion
+Proximal tubule bicarbonate reclamation	pp	Carbohydrate digestion and absorption
+Proximal tubule bicarbonate reclamation	pp	Protein digestion and absorption
+Proximal tubule bicarbonate reclamation	pp	Bile secretion
+Proximal tubule bicarbonate reclamation	pp	Mineral absorption
+Collecting duct acid secretion	pp	Vibrio cholerae infection
+Collecting duct acid secretion	pp	Epithelial cell signaling in Helicobacter pylori infection
+Collecting duct acid secretion	pp	Rheumatoid arthritis
+Salivary secretion	pp	Gastric acid secretion
+Salivary secretion	pp	Pancreatic secretion
+Salivary secretion	pp	Carbohydrate digestion and absorption
+Salivary secretion	pp	Bile secretion
+Salivary secretion	pp	Amphetamine addiction
+Salivary secretion	pp	Morphine addiction
+Salivary secretion	pp	Dilated cardiomyopathy
+Gastric acid secretion	pp	Pancreatic secretion
+Gastric acid secretion	pp	Carbohydrate digestion and absorption
+Gastric acid secretion	pp	Bile secretion
+Gastric acid secretion	pp	Amphetamine addiction
+Gastric acid secretion	pp	Morphine addiction
+Gastric acid secretion	pp	Vibrio cholerae infection
+Gastric acid secretion	pp	Glioma
+Gastric acid secretion	pp	Dilated cardiomyopathy
+Pancreatic secretion	pp	Carbohydrate digestion and absorption
+Pancreatic secretion	pp	Protein digestion and absorption
+Pancreatic secretion	pp	Fat digestion and absorption
+Pancreatic secretion	pp	Bile secretion
+Carbohydrate digestion and absorption	pp	Bile secretion
+Carbohydrate digestion and absorption	pp	Mineral absorption
+Carbohydrate digestion and absorption	pp	Chagas disease (American trypanosomiasis)
+Carbohydrate digestion and absorption	pp	Colorectal cancer
+Carbohydrate digestion and absorption	pp	Renal cell carcinoma
+Carbohydrate digestion and absorption	pp	Pancreatic cancer
+Carbohydrate digestion and absorption	pp	Endometrial cancer
+Carbohydrate digestion and absorption	pp	Glioma
+Carbohydrate digestion and absorption	pp	Prostate cancer
+Carbohydrate digestion and absorption	pp	Melanoma
+Carbohydrate digestion and absorption	pp	Chronic myeloid leukemia
+Carbohydrate digestion and absorption	pp	Acute myeloid leukemia
+Carbohydrate digestion and absorption	pp	Small cell lung cancer
+Carbohydrate digestion and absorption	pp	Non-small cell lung cancer
+Carbohydrate digestion and absorption	pp	Central carbon metabolism in cancer
+Carbohydrate digestion and absorption	pp	Choline metabolism in cancer
+Protein digestion and absorption	pp	Mineral absorption
+Protein digestion and absorption	pp	Amoebiasis
+Fat digestion and absorption	pp	Vitamin digestion and absorption
+Bile secretion	pp	Mineral absorption
+Bile secretion	pp	Morphine addiction
+Bile secretion	pp	Dilated cardiomyopathy
+Alzheimer's disease	pp	Parkinson's disease
+Alzheimer's disease	pp	Amyotrophic lateral sclerosis (ALS)
+Alzheimer's disease	pp	Huntington's disease
+Parkinson's disease	pp	Huntington's disease
+Amyotrophic lateral sclerosis (ALS)	pp	Amphetamine addiction
+Amyotrophic lateral sclerosis (ALS)	pp	Toxoplasmosis
+Amyotrophic lateral sclerosis (ALS)	pp	Tuberculosis
+Prion diseases	pp	Pertussis
+Cocaine addiction	pp	Amphetamine addiction
+Cocaine addiction	pp	Nicotine addiction
+Cocaine addiction	pp	Alcoholism
+Amphetamine addiction	pp	Nicotine addiction
+Amphetamine addiction	pp	Alcoholism
+Amphetamine addiction	pp	Glioma
+Morphine addiction	pp	Nicotine addiction
+Morphine addiction	pp	Alcoholism
+Alcoholism	pp	Viral carcinogenesis
+Alcoholism	pp	Glioma
+Alcoholism	pp	Systemic lupus erythematosus
+Bacterial invasion of epithelial cells	pp	Pathogenic Escherichia coli infection
+Bacterial invasion of epithelial cells	pp	Shigellosis
+Bacterial invasion of epithelial cells	pp	Salmonella infection
+Bacterial invasion of epithelial cells	pp	Proteoglycans in cancer
+Bacterial invasion of epithelial cells	pp	Renal cell carcinoma
+Bacterial invasion of epithelial cells	pp	Endometrial cancer
+Bacterial invasion of epithelial cells	pp	Glioma
+Bacterial invasion of epithelial cells	pp	Chronic myeloid leukemia
+Vibrio cholerae infection	pp	Epithelial cell signaling in Helicobacter pylori infection
+Vibrio cholerae infection	pp	Rheumatoid arthritis
+Epithelial cell signaling in Helicobacter pylori infection	pp	Shigellosis
+Epithelial cell signaling in Helicobacter pylori infection	pp	Salmonella infection
+Epithelial cell signaling in Helicobacter pylori infection	pp	Pertussis
+Epithelial cell signaling in Helicobacter pylori infection	pp	Chagas disease (American trypanosomiasis)
+Epithelial cell signaling in Helicobacter pylori infection	pp	Tuberculosis
+Epithelial cell signaling in Helicobacter pylori infection	pp	Pancreatic cancer
+Epithelial cell signaling in Helicobacter pylori infection	pp	Rheumatoid arthritis
+Pathogenic Escherichia coli infection	pp	Shigellosis
+Pathogenic Escherichia coli infection	pp	Salmonella infection
+Shigellosis	pp	Salmonella infection
+Shigellosis	pp	Pertussis
+Shigellosis	pp	Leishmaniasis
+Shigellosis	pp	Chagas disease (American trypanosomiasis)
+Shigellosis	pp	Toxoplasmosis
+Shigellosis	pp	Hepatitis C
+Shigellosis	pp	Pancreatic cancer
+Shigellosis	pp	Chronic myeloid leukemia
+Salmonella infection	pp	Pertussis
+Salmonella infection	pp	Legionellosis
+Salmonella infection	pp	Leishmaniasis
+Salmonella infection	pp	Chagas disease (American trypanosomiasis)
+Salmonella infection	pp	Toxoplasmosis
+Salmonella infection	pp	Tuberculosis
+Salmonella infection	pp	Influenza A
+Pertussis	pp	Legionellosis
+Pertussis	pp	Leishmaniasis
+Pertussis	pp	Chagas disease (American trypanosomiasis)
+Pertussis	pp	Toxoplasmosis
+Pertussis	pp	Amoebiasis
+Pertussis	pp	Staphylococcus aureus infection
+Pertussis	pp	Tuberculosis
+Pertussis	pp	Hepatitis C
+Pertussis	pp	Hepatitis B
+Pertussis	pp	Influenza A
+Pertussis	pp	Inflammatory bowel disease (IBD)
+Legionellosis	pp	Leishmaniasis
+Legionellosis	pp	Chagas disease (American trypanosomiasis)
+Legionellosis	pp	African trypanosomiasis
+Legionellosis	pp	Malaria
+Legionellosis	pp	Toxoplasmosis
+Legionellosis	pp	Amoebiasis
+Legionellosis	pp	Tuberculosis
+Legionellosis	pp	Measles
+Legionellosis	pp	Influenza A
+Legionellosis	pp	Inflammatory bowel disease (IBD)
+Leishmaniasis	pp	Chagas disease (American trypanosomiasis)
+Leishmaniasis	pp	Malaria
+Leishmaniasis	pp	Toxoplasmosis
+Leishmaniasis	pp	Amoebiasis
+Leishmaniasis	pp	Staphylococcus aureus infection
+Leishmaniasis	pp	Tuberculosis
+Leishmaniasis	pp	Hepatitis B
+Leishmaniasis	pp	Measles
+Leishmaniasis	pp	Influenza A
+Leishmaniasis	pp	HTLV-I infection
+Leishmaniasis	pp	Herpes simplex infection
+Leishmaniasis	pp	Epstein-Barr virus infection
+Leishmaniasis	pp	Asthma
+Leishmaniasis	pp	Autoimmune thyroid disease
+Leishmaniasis	pp	Inflammatory bowel disease (IBD)
+Leishmaniasis	pp	Systemic lupus erythematosus
+Leishmaniasis	pp	Rheumatoid arthritis
+Leishmaniasis	pp	Allograft rejection
+Leishmaniasis	pp	Graft-versus-host disease
+Leishmaniasis	pp	Viral myocarditis
+Chagas disease (American trypanosomiasis)	pp	African trypanosomiasis
+Chagas disease (American trypanosomiasis)	pp	Malaria
+Chagas disease (American trypanosomiasis)	pp	Toxoplasmosis
+Chagas disease (American trypanosomiasis)	pp	Amoebiasis
+Chagas disease (American trypanosomiasis)	pp	Tuberculosis
+Chagas disease (American trypanosomiasis)	pp	Hepatitis C
+Chagas disease (American trypanosomiasis)	pp	Hepatitis B
+Chagas disease (American trypanosomiasis)	pp	Measles
+Chagas disease (American trypanosomiasis)	pp	Influenza A
+Chagas disease (American trypanosomiasis)	pp	HTLV-I infection
+Chagas disease (American trypanosomiasis)	pp	Herpes simplex infection
+Chagas disease (American trypanosomiasis)	pp	Epstein-Barr virus infection
+Chagas disease (American trypanosomiasis)	pp	Pathways in cancer
+Chagas disease (American trypanosomiasis)	pp	Proteoglycans in cancer
+Chagas disease (American trypanosomiasis)	pp	Colorectal cancer
+Chagas disease (American trypanosomiasis)	pp	Renal cell carcinoma
+Chagas disease (American trypanosomiasis)	pp	Pancreatic cancer
+Chagas disease (American trypanosomiasis)	pp	Endometrial cancer
+Chagas disease (American trypanosomiasis)	pp	Prostate cancer
+Chagas disease (American trypanosomiasis)	pp	Chronic myeloid leukemia
+Chagas disease (American trypanosomiasis)	pp	Acute myeloid leukemia
+Chagas disease (American trypanosomiasis)	pp	Small cell lung cancer
+Chagas disease (American trypanosomiasis)	pp	Non-small cell lung cancer
+Chagas disease (American trypanosomiasis)	pp	Choline metabolism in cancer
+Chagas disease (American trypanosomiasis)	pp	Inflammatory bowel disease (IBD)
+Chagas disease (American trypanosomiasis)	pp	Rheumatoid arthritis
+African trypanosomiasis	pp	Malaria
+African trypanosomiasis	pp	Amoebiasis
+African trypanosomiasis	pp	Inflammatory bowel disease (IBD)
+African trypanosomiasis	pp	Allograft rejection
+African trypanosomiasis	pp	Graft-versus-host disease
+Malaria	pp	Amoebiasis
+Malaria	pp	Inflammatory bowel disease (IBD)
+Malaria	pp	Rheumatoid arthritis
+Toxoplasmosis	pp	Amoebiasis
+Toxoplasmosis	pp	Staphylococcus aureus infection
+Toxoplasmosis	pp	Tuberculosis
+Toxoplasmosis	pp	Hepatitis C
+Toxoplasmosis	pp	Hepatitis B
+Toxoplasmosis	pp	Measles
+Toxoplasmosis	pp	Influenza A
+Toxoplasmosis	pp	HTLV-I infection
+Toxoplasmosis	pp	Herpes simplex infection
+Toxoplasmosis	pp	Epstein-Barr virus infection
+Toxoplasmosis	pp	Pathways in cancer
+Toxoplasmosis	pp	Colorectal cancer
+Toxoplasmosis	pp	Renal cell carcinoma
+Toxoplasmosis	pp	Pancreatic cancer
+Toxoplasmosis	pp	Endometrial cancer
+Toxoplasmosis	pp	Prostate cancer
+Toxoplasmosis	pp	Chronic myeloid leukemia
+Toxoplasmosis	pp	Acute myeloid leukemia
+Toxoplasmosis	pp	Small cell lung cancer
+Toxoplasmosis	pp	Non-small cell lung cancer
+Toxoplasmosis	pp	Asthma
+Toxoplasmosis	pp	Autoimmune thyroid disease
+Toxoplasmosis	pp	Inflammatory bowel disease (IBD)
+Toxoplasmosis	pp	Rheumatoid arthritis
+Toxoplasmosis	pp	Allograft rejection
+Toxoplasmosis	pp	Graft-versus-host disease
+Toxoplasmosis	pp	Viral myocarditis
+Amoebiasis	pp	Hepatitis B
+Amoebiasis	pp	Pathways in cancer
+Amoebiasis	pp	Small cell lung cancer
+Staphylococcus aureus infection	pp	Tuberculosis
+Staphylococcus aureus infection	pp	Asthma
+Staphylococcus aureus infection	pp	Autoimmune thyroid disease
+Staphylococcus aureus infection	pp	Inflammatory bowel disease (IBD)
+Staphylococcus aureus infection	pp	Systemic lupus erythematosus
+Staphylococcus aureus infection	pp	Rheumatoid arthritis
+Staphylococcus aureus infection	pp	Allograft rejection
+Staphylococcus aureus infection	pp	Graft-versus-host disease
+Staphylococcus aureus infection	pp	Viral myocarditis
+Tuberculosis	pp	Hepatitis C
+Tuberculosis	pp	Hepatitis B
+Tuberculosis	pp	Measles
+Tuberculosis	pp	Influenza A
+Tuberculosis	pp	HTLV-I infection
+Tuberculosis	pp	Herpes simplex infection
+Tuberculosis	pp	Epstein-Barr virus infection
+Tuberculosis	pp	Asthma
+Tuberculosis	pp	Autoimmune thyroid disease
+Tuberculosis	pp	Inflammatory bowel disease (IBD)
+Tuberculosis	pp	Rheumatoid arthritis
+Tuberculosis	pp	Allograft rejection
+Tuberculosis	pp	Graft-versus-host disease
+Tuberculosis	pp	Viral myocarditis
+Hepatitis C	pp	Hepatitis B
+Hepatitis C	pp	Measles
+Hepatitis C	pp	Influenza A
+Hepatitis C	pp	Herpes simplex infection
+Hepatitis C	pp	Epstein-Barr virus infection
+Hepatitis C	pp	Viral carcinogenesis
+Hepatitis C	pp	Proteoglycans in cancer
+Hepatitis C	pp	Colorectal cancer
+Hepatitis C	pp	Renal cell carcinoma
+Hepatitis C	pp	Pancreatic cancer
+Hepatitis C	pp	Endometrial cancer
+Hepatitis C	pp	Glioma
+Hepatitis C	pp	Prostate cancer
+Hepatitis C	pp	Melanoma
+Hepatitis C	pp	Chronic myeloid leukemia
+Hepatitis C	pp	Acute myeloid leukemia
+Hepatitis C	pp	Small cell lung cancer
+Hepatitis C	pp	Non-small cell lung cancer
+Hepatitis C	pp	Central carbon metabolism in cancer
+Hepatitis C	pp	Choline metabolism in cancer
+Hepatitis B	pp	Measles
+Hepatitis B	pp	Influenza A
+Hepatitis B	pp	HTLV-I infection
+Hepatitis B	pp	Herpes simplex infection
+Hepatitis B	pp	Epstein-Barr virus infection
+Hepatitis B	pp	Pathways in cancer
+Hepatitis B	pp	Viral carcinogenesis
+Hepatitis B	pp	Proteoglycans in cancer
+Hepatitis B	pp	Colorectal cancer
+Hepatitis B	pp	Renal cell carcinoma
+Hepatitis B	pp	Pancreatic cancer
+Hepatitis B	pp	Endometrial cancer
+Hepatitis B	pp	Glioma
+Hepatitis B	pp	Prostate cancer
+Hepatitis B	pp	Melanoma
+Hepatitis B	pp	Bladder cancer
+Hepatitis B	pp	Chronic myeloid leukemia
+Hepatitis B	pp	Acute myeloid leukemia
+Hepatitis B	pp	Small cell lung cancer
+Hepatitis B	pp	Non-small cell lung cancer
+Hepatitis B	pp	Central carbon metabolism in cancer
+Hepatitis B	pp	Choline metabolism in cancer
+Measles	pp	Influenza A
+Measles	pp	Herpes simplex infection
+Measles	pp	Epstein-Barr virus infection
+Measles	pp	Viral carcinogenesis
+Measles	pp	Pancreatic cancer
+Measles	pp	Prostate cancer
+Measles	pp	Chronic myeloid leukemia
+Measles	pp	Acute myeloid leukemia
+Measles	pp	Small cell lung cancer
+Measles	pp	Autoimmune thyroid disease
+Measles	pp	Inflammatory bowel disease (IBD)
+Influenza A	pp	HTLV-I infection
+Influenza A	pp	Herpes simplex infection
+Influenza A	pp	Epstein-Barr virus infection
+Influenza A	pp	Colorectal cancer
+Influenza A	pp	Pancreatic cancer
+Influenza A	pp	Prostate cancer
+Influenza A	pp	Acute myeloid leukemia
+Influenza A	pp	Non-small cell lung cancer
+Influenza A	pp	Asthma
+Influenza A	pp	Autoimmune thyroid disease
+Influenza A	pp	Inflammatory bowel disease (IBD)
+Influenza A	pp	Rheumatoid arthritis
+Influenza A	pp	Allograft rejection
+Influenza A	pp	Graft-versus-host disease
+Influenza A	pp	Viral myocarditis
+HTLV-I infection	pp	Herpes simplex infection
+HTLV-I infection	pp	Epstein-Barr virus infection
+HTLV-I infection	pp	Pathways in cancer
+HTLV-I infection	pp	Viral carcinogenesis
+HTLV-I infection	pp	Proteoglycans in cancer
+HTLV-I infection	pp	Colorectal cancer
+HTLV-I infection	pp	Pancreatic cancer
+HTLV-I infection	pp	Glioma
+HTLV-I infection	pp	Prostate cancer
+HTLV-I infection	pp	Basal cell carcinoma
+HTLV-I infection	pp	Chronic myeloid leukemia
+HTLV-I infection	pp	Inflammatory bowel disease (IBD)
+HTLV-I infection	pp	Allograft rejection
+HTLV-I infection	pp	Graft-versus-host disease
+HTLV-I infection	pp	Viral myocarditis
+Herpes simplex infection	pp	Epstein-Barr virus infection
+Herpes simplex infection	pp	Viral carcinogenesis
+Herpes simplex infection	pp	Autoimmune thyroid disease
+Herpes simplex infection	pp	Inflammatory bowel disease (IBD)
+Herpes simplex infection	pp	Rheumatoid arthritis
+Herpes simplex infection	pp	Allograft rejection
+Herpes simplex infection	pp	Graft-versus-host disease
+Herpes simplex infection	pp	Viral myocarditis
+Epstein-Barr virus infection	pp	Viral carcinogenesis
+Epstein-Barr virus infection	pp	Pancreatic cancer
+Epstein-Barr virus infection	pp	Prostate cancer
+Epstein-Barr virus infection	pp	Chronic myeloid leukemia
+Epstein-Barr virus infection	pp	Small cell lung cancer
+Pathways in cancer	pp	Viral carcinogenesis
+Pathways in cancer	pp	Proteoglycans in cancer
+Pathways in cancer	pp	Colorectal cancer
+Pathways in cancer	pp	Renal cell carcinoma
+Pathways in cancer	pp	Pancreatic cancer
+Pathways in cancer	pp	Endometrial cancer
+Pathways in cancer	pp	Glioma
+Pathways in cancer	pp	Prostate cancer
+Pathways in cancer	pp	Basal cell carcinoma
+Pathways in cancer	pp	Melanoma
+Pathways in cancer	pp	Bladder cancer
+Pathways in cancer	pp	Chronic myeloid leukemia
+Pathways in cancer	pp	Acute myeloid leukemia
+Pathways in cancer	pp	Small cell lung cancer
+Pathways in cancer	pp	Non-small cell lung cancer
+Pathways in cancer	pp	Choline metabolism in cancer
+Viral carcinogenesis	pp	Pancreatic cancer
+Viral carcinogenesis	pp	Glioma
+Viral carcinogenesis	pp	Prostate cancer
+Viral carcinogenesis	pp	Chronic myeloid leukemia
+Viral carcinogenesis	pp	Acute myeloid leukemia
+Viral carcinogenesis	pp	Small cell lung cancer
+Viral carcinogenesis	pp	Systemic lupus erythematosus
+Proteoglycans in cancer	pp	MicroRNAs in cancer
+Proteoglycans in cancer	pp	Colorectal cancer
+Proteoglycans in cancer	pp	Renal cell carcinoma
+Proteoglycans in cancer	pp	Pancreatic cancer
+Proteoglycans in cancer	pp	Endometrial cancer
+Proteoglycans in cancer	pp	Glioma
+Proteoglycans in cancer	pp	Prostate cancer
+Proteoglycans in cancer	pp	Basal cell carcinoma
+Proteoglycans in cancer	pp	Melanoma
+Proteoglycans in cancer	pp	Bladder cancer
+Proteoglycans in cancer	pp	Chronic myeloid leukemia
+Proteoglycans in cancer	pp	Acute myeloid leukemia
+Proteoglycans in cancer	pp	Non-small cell lung cancer
+Proteoglycans in cancer	pp	Central carbon metabolism in cancer
+Proteoglycans in cancer	pp	Choline metabolism in cancer
+MicroRNAs in cancer	pp	Glioma
+MicroRNAs in cancer	pp	Prostate cancer
+MicroRNAs in cancer	pp	Chronic myeloid leukemia
+Colorectal cancer	pp	Renal cell carcinoma
+Colorectal cancer	pp	Pancreatic cancer
+Colorectal cancer	pp	Endometrial cancer
+Colorectal cancer	pp	Glioma
+Colorectal cancer	pp	Prostate cancer
+Colorectal cancer	pp	Thyroid cancer
+Colorectal cancer	pp	Basal cell carcinoma
+Colorectal cancer	pp	Melanoma
+Colorectal cancer	pp	Bladder cancer
+Colorectal cancer	pp	Chronic myeloid leukemia
+Colorectal cancer	pp	Acute myeloid leukemia
+Colorectal cancer	pp	Small cell lung cancer
+Colorectal cancer	pp	Non-small cell lung cancer
+Colorectal cancer	pp	Central carbon metabolism in cancer
+Colorectal cancer	pp	Choline metabolism in cancer
+Renal cell carcinoma	pp	Pancreatic cancer
+Renal cell carcinoma	pp	Endometrial cancer
+Renal cell carcinoma	pp	Glioma
+Renal cell carcinoma	pp	Prostate cancer
+Renal cell carcinoma	pp	Thyroid cancer
+Renal cell carcinoma	pp	Melanoma
+Renal cell carcinoma	pp	Bladder cancer
+Renal cell carcinoma	pp	Chronic myeloid leukemia
+Renal cell carcinoma	pp	Acute myeloid leukemia
+Renal cell carcinoma	pp	Non-small cell lung cancer
+Renal cell carcinoma	pp	Central carbon metabolism in cancer
+Renal cell carcinoma	pp	Choline metabolism in cancer
+Pancreatic cancer	pp	Endometrial cancer
+Pancreatic cancer	pp	Glioma
+Pancreatic cancer	pp	Prostate cancer
+Pancreatic cancer	pp	Melanoma
+Pancreatic cancer	pp	Bladder cancer
+Pancreatic cancer	pp	Chronic myeloid leukemia
+Pancreatic cancer	pp	Acute myeloid leukemia
+Pancreatic cancer	pp	Small cell lung cancer
+Pancreatic cancer	pp	Non-small cell lung cancer
+Pancreatic cancer	pp	Central carbon metabolism in cancer
+Pancreatic cancer	pp	Choline metabolism in cancer
+Endometrial cancer	pp	Glioma
+Endometrial cancer	pp	Prostate cancer
+Endometrial cancer	pp	Thyroid cancer
+Endometrial cancer	pp	Basal cell carcinoma
+Endometrial cancer	pp	Melanoma
+Endometrial cancer	pp	Bladder cancer
+Endometrial cancer	pp	Chronic myeloid leukemia
+Endometrial cancer	pp	Acute myeloid leukemia
+Endometrial cancer	pp	Small cell lung cancer
+Endometrial cancer	pp	Non-small cell lung cancer
+Endometrial cancer	pp	Central carbon metabolism in cancer
+Endometrial cancer	pp	Choline metabolism in cancer
+Glioma	pp	Prostate cancer
+Glioma	pp	Thyroid cancer
+Glioma	pp	Melanoma
+Glioma	pp	Bladder cancer
+Glioma	pp	Chronic myeloid leukemia
+Glioma	pp	Acute myeloid leukemia
+Glioma	pp	Small cell lung cancer
+Glioma	pp	Non-small cell lung cancer
+Glioma	pp	Central carbon metabolism in cancer
+Glioma	pp	Choline metabolism in cancer
+Prostate cancer	pp	Thyroid cancer
+Prostate cancer	pp	Melanoma
+Prostate cancer	pp	Bladder cancer
+Prostate cancer	pp	Chronic myeloid leukemia
+Prostate cancer	pp	Acute myeloid leukemia
+Prostate cancer	pp	Small cell lung cancer
+Prostate cancer	pp	Non-small cell lung cancer
+Prostate cancer	pp	Central carbon metabolism in cancer
+Prostate cancer	pp	Choline metabolism in cancer
+Thyroid cancer	pp	Melanoma
+Thyroid cancer	pp	Bladder cancer
+Thyroid cancer	pp	Chronic myeloid leukemia
+Thyroid cancer	pp	Acute myeloid leukemia
+Thyroid cancer	pp	Non-small cell lung cancer
+Thyroid cancer	pp	Central carbon metabolism in cancer
+Melanoma	pp	Bladder cancer
+Melanoma	pp	Chronic myeloid leukemia
+Melanoma	pp	Acute myeloid leukemia
+Melanoma	pp	Small cell lung cancer
+Melanoma	pp	Non-small cell lung cancer
+Melanoma	pp	Central carbon metabolism in cancer
+Melanoma	pp	Choline metabolism in cancer
+Bladder cancer	pp	Chronic myeloid leukemia
+Bladder cancer	pp	Acute myeloid leukemia
+Bladder cancer	pp	Non-small cell lung cancer
+Bladder cancer	pp	Central carbon metabolism in cancer
+Chronic myeloid leukemia	pp	Acute myeloid leukemia
+Chronic myeloid leukemia	pp	Small cell lung cancer
+Chronic myeloid leukemia	pp	Non-small cell lung cancer
+Chronic myeloid leukemia	pp	Central carbon metabolism in cancer
+Chronic myeloid leukemia	pp	Choline metabolism in cancer
+Acute myeloid leukemia	pp	Small cell lung cancer
+Acute myeloid leukemia	pp	Non-small cell lung cancer
+Acute myeloid leukemia	pp	Central carbon metabolism in cancer
+Acute myeloid leukemia	pp	Choline metabolism in cancer
+Small cell lung cancer	pp	Non-small cell lung cancer
+Small cell lung cancer	pp	Central carbon metabolism in cancer
+Non-small cell lung cancer	pp	Central carbon metabolism in cancer
+Non-small cell lung cancer	pp	Choline metabolism in cancer
+Central carbon metabolism in cancer	pp	Choline metabolism in cancer
+Asthma	pp	Autoimmune thyroid disease
+Asthma	pp	Inflammatory bowel disease (IBD)
+Asthma	pp	Systemic lupus erythematosus
+Asthma	pp	Rheumatoid arthritis
+Asthma	pp	Allograft rejection
+Asthma	pp	Graft-versus-host disease
+Asthma	pp	Viral myocarditis
+Autoimmune thyroid disease	pp	Inflammatory bowel disease (IBD)
+Autoimmune thyroid disease	pp	Systemic lupus erythematosus
+Autoimmune thyroid disease	pp	Rheumatoid arthritis
+Autoimmune thyroid disease	pp	Allograft rejection
+Autoimmune thyroid disease	pp	Graft-versus-host disease
+Autoimmune thyroid disease	pp	Viral myocarditis
+Inflammatory bowel disease (IBD)	pp	Systemic lupus erythematosus
+Inflammatory bowel disease (IBD)	pp	Rheumatoid arthritis
+Inflammatory bowel disease (IBD)	pp	Allograft rejection
+Inflammatory bowel disease (IBD)	pp	Graft-versus-host disease
+Inflammatory bowel disease (IBD)	pp	Viral myocarditis
+Systemic lupus erythematosus	pp	Rheumatoid arthritis
+Systemic lupus erythematosus	pp	Allograft rejection
+Systemic lupus erythematosus	pp	Graft-versus-host disease
+Systemic lupus erythematosus	pp	Viral myocarditis
+Rheumatoid arthritis	pp	Allograft rejection
+Rheumatoid arthritis	pp	Graft-versus-host disease
+Rheumatoid arthritis	pp	Viral myocarditis
+Allograft rejection	pp	Graft-versus-host disease
+Allograft rejection	pp	Viral myocarditis
+Graft-versus-host disease	pp	Viral myocarditis
+Hypertrophic cardiomyopathy (HCM)	pp	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Hypertrophic cardiomyopathy (HCM)	pp	Dilated cardiomyopathy
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)	pp	Dilated cardiomyopathy

@@ -1,0 +1,24 @@
+23 elements included exclusively in "microT-CDS":
+Mucin type O-Glycan biosynthesis
+Phosphatidylinositol signaling system
+Ras signaling pathway
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+Fatty acid biosynthesis
+Morphine addiction
+GABAergic synapse
+Melanoma
+Adrenergic signaling in cardiomyocytes
+Glutamatergic synapse
+Prolactin signaling pathway
+Platelet activation
+PI3K-Akt signaling pathway
+Endocrine and other factor-regulated calcium reabsorption
+cAMP signaling pathway
+T cell receptor signaling pathway
+Nicotine addiction
+cGMP-PKG signaling pathway
+Dorso-ventral axis formation
+Cholinergic synapse
+2-Oxocarboxylic acid metabolism
+Oxytocin signaling pathway
+Retrograde endocannabinoid signaling

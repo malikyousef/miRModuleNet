@@ -1,0 +1,53 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Proteoglycans in cancer;5.21259166183e-07;179;74
+ECM-receptor interaction;3.73852021594e-06;71;65
+Endocytosis;1.57083113493e-05;184;73
+N-Glycan biosynthesis;0.000116157092277;43;63
+Glycosaminoglycan biosynthesis - keratan sulfate;0.00020913347229;15;38
+ErbB signaling pathway;0.00020913347229;79;73
+Focal adhesion;0.000308328016015;180;75
+Pathways in cancer;0.000308328016015;333;76
+Mucin type O-Glycan biosynthesis;0.000338136981084;27;56
+Axon guidance;0.00106313500122;112;68
+Bacterial invasion of epithelial cells;0.00133556695596;71;72
+Rap1 signaling pathway;0.00133556695596;181;74
+Phosphatidylinositol signaling system;0.00380877288836;70;68
+Glioma;0.00380877288836;57;72
+Renal cell carcinoma;0.00520633266389;60;70
+Arrhythmogenic right ventricular cardiomyopathy (ARVC);0.00624978018395;62;66
+Wnt signaling pathway;0.00806445613434;119;72
+Pancreatic cancer;0.00925882584042;59;68
+Hepatitis B;0.00925882584042;121;71
+Morphine addiction;0.00925882584042;79;73
+TGF-beta signaling pathway;0.0107311142301;68;71
+Hippo signaling pathway;0.0107311142301;127;71
+Ras signaling pathway;0.0107311142301;187;73
+FoxO signaling pathway;0.011030884751;114;70
+Thyroid hormone signaling pathway;0.0161899901134;100;71
+Small cell lung cancer;0.0224759576088;75;72
+Lysine degradation;0.0247454400979;42;66
+Fatty acid biosynthesis;0.025104621227;10;37
+Protein processing in endoplasmic reticulum;0.0278931599993;136;70
+Acute myeloid leukemia;0.0288739494623;50;68
+Adherens junction;0.0288739494623;64;69
+Signaling pathways regulating pluripotency of stem cells;0.0288739494623;119;75
+AMPK signaling pathway;0.0313315381964;106;74
+Endometrial cancer;0.0344294505239;46;64
+GABAergic synapse;0.0344294505239;75;73
+Neurotrophin signaling pathway;0.0344294505239;102;75
+ABC transporters;0.0365156511803;40;58
+Gap junction;0.0365156511803;74;70
+PI3K-Akt signaling pathway;0.0365156511803;277;76
+Amphetamine addiction;0.0398719374447;55;66
+mRNA surveillance pathway;0.0401071645518;76;65
+Adrenergic signaling in cardiomyocytes;0.0402342030947;120;71
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin;0.0412779415934;20;60
+Cholinergic synapse;0.0417907648862;94;71
+Platelet activation;0.04180544093;107;72
+Type II diabetes mellitus;0.0457252900513;43;67
+Choline metabolism in cancer;0.0457252900513;87;74
+Nicotine addiction;0.0460559882007;33;66
+Endocrine and other factor-regulated calcium reabsorption;0.048861711433;40;64
+Colorectal cancer;0.048861711433;54;69
+Oxytocin signaling pathway;0.048861711433;131;74
+MAPK signaling pathway;0.048861711433;207;75

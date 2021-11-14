@@ -1,0 +1,7 @@
+hsa-miR-25-3p	pp	ANKMY2
+hsa-miR-25-3p	pp	TMLHE
+hsa-miR-25-3p	pp	LONRF3
+hsa-miR-25-3p	pp	PLEKHA2
+hsa-miR-25-3p	pp	LCA5
+hsa-miR-25-3p	pp	FRMD6
+hsa-miR-25-3p	pp	STK33

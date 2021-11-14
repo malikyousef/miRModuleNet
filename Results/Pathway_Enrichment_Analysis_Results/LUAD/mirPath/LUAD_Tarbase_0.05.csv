@@ -1,0 +1,94 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Proteoglycans in cancer;2.61965929572e-16;181;87
+Cell cycle;9.93611907782e-13;115;85
+Fatty acid metabolism;7.97908298246e-10;38;74
+Viral carcinogenesis;1.02002068208e-09;177;85
+Protein processing in endoplasmic reticulum;1.725227671e-09;149;85
+Renal cell carcinoma;6.71138435006e-09;64;84
+Pancreatic cancer;2.05381468526e-08;63;83
+Adherens junction;2.05381468526e-08;68;87
+N-Glycan biosynthesis;4.35811756915e-08;45;70
+Hippo signaling pathway;7.00823524964e-08;130;86
+TGF-beta signaling pathway;4.70551584775e-07;72;81
+Pathways in cancer;6.61401253909e-07;320;87
+Chronic myeloid leukemia;1.39143170916e-06;68;86
+Ubiquitin mediated proteolysis;1.683424622e-06;121;86
+Colorectal cancer;2.08723462816e-06;59;83
+Lysine degradation;2.2974017973e-06;44;81
+Spliceosome;3.34303298358e-06;118;84
+mTOR signaling pathway;7.40529243519e-06;57;83
+ErbB signaling pathway;9.47582050676e-06;77;84
+Endocytosis;1.4272141687e-05;172;86
+Fatty acid elongation;1.74757026679e-05;19;56
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate;2.09275836505e-05;18;50
+Prostate cancer;2.09275836505e-05;80;84
+Transcriptional misregulation in cancer;2.71435306492e-05;147;86
+Bacterial invasion of epithelial cells;3.41509916788e-05;68;87
+Sphingolipid signaling pathway;4.40291893489e-05;100;84
+RNA transport;5.10133736603e-05;143;84
+Ribosome;5.86626008885e-05;117;83
+Axon guidance;0.00010326338915;104;82
+Wnt signaling pathway;0.000109120343255;117;84
+Hepatitis B;0.000111520166862;118;85
+Acute myeloid leukemia;0.000115556429479;52;81
+TNF signaling pathway;0.000261337755621;94;84
+Focal adhesion;0.000261337755621;170;87
+Non-small cell lung cancer;0.000291586244667;49;82
+RNA degradation;0.000291586244667;68;84
+p53 signaling pathway;0.000370503648862;62;83
+Glycosaminoglycan biosynthesis - keratan sulfate;0.000374078424328;14;45
+Alzheimer's disease;0.000530165941537;138;86
+Inositol phosphate metabolism;0.000548264642593;52;78
+Glioma;0.000548264642593;55;84
+Endometrial cancer;0.000638131732037;47;82
+HTLV-I infection;0.000649175718634;208;86
+Signaling pathways regulating pluripotency of stem cells;0.000783331466652;115;84
+Thyroid hormone signaling pathway;0.000794527772484;98;84
+Fatty acid degradation;0.000868723944018;30;58
+Chagas disease (American trypanosomiasis);0.000876035768168;86;81
+SNARE interactions in vesicular transport;0.000883223011832;31;63
+Other types of O-glycan biosynthesis;0.00100607953265;24;55
+FoxO signaling pathway;0.00115597650048;112;84
+Shigellosis;0.00116920355295;55;84
+Small cell lung cancer;0.00117302247121;74;87
+Non-alcoholic fatty liver disease (NAFLD);0.00128528613072;123;84
+Oocyte meiosis;0.00158321696558;91;82
+HIF-1 signaling pathway;0.00201166621055;89;83
+Phosphatidylinositol signaling system;0.00207638116246;67;84
+Lysosome;0.00210674234694;99;83
+Steroid biosynthesis;0.00366863605976;17;53
+Huntington's disease;0.00415073025986;150;86
+Oxidative phosphorylation;0.00579218517145;102;78
+Fc gamma R-mediated phagocytosis;0.00581107456064;76;82
+Estrogen signaling pathway;0.0066639493768;80;84
+Protein export;0.00755006802651;22;63
+Circadian rhythm;0.0105855060203;28;74
+Thyroid cancer;0.0105855060203;26;75
+mRNA surveillance pathway;0.0108223813269;77;81
+Fatty acid biosynthesis;0.0111111802896;8;53
+Notch signaling pathway;0.0119130316362;42;80
+Fanconi anemia pathway;0.0119403577501;46;67
+Insulin signaling pathway;0.0119403577501;113;85
+Regulation of actin cytoskeleton;0.0119403577501;164;86
+DNA replication;0.0120184185734;31;59
+VEGF signaling pathway;0.0127206165367;52;80
+Toxoplasmosis;0.0127206165367;95;84
+MAPK signaling pathway;0.0127206165367;196;86
+Neurotrophin signaling pathway;0.0127206165367;98;86
+Vitamin B6 metabolism;0.0145986123505;6;25
+Progesterone-mediated oocyte maturation;0.0147348699853;73;81
+Pathogenic Escherichia coli infection;0.0167918532674;47;83
+2-Oxocarboxylic acid metabolism;0.0195505728105;14;43
+Proteasome;0.0231334628038;39;69
+AMPK signaling pathway;0.0243005438634;101;84
+Legionellosis;0.0266451844721;46;76
+Gap junction;0.0285727418379;69;80
+ECM-receptor interaction;0.0298231303765;61;80
+Prion diseases;0.0304976580402;23;68
+Citrate cycle (TCA cycle);0.0305518946217;26;61
+Epstein-Barr virus infection;0.0321435851576;159;85
+Rap1 signaling pathway;0.0329706180176;160;86
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin;0.044831560444;20;55
+Vibrio cholerae infection;0.044831560444;45;80
+Central carbon metabolism in cancer;0.0474530081847;55;83
+Sulfur metabolism;0.0497261824577;9;32

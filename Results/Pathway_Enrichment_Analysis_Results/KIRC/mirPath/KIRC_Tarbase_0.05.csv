@@ -1,0 +1,86 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Proteoglycans in cancer;6.40847942214e-17;158;43
+Viral carcinogenesis;1.56826916162e-12;153;42
+Protein processing in endoplasmic reticulum;3.81896010929e-11;137;41
+Adherens junction;3.9369774282e-10;62;41
+Cell cycle;9.30944003771e-10;101;42
+Ubiquitin mediated proteolysis;9.04232614296e-09;112;39
+Pancreatic cancer;9.04232614296e-09;57;40
+TNF signaling pathway;1.85556753112e-08;91;41
+RNA transport;6.59924164843e-08;133;42
+Chronic myeloid leukemia;8.16023236774e-08;63;40
+Hippo signaling pathway;2.10509762777e-07;110;40
+Spliceosome;3.26511539101e-07;105;42
+Colorectal cancer;3.71123916238e-07;54;41
+Renal cell carcinoma;4.64916018186e-07;57;42
+Pathways in cancer;4.64916018186e-07;279;43
+Non-alcoholic fatty liver disease (NAFLD);7.75021823457e-07;116;42
+Hepatitis B;2.83903150215e-06;104;41
+Prostate cancer;3.27334098237e-06;73;40
+p53 signaling pathway;3.69624929846e-06;58;41
+FoxO signaling pathway;4.56711504316e-06;105;42
+Fatty acid biosynthesis;8.00195645104e-06;9;22
+N-Glycan biosynthesis;8.00195645104e-06;38;34
+Thyroid hormone signaling pathway;8.00195645104e-06;90;43
+TGF-beta signaling pathway;4.50557575826e-05;59;38
+Glioma;4.50557575826e-05;50;40
+Endocytosis;4.50557575826e-05;148;42
+Neurotrophin signaling pathway;4.50557575826e-05;92;42
+Non-small cell lung cancer;4.669296527e-05;45;41
+Bacterial invasion of epithelial cells;7.15411049899e-05;59;40
+Sphingolipid signaling pathway;7.36473436237e-05;88;42
+Small cell lung cancer;0.000113989491391;68;40
+Acute myeloid leukemia;0.000157337502547;47;36
+Endometrial cancer;0.000160390795283;43;39
+Lysine degradation;0.000188216277841;36;38
+RNA degradation;0.000195417552085;62;41
+Estrogen signaling pathway;0.000233153712658;72;41
+Insulin signaling pathway;0.00029279378858;104;41
+AMPK signaling pathway;0.000475977748385;93;41
+Epstein-Barr virus infection;0.000570257003531;144;41
+mTOR signaling pathway;0.000606244979142;49;40
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate;0.000766412820271;15;20
+Focal adhesion;0.00087217558882;145;42
+Prion diseases;0.000989728186192;20;33
+Shigellosis;0.000989728186192;49;41
+Oocyte meiosis;0.00108542499651;79;41
+HTLV-I infection;0.00126622251912;178;43
+HIF-1 signaling pathway;0.00127787768986;79;42
+Oxidative phosphorylation;0.00129216864707;89;36
+Thyroid cancer;0.00143679730353;24;38
+Apoptosis;0.00159533682658;66;41
+mRNA surveillance pathway;0.00162297482364;70;42
+Fatty acid metabolism;0.00190201316983;31;37
+Central carbon metabolism in cancer;0.00195653345881;51;40
+Nucleotide excision repair;0.00271132585887;35;32
+Alzheimer's disease;0.00289814996071;116;44
+Regulation of actin cytoskeleton;0.0031053472196;143;43
+Prolactin signaling pathway;0.00313479096942;53;40
+Parkinson's disease;0.00331754026264;98;38
+Circadian rhythm;0.00440085909466;26;33
+Pathogenic Escherichia coli infection;0.00440085909466;43;39
+VEGF signaling pathway;0.00451006963794;47;41
+Transcriptional misregulation in cancer;0.00518629111678;117;41
+Steroid biosynthesis;0.00608105238;15;26
+Choline metabolism in cancer;0.00648980867014;73;40
+Signaling pathways regulating pluripotency of stem cells;0.00656469105236;96;42
+Huntington's disease;0.0070002116662;126;42
+Bladder cancer;0.00890640058294;30;37
+Citrate cycle (TCA cycle);0.00927217064507;24;27
+Other types of O-glycan biosynthesis;0.00976684748986;18;24
+Fc gamma R-mediated phagocytosis;0.011476406801;65;39
+B cell receptor signaling pathway;0.011476406801;53;41
+Wnt signaling pathway;0.011476406801;93;42
+Chagas disease (American trypanosomiasis);0.0141729532828;71;39
+Axon guidance;0.0141729532828;82;41
+ErbB signaling pathway;0.0181557455035;63;40
+SNARE interactions in vesicular transport;0.0224183276206;26;28
+Melanoma;0.0264511647481;49;39
+Basal transcription factors;0.0298102662521;34;31
+MAPK signaling pathway;0.0381690059944;164;43
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis;0.039844161387;18;18
+Amyotrophic lateral sclerosis (ALS);0.0445177764573;36;37
+Adipocytokine signaling pathway;0.0466690971794;48;34
+Inositol phosphate metabolism;0.0466690971794;43;36
+Toxoplasmosis;0.0473603300818;79;41
+Terpenoid backbone biosynthesis;0.0498036846545;16;23
